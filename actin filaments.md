@@ -2,3 +2,4 @@ located under [[lipid]] bilayer, bind to [[plasma membrane]] [[protein]]s, and p
 
 TARGET DECK: Biology
 Actin Filaments :: Cytoskeletal structures for cell shape and movement.
+<!--ID: 1691317032358-->
