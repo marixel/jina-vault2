@@ -1,6 +1,6 @@
 
-deck selection: 
-	TARGET DECK: Biology
+
+TARGET DECK: (example)
 question format:
-- Q: front
-- A: back 
+- front::back
+<!--ID: 1691313143603-->

@@ -104,28 +104,126 @@ More [[ATP]] will be produced from *reduced [[coenzymes]]* in mitochondria durin
 
 ### flashcards:
 TARGET DECK: Biology
-Q: What is anaerobic respiration? 
-	A: Anaerobic respiration is fermentation occurring when glycolysis lacks oxygen, allowing the process to continue in organisms without mitochondria.
+- - What is ATP? :: Adenosine Triphosphate; a molecule that stores and transfers energy in cells.
+<!--ID: 1691314827247-->
 
-Q: How is NAD+ involved in glycolysis and anaerobic respiration? 
-	A: NAD+ is reduced to NADH + H+ in glycolysis, and in anaerobic respiration, fermentation converts NADH back to NAD+.
+    
+- Why is the third phosphate bond in ATP called a high energy bond? :: Because energy is released when the bond is broken.
+    
+- What is NAD+? :: Nicotinamide Adenine Dinucleotide; an oxidizing agent that accepts electrons during redox reactions.
+    
+- Describe glycolysis. :: It is an anaerobic process where glucose is broken down and oxidized to form two pyruvate molecules, a net of two ATP, and two NADH.
+    
+- What happens during fermentation? :: It is an anaerobic respiration that recycles NADH to form NAD+ and allows glycolysis to continue.
+    
+- What does the Acetyl CoA step produce? :: NADH + H+, and CO2 during the conversion of pyruvate to acetyl CoA.
+    
+- Explain the Krebs cycle. :: Also known as the citric acid cycle, it produces 2 ATP, 6 NADH + H+, and 2 FADH2 for each glucose molecule from glycolysis.
+    
+- What is the Electron Transport Chain (ETC)? :: It is a series of exergonic redox reactions that create a proton gradient, which is used to fuel the synthesis of ATP.
+    
+- How much ATP is produced for each NADH and FADH2 that enters the ETC? :: 3 ATP are produced for each NADH, and 2 ATP are produced for each FADH2.
+    
+- What happens to glycerol during the breakdown of fats for energy? :: Glycerol enters glycolysis as glyceraldehyde 3-phosphate.
+    
+- What happens when glycolysis isn't available, allowing the process to continue in organisms without mitochondria? :: Fermentation happens.
+    
+- How is NADH recycled in anaerobic glycolysis (fermentation)? :: Fermentation accomplishes the same goal as NAD oxidization in aerobic respiration (NADH -> NAD+).
+    
+- What are the two types of fermentation? :: Alcohol fermentation and Lactate fermentation.
+    
+- Describe Alcohol fermentation. :: Pyruvate decarboxylated, forming acetaldehyde. Hydrogen atoms from NAD + H+ convert acetaldehyde to ethanol.
+    
+- Describe Lactate fermentation. :: 2 pyruvates converted to 2 lactic acid molecules, forming lactate when ionized. 2 NADH + H+ converted to 2 NAD+ (hydrogen ionizes lactate).
+    
+- When does aerobic respiration start? :: After pyruvate is produced from glycolysis.
+    
+- What happens during the Acetyl CoA step? :: Pyruvate is converted to acetyl CoA through decarboxylation, reduction of NAD+ (back to NADH + H+), and attachment of coenzyme A.
+    
+- Where does the Acetyl CoA step take place? :: In organisms with mitochondria and within the mitochondria.
+    
+- What is the Krebs Cycle? :: An 8-step cycle where acetyl CoA is added to oxaloacetate, producing CO2, reduced coenzymes (NADH + H+ and FADH2), and ATP.
+    
+- How does the Krebs cycle start? :: Acetyl CoA is added to oxaloacetate to form citrate.
+    
+- What happens in step 3 of the Krebs cycle? :: Isocitrate is decarboxylated and converted to alpha-ketoglutarate; NAD+ is reduced.
+    
+- What happens in step 5 of the Krebs cycle? :: Succinyl CoA releases CoA and makes GTP (which is hydrolyzed), forming succinate and releasing ATP.
+    
+- What happens in step 6 of the Krebs cycle? :: Succinate is converted to fumarate when FAD is reduced to form FADH2.
+    
+- What happens in step 8 of the Krebs cycle? :: Malate is converted to oxaloacetate after NAD+ is reduced.
+    
+- What sets up a proton gradient in the electron transport chain? :: Energy released from electrons of reduced coenzymes.
+    
+- How do proteins in the inner mitochondrial membrane pump protons? :: They use the energy lost from redox reactions.
+    
+- What is the final electron acceptor in the electron transport chain? :: Oxygen; it forms water with hydrogen.
+    
+- What is chemiosmosis? :: Movement of ions down a gradient, driving the production of ATP.
+    
+- What happens in the electron transport chain? :: Electrons are transferred between proteins, releasing energy and pumping protons from the inner membrane to the intermembrane space.
+    
+- What is ATP synthase? :: A protein complex that produces ATP from the movement of protons down the concentration gradient.
+    
+- How is ATP produced in oxidative phosphorylation? :: Through the movement of protons (H+) down the concentration gradient via ATP synthase.
+    
+- Where does oxidative phosphorylation occur? :: In the inner mitochondrial membrane.
+    
+- What is the total yield of ATP from aerobic respiration? :: 36 ATP.
+    
+- How much ATP is produced for each NADH and FADH2 that enters the electron transport chain? :: 1 NADH + H+ yields 3 ATP, 1 FADH2 yields 2 ATP.
+    
+- How many ATP come directly from glycolysis and the Krebs cycle? :: An extra 4 ATP.
+    
+- How are fats broken down for energy? :: Glycerol enters glycolysis as glyceraldehyde phosphate, and fatty acids are converted into acetyl CoA, skipping to the Krebs cycle.
+    
+- How can amino acid components be used in the respiratory pathway? :: When amino acids have their amine groups removed, processed, and excreted.
+    
+- What is the major control point in respiration? :: Phosphofructokinase, which can be stimulated or inhibited through allosteric feedback.
+    
+- Why is glycolysis considered primitive and occurs in all cells? :: Glycolysis evolved before the Krebs cycle and doesn't depend on a membrane-bound organelle.
+    
+- How did primitive glycolysis synthesize ATP/energy? :: By hydrolyzing hydrogen sulfide to form ATP.
 
-Q: What are the types of fermentation, and how do they occur? A: - Alcohol fermentation: Pyruvate is decarboxylated, forming acetaldehyde, converted to ethanol with NADH + H+.
+1. What is the main function of ATP? :: ATP serves as a molecule that stores and transfers energy within cells.
+<!--ID: 1691315248726-->
 
-- Lactate fermentation: Two pyruvates become two lactate molecules, with the conversion of two NADH + H+ to NAD+.
+    
+43. Why is the third phosphate bond in ATP considered a high-energy bond? :: The third phosphate bond in ATP is called a high-energy bond because it contains a significant amount of potential energy, and when it is broken, energy is released.
+<!--ID: 1691315248735-->
 
-Q: What happens in the Acetyl CoA step of [[aerobic]] respiration? A: The Acetyl CoA step converts pyruvate to acetyl CoA through decarboxylation, NAD+ reduction, and coenzyme A attachment for energy release.
+    
+44. What is NAD+? :: NAD+ stands for Nicotinamide Adenine Dinucleotide, and it is a coenzyme that acts as an oxidizing agent, accepting electrons during redox reactions.
+    
+45. Describe glycolysis. :: Glycolysis is the first step in both aerobic and anaerobic respiration, where one molecule of glucose is broken down into two molecules of pyruvate. During this process, a net gain of two ATP and two NADH molecules is produced.
+    
+46. What happens during fermentation? :: Fermentation is an anaerobic process that occurs when glycolysis cannot proceed in the presence of oxygen. It allows the continuation of glycolysis by recycling NADH back to NAD+.
+    
+47. What does the Acetyl CoA step produce? :: The Acetyl CoA step produces NADH + H+ and CO2 during the conversion of pyruvate to acetyl CoA before entering the Krebs cycle.
+    
+48. Explain the Krebs cycle. :: The Krebs cycle, also known as the citric acid cycle, is a series of biochemical reactions that occur in the mitochondria and produce ATP, NADH, FADH2, and CO2 through the oxidation of acetyl CoA.
+    
+49. What is the Electron Transport Chain (ETC)? :: The Electron Transport Chain is a series of protein complexes embedded in the inner mitochondrial membrane that transfer electrons and generate a proton gradient to produce ATP during oxidative phosphorylation.
+    
+50. How much ATP is produced for each NADH and FADH2 that enters the ETC? :: For each NADH molecule that enters the Electron Transport Chain, three ATP molecules are produced, and for each FADH2, two ATP molecules are produced.
+    
+51. How are fats broken down for energy? :: Fats are broken down into glycerol and fatty acids. Glycerol can enter glycolysis as glyceraldehyde 3-phosphate, while fatty acids are converted into acetyl CoA, which enters the Krebs cycle.
+    
+52. What is chemiosmosis? :: Chemiosmosis is the movement of ions, such as protons, down their concentration gradient across a membrane. This process drives the synthesis of ATP through the enzyme ATP synthase.
+    
+53. What is oxidative phosphorylation? :: Oxidative phosphorylation is the process by which ATP is produced through the transfer of electrons in the Electron Transport Chain and the coupling of this electron flow to the synthesis of ATP.
+<!--ID: 1691315248773-->
 
-Q: What is the Krebs cycle, and how does it work? A: The Krebs cycle is an 8-step process adding acetyl CoA to oxaloacetate, breaking it down, producing CO2, reduced coenzymes (NADH + H+ and FADH2), and ATP.
-
-Q: What is the net energy output for one glucose from glycolysis through the Krebs cycle? A: The net energy output is 4 ATP, 10 NADH + H+, and 2 FADH2. More ATP is produced from reduced coenzymes during electron transport chain and oxidative phosphorylation.
-
-Q: What happens in the Electron Transport Chain (ETC)? A: The ETC transfers electrons, releasing energy to set up a proton gradient. Proteins pump protons into the intermembrane space. Oxygen is the final electron acceptor.
-
-Q: How does oxidative phosphorylation occur in respiration? A: Oxidative phosphorylation is ATP production driven by redox reactions in the ETC. Protons moving through ATP synthase drive ATP production in chemiosmosis.
-
-Q: What is the total ATP yield from [[aerobic]] respiration? A: The total ATP yield is 36 ATP, including ATP production from glycolysis, Krebs cycle, and the electron transport chain, considering reduced coenzymes and direct ATP from glycolysis and the Krebs cycle.
-
-Q: How do fats and proteins serve as alternative fuels in respiration? A: Fats are broken into glycerol and fatty acids, entering glycolysis and the Krebs cycle. Amino acids, after losing amine groups, enter the respiratory pathway, controlled by allosteric feedback/inhibition.
-
-Q: What is the evolution of glycolysis? A: Glycolysis evolved before the Krebs cycle, present in all cells. Primitive glycolysis used hydrogen sulfide for ATP synthesis. Organisms evolved into [[aerobic]] respiration with the entry of oxygen.
+    
+54. What is the total yield of ATP from aerobic respiration? :: The total yield of ATP from one molecule of glucose undergoing aerobic respiration is 36 ATP molecules.
+    
+55. How can amino acid components be used in the respiratory pathway? :: After the amine groups of amino acids are removed and processed, the remaining components can enter the respiratory pathway and be used as alternative sources of energy.
+    
+56. What is the major control point in respiration? :: Phosphofructokinase, an enzyme in glycolysis, is a major control point in respiration, as its activity is regulated by feedback inhibition and allosteric regulation.
+    
+57. Why is glycolysis considered primitive and occurs in all cells? :: Glycolysis is considered primitive because it evolved early in the history of life on Earth and occurs in all cells, regardless of whether they have mitochondria or not.
+    
+58. How did primitive glycolysis synthesize ATP/energy? :: In the absence of free oxygen, primitive glycolysis likely synthesized ATP/energy by hydrolyzing hydrogen sulfide to form ATP.
+    
+59. What drove glycolysis in organisms with no free oxygen? :: In organisms with no free oxygen, glycolysis was likely driven by the action of hydrogenase, which produced H+ from H2 gas, derived from reactions between iron and sulfur compounds.

@@ -28,38 +28,22 @@ title: ATP
 
 ### flashcards
 TARGET DECK: Biology
-Q: What does ATP do in the cell? 
-	A: ATP stores energy in the cell.
+1. What is the function of ATP? :: ATP serves as a molecule that stores and transfers energy within cells. It is generated through respiration (both aerobic and anaerobic) and is used for mechanical work, transport work, and chemical work in the cell.
+<!--ID: 1691315832393-->
 
-Q: What are the uses of ATP in the cell? 
-	A: ATP is used for mechanical work, transport work, and chemical work.
+    
+2. What is the origin of ATP? :: ATP is autotrophic in nature, meaning it is produced by the body after taking in raw materials. The conversion of ADP and inorganic phosphate (P) to ATP is an endergonic reaction that involves ribose as a component.
+<!--ID: 1691315832403-->
 
-Q: How is ATP synthesized? 
-	A: ATP is synthesized through an endergonic reaction: ADP + P → ATP.
+    
+3. How does ATP release energy? :: ATP releases energy through the breaking of its high-energy bonds. The third phosphate bond in ATP is particularly unstable due to phosphate group crowding, making it weak and prone to breaking. When the bond is broken, ADP and P are formed, and this process releases energy.
+<!--ID: 1691315832411-->
 
-Q: Where does ATP come from? 
-	A: ATP is produced via respiration, both [[aerobic]] and anaerobic.
+    
+4. Why are the products of ATP hydrolysis (ADP + P) more stable than ATP? :: The products of ATP hydrolysis, which are ADP and inorganic phosphate (P), are more stable than ATP because the electrons in the phosphate group are in a more stable position after the hydrolysis reaction. This stability is a result of the phosphate group separation during hydrolysis.
+<!--ID: 1691315832416-->
 
-Q: Why are the phosphate bonds in ATP considered unstable? 
-	A: The phosphate bonds in ATP are considered unstable due to phosphate group crowding, making the bonds weak.
+    
+5. What happens during ATP hydrolysis? :: During ATP hydrolysis, the high-energy bond between the second and third phosphate groups in ATP is broken, resulting in the release of energy. The reaction can be represented as ATP^-4 + H2O -> ADP^-3 + HPO4^-2, and it is a catabolic and exergonic reaction with negative free energy.
+<!--ID: 1691315832422-->
 
-Q: What happens during ATP hydrolysis? 
-	A: During ATP hydrolysis, ATP (A - P - P ~ P) breaks into ADP (A - P - P + P) with the phosphate group being separated.
-
-Q: Why is ATP considered to have high-energy bonds? 
-	A: ATP is considered to have high-energy bonds because they release energy when broken, and they are unlikely to reform after hydrolysis. ADP + P is more stable than ATP as electrons are in a more stable position.
-
-Q: What is the equation for ATP hydrolysis?
-	A: ATP^-4 + H2O → ADP^-3 + HPO4^-2
-
-Q: What is the free energy change in ATP hydrolysis?
-	A: The free energy change in ATP hydrolysis is negative, indicating a catabolic and exergonic reaction.
-
- Q: Where does ATP originate?
-	A: ATP is autotrophic in nature and is produced by the body after taking in raw materials.
-
-Q: How does ATP release energy?
-	A: ATP releases energy by breaking its high-energy bonds, leading to the formation of ADP and inorganic phosphate.
-
-Q: What happens when an extra phosphate is added to ADP? 
-	A: it may become an inorganic phosphate
