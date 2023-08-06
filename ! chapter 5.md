@@ -11,10 +11,14 @@
 - ### 5.2.5: Photoexcitation and Electron Transfer
 
 ## 5.3: The Light Reactions
-- ### 5.3.1
-- ### 5.3.2
-- ##
+- ### 5.3.1: The Light Reactions: An Introduction
+- ### 5.3.2: Photosystem 1
+- ### 5.3.3: Phososystem 2
+- ### 5.3.4: The Light Reactions: A Summary
 
 ## 5.4: The Dark Reactions
+- ### 5.4.1: The Calvin Cycle
+- ### 5.4.2: The Calvin Cycle: RuBP Regeneration
+- ### 5.4.3: 
 
 ## 5.5: Photorespiration
