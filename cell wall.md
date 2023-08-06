@@ -5,3 +5,4 @@
 - found in plant, bacterial, and fungi cells
 
 - Cell Wall :: Rigid layer outside the cell membrane, provides support.
+<!--ID: 1691317866686-->

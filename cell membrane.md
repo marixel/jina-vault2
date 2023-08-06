@@ -7,3 +7,4 @@
 	- selectively [[permeable]] (regulates which contents of [[interstitial fluid]] can enter cell)
 
 - Cell Membrane :: Outer barrier of the cell, controls what enters and exits.
+<!--ID: 1691317866678-->
