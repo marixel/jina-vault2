@@ -5,3 +5,5 @@
 	- involved in secretion and excretion of [[protein]]s
 	- individual components of membrane can migrate relative to each other
 	- selectively [[permeable]] (regulates which contents of [[interstitial fluid]] can enter cell)
+
+- Cell Membrane :: Outer barrier of the cell, controls what enters and exits.
