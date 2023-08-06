@@ -1,5 +1,5 @@
 ## 5.1: Discovering [[Photosynthesis]]
-- ### 5.1.1: The Raveling o
+- ### 5.1.1: The Raveling of Photosynthesis: A Historical Perspective
 - ### 5.1.2: Twentieth-Century Breakthroughs
 - ### 5.1.3: [[Photosynthesis]]: The Final Picture
 
