@@ -1,7 +1,7 @@
 ## 5.1: Discovering [[Photosynthesis]]
-- ### 5.1.1:
-- ### 5.1.2:
-- ### 5.1.3
+- ### 5.1.1: The Raveling o
+- ### 5.1.2: Twentieth-Century Breakthroughs
+- ### 5.1.3: [[Photosynthesis]]: The Final Picture
 
 ## 5.2: Adaptations for [[Photosynthesis]]
 
