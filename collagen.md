@@ -2,3 +2,7 @@
 - part of [[extracellular matrix]] (outside of cell)
 - only found outside of cell
 - makes up ~50% of protein in human body
+
+- Collagen :: Protein for skin and connective tissues.
+
+- Coupled Reactions :: Energy from one reaction fuels another.
