@@ -228,9 +228,17 @@ TARGET DECK: Biology
     
 59. What drove glycolysis in organisms with no free oxygen? :: In organisms with no free oxygen, glycolysis was likely driven by the action of hydrogenase, which produced H+ from H2 gas, derived from reactions between iron and sulfur compounds.
 60. 1. Active Transport :: Requires energy to move substances against the concentration gradient.
+<!--ID: 1691316432636-->
+
     
 2. Facilitated Diffusion :: Helps specific molecules cross membranes without energy.
+<!--ID: 1691316432645-->
+
     
 3. Passive Diffusion :: Molecules move freely across membranes without using energy.
+<!--ID: 1691316432652-->
+
     
 4. Concentration Gradient :: Difference in substance concentration between regions.
+<!--ID: 1691316432658-->
+
