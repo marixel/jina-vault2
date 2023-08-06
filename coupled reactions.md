@@ -1,0 +1,1 @@
+[[energy]] released from[[exergonic]] reaction fuels [[endergonic]] reaction

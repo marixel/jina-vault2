@@ -1,0 +1,1 @@
+an [[isomer]] of [[glucose]] with lower stability and higher [[energy]]

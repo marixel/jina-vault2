@@ -1,0 +1,1 @@
+[[autotrophic]] organisms that use light energy as a raw material to make their own food

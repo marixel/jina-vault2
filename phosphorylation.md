@@ -1,0 +1,1 @@
+the addition of a [[phosphate group]] to a molecule as a direct result of hydrolosis

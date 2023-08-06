@@ -1,0 +1,1 @@
+unstable bonds that release [[energy]] when broken
