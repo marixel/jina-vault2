@@ -227,3 +227,10 @@ TARGET DECK: Biology
 58. How did primitive glycolysis synthesize ATP/energy? :: In the absence of free oxygen, primitive glycolysis likely synthesized ATP/energy by hydrolyzing hydrogen sulfide to form ATP.
     
 59. What drove glycolysis in organisms with no free oxygen? :: In organisms with no free oxygen, glycolysis was likely driven by the action of hydrogenase, which produced H+ from H2 gas, derived from reactions between iron and sulfur compounds.
+60. 1. Active Transport :: Requires energy to move substances against the concentration gradient.
+    
+2. Facilitated Diffusion :: Helps specific molecules cross membranes without energy.
+    
+3. Passive Diffusion :: Molecules move freely across membranes without using energy.
+    
+4. Concentration Gradient :: Difference in substance concentration between regions.
