@@ -241,4 +241,98 @@ TARGET DECK: Biology
     
 4. Concentration Gradient :: Difference in substance concentration between regions.
 <!--ID: 1691316432658-->
+1. Energy :: The capacity to do work or cause a change. It exists in various forms, including kinetic, potential, thermal, and chemical energy.
+<!--ID: 1691318180470-->
+
+    
+2. Exergonic :: Refers to a chemical reaction that releases energy as it proceeds. The products have lower energy than the reactants, and the reaction occurs spontaneously.
+<!--ID: 1691318180478-->
+
+    
+3. Flagella :: Long, whip-like appendages found on some cells, responsible for cell movement. They are often used for locomotion in certain microorganisms.
+<!--ID: 1691318180485-->
+
+    
+4. Fructose :: A monosaccharide, or simple sugar, found in many fruits and honey. It is a component of sucrose (table sugar) and is an important source of energy in cellular metabolism.
+<!--ID: 1691318180491-->
+
+    
+5. Heterotrophic :: Organisms that obtain their energy and organic compounds by consuming other organisms. They cannot produce their own food and rely on external sources for nutrients.
+<!--ID: 1691318180497-->
+
+    
+6. Hexokinase :: An enzyme that catalyzes the phosphorylation of glucose to form glucose-6-phosphate, a crucial step in glucose metabolism.
+<!--ID: 1691318180507-->
+
+    
+7. Hydrogen :: A chemical element with the symbol "H" and the lightest and most abundant element in the universe. It is involved in various biological processes, such as redox reactions and pH regulation.
+<!--ID: 1691318180517-->
+
+    
+8. Hypertonic :: Refers to a solution with a higher solute concentration compared to another solution. When a cell is placed in a hypertonic solution, water leaves the cell, causing it to shrink.
+<!--ID: 1691318180524-->
+
+    
+9. Inorganic Phosphate :: A form of phosphorus that plays a significant role in cellular processes, such as ATP synthesis and signal transduction.
+<!--ID: 1691318180532-->
+
+    
+10. Integrins :: Cell surface receptors that mediate cell adhesion to the extracellular matrix. They are important for cell signaling and migration.
+<!--ID: 1691318180544-->
+
+    
+11. Microtubules :: Cylindrical structures made of tubulin protein, forming part of the cytoskeleton. They provide structural support and are involved in intracellular transport and cell division.
+<!--ID: 1691318180551-->
+
+    
+12. Mitochondria :: Double-membrane organelles responsible for producing energy (ATP) through aerobic respiration. Often referred to as the "powerhouses" of the cell.
+<!--ID: 1691318180558-->
+
+    
+13. Nucleus :: The central organelle in eukaryotic cells, containing the genetic material (DNA) and regulating cellular activities.
+<!--ID: 1691318180564-->
+
+    
+14. Oxidation :: The process of losing electrons or gaining oxygen, often accompanied by the release of energy. It is an essential part of cellular respiration.
+<!--ID: 1691318180570-->
+
+    
+15. Pentose :: A five-carbon sugar, such as ribose and deoxyribose, which are components of RNA and DNA, respectively.
+<!--ID: 1691318180576-->
+
+    
+16. Phosphorylated Intermediates :: Molecules that have gained a phosphate group during metabolic reactions. They are important in energy transfer and regulation.
+<!--ID: 1691318180585-->
+
+    
+17. Phosphorylation :: The addition of a phosphate group to a molecule, often involving ATP as the phosphate donor. It is a crucial step in cellular signal transduction and energy storage.
+<!--ID: 1691318180591-->
+
+    
+18. Photoautotrophs :: Organisms that use sunlight as a source of energy to synthesize organic compounds, such as plants and some bacteria.
+<!--ID: 1691318180596-->
+
+    
+19. Pyruvate :: A three-carbon molecule that is an end product of glycolysis. It plays a key role in cellular respiration and can be further metabolized.
+<!--ID: 1691318180603-->
+
+    
+20. Redox :: Short for reduction-oxidation reactions, involving the transfer of electrons between molecules. Redox reactions are essential for energy production and many metabolic processes.
+<!--ID: 1691318180609-->
+
+    
+21. Reduction :: The process of gaining electrons or losing oxygen during a chemical reaction. It is often associated with the gain of energy.
+<!--ID: 1691318180616-->
+
+    
+22. Respiration :: The process by which living organisms release energy from organic molecules to perform cellular functions. It can be aerobic (with oxygen) or anaerobic (without oxygen).
+<!--ID: 1691318180622-->
+
+    
+23. Spontaneous :: Refers to a process that occurs naturally without any external influence. In the context of chemical reactions, spontaneous reactions release energy.
+<!--ID: 1691318180629-->
+
+    
+24. The Krebs Cycle :: Also known as the citric acid cycle, it is a series of chemical reactions that generate energy through the oxidation of acetyl-CoA, producing ATP and reducing coenzymes.
+<!--ID: 1691318180635-->
 
