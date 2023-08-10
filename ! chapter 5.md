@@ -259,9 +259,6 @@
 			- in ps 2, an excited electron is passed down an ETC of proteins to pump protons into lumen for ATP synthesis (bc energy released as electron travels through ETC)
 			- ![[Pasted image 20230810094837.png]]
 				- photolysis of water gives electrons to photosystem 2 and produces oxygen and H+ (or a proton) in the lumen of thylakoid
-
-flashcards:
-	
 ## 5.4: The Dark Reactions
 - ### 5.4.1: The Calvin Cycle
 	- #### light-independent series of reactions involving synthesis of carbs from CO2
@@ -311,6 +308,9 @@ flashcards:
 				- inner membrane network: thylakoid membrane
 			- proteins like ATP synthase and NADP+ reductase are present
 			- protons pumped into lumen of thylakoid + allowe dto diffuse back into stroma of chloroplast through ATP synthase (which produces ATP in the process)
+	- 
+
+- flashcards:
 ## 5.5: Photorespiration
 - ### 5.5.1: Photorespiration
 	- photorespiration: process by which oxygen (O2) is consumed by rubisco + added into Calvin cycle instead of CO2 (process produces no ATP)
@@ -350,3 +350,6 @@ flashcards:
 			- proton source may have been H2S (since there was a lot in the ancient seas) that was split into hydrogen ions and elemental sulfur
 			- ![[Pasted image 20230810124357.png]]
 				- currently exploited by purple sulfur bacteria, first used by cyanobacteria (unit 1 review)
+
+
+- flashcards:
