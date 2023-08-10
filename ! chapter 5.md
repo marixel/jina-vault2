@@ -12,7 +12,13 @@
 	- *photosynthesis involves the conversion of light energy and water to produce plant/organic materials and oxygen (and we figured this out from the experiments above)
 	- autotrophs and heterotrophs
 - ### 5.1.2: Twentieth-Century Breakthroughs
-	- experiments by CB Van Neil and Ruman and Kamen led to clearer understanding (we already knew what it was, but not as well as we do today. By now, we only knew the b)
+	- experiments by CB Van Neil and Ruben and Kamen led to clearer understanding (we already knew what it was, but not as well as we do today. By now, we only knew the fundamentals)
+		- van Neil's hydrogen sulfide experiment: origianlly believed that bacteria could take in CO2, split it, and combine the carbon with H2S (hydrogen sulfide) to make CH2S-type compound and O2 gas
+			-  instead, H2S was being split and Co2 combining w/ H to make [[carbohydrates]]; elemental sulfur given off
+			- photosynthesis: very similar, only w/ H2O instead of H2S
+			- suggested that water may be split in photosynthesis instead of CO2 to produce O2 and [[carbohydrates]]!
+			- [[Pasted image 20230810033502.png]]
+		- Ruben and Kamen:
 - ### 5.1.3: [[Photosynthesis]]: The Final Picture
 
 ## 5.2: Adaptations for [[Photosynthesis]]
