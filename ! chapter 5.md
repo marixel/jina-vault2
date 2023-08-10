@@ -20,7 +20,11 @@
 		- Ruben and Kamen: *proved* that **water** is split in photosynthesis, not carbon dioxide w/ isotopes 
 			- ***oxygen in water*** was tagged with an isotope and given to plants; oxygen gas produced by these plants also had the isotope![[Pasted image 20230810033835.png]]
 - ### 5.1.3: [[Photosynthesis]]: The Final Picture
-	- Robin Hill's experiment within chloroplasts
+	- Robin Hill's experiment within chloroplasts (2 different types of reactions):
+		- one split water to release O2 (required light; seen in images above)
+		- other didn't need light and attached H to CO2 to make a carbohydrate (glucose)
+	- $\ce{NADP+}$ = involved in [[oxidation]] (oxidizing agent; accepts [[electrons]]) used in photosynthesis
+	- after Hill, Arnon found that chloroplasts without $\ce{CO2}$ could make $\ce{ATP, 02, NADPH + H+, and O2}$ (but *no* glucose!) in light
 ## 5.2: Adaptations for [[Photosynthesis]]
 - ### 5.2.1: The Leaf: Adaptations for Photosynthesis
 - ### 5.2.2: The Structure of a Chloroplast
