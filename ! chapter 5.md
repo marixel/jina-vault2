@@ -65,7 +65,13 @@
 			- others:
 				- chlorophyll b
 				- cartenoids
-		- ##### Engelmann
+		- ##### Engelmann's experiment: algae able to use blue + red wavelengths of light more effectively than green for photosynthesis![[Pasted image 20230810083037.png]]
+			- contextual meaning: 
+			- process:
+				- white light split into component colors + shone along length of alga
+				- used aerobic bacteria that clustered around oxygen to determine which part of alga was releasing oxygen (bc they'd gravitate towards that area)
+				- bacteria clustered around areas clustered around green + blue light, and not around green light, demonstrating the **action spectrum** for photosynthesis (different activity at different wavelengths)
+		##### action spectrum: shows effectiveness/differe
 - ### 5.2.4: The Nature of Light
 - ### 5.2.5: Photoexcitation and Electron Transfer
 
