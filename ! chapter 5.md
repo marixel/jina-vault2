@@ -35,16 +35,23 @@
 ## 5.2: Adaptations for [[Photosynthesis]]
 - ### 5.2.1: The Leaf: Adaptations for Photosynthesis
 	- *structure follows function*
-	- #### upper epidermis: thin layer of cells on upper surface of leaf
+	- #### upper epidermis: thin layer of cells on upper surface of leaf![[Pasted image 20230810081256.png]]
 		- cuticle: waxy, waterproof layer secreted by upper epidermis
 	- #### mesophyll: cells in middle of leaf; contains veins that run continuously throughout plant
 		- contain [[chloroplasts]] (organelles containing chlorophyll, or a light-absorbing pigment)
-	- #### lower epidermis: layer of cells on underside of leaf
+	- #### lower epidermis: layer of cells on underside of leaf![[Pasted image 20230810081228.png]]
 		- *stomata*: openings formed by 2 **guard cells** (they literally guard; the stomata is open at day and closed at night) that are found in lower epidermis
 			- $\ce{CO2}$ enters leaf through stomata
 			- water evaporates from [[mesophyll]] and out of stomata
-			- water in veins of mesophyll 
+			- water in veins of mesophyll moves up to replace water that evaporated
 - ### 5.2.2: The Structure of a Chloroplast
+	- #### Chloroplasts: organelles found mostly in mesophyll cells (in middle of leaf) and are site of [[photosynthesis]]
+		- *structure follows function*
+		- ### structure:
+			- double-membrane with green spots within them
+			- spots: interconnected stacks of *granum*, (or plural *grana*; hollowed out membranes)
+			- each granum = made up of enclosed membrane (thylakoids)
+			- therefore: third membrane betw
 - ### 5.2.3: Photosynthetic Pigments
 - ### 5.2.4: The Nature of Light
 - ### 5.2.5: Photoexcitation and Electron Transfer
