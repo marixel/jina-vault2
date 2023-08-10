@@ -113,7 +113,14 @@
 - ### 5.3.2: Photosystem 1
 	- #### light-harvesting antennae/photosystems found in thylakoid and consist of proteins, chlorophyll, and other pigments and molecules
 		- reaction center: chlorophyll molecule next to *primary electron acceptor*, which is able to accept an excited electron
-		- 2 photosystems (1 and 2)
+		- two photosystems (1 and 2)
+			- each = light-harvesting unit, work together to produce ATP and NADPH
+	- also known as P700 bc its *reaction center* best at absorbing 700 nanometers (nm)
+		- electron from *chlorophyll a* in reaction center = excited by a photon of light before being passed to *primary electron acceptor*
+		- *primary electron acceptor* passse electron to **ferredoxin (Fd)**, a protein within the thylakoid membrane
+		- from ferredoxcin, electron passed to $\ce{NADP+}$, which gets reduced to NADPH
+			- if buildup of NADPH, *cyclic electron flow* happens
+				- excited electron passed from chlorophyll a in photosystem 1 to primary electron acceptor to ferredoxin, but is passed
 - ### 5.3.3: Photosystem 2
 - ### 5.3.4: The Light Reactions: A Summary
 
