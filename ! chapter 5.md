@@ -87,7 +87,14 @@
 		- plants utilize this in a way to convert light energy into carbs, sustenance, and other products. this will be explored throughout chapter and in next subchapter (see 5.2.5: photoexcitation and electron transfer)
 		- ![[Pasted image 20230810084552.png]]
 - ### 5.2.5: Photoexcitation and Electron Transfer
-	- when a pigment absorbs [[photons]], 
+	- #### Photoexcitation:
+		- when a pigment absorbs [[photons]], an electron in the molecule will gain energy + be promoted from its **ground state** (normal energetic state) to an **excited state**. (elevated further out from center of atom)
+			- in excited state, electron = unstable and will soon drop back down to ground state (og state)
+		- aka, the absorption of light excites electrons
+		- when electron in *chlorophyll a* reaches excites state:
+			- passed directly to protein receiver in thylakoid membrane
+			- other pigments in chloroplast able to pass excited electrons to *chlorophyll a*
+		- electron transferred through a series of proteins in thylakoid membrane (gives off energy at each step bc of these transfers)
 ## 5.3: The Light Reactions
 - ### 5.3.1: The Light Reactions: An Introduction
 - ### 5.3.2: Photosystem 1
