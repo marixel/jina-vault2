@@ -51,13 +51,21 @@
 			- double-membrane with green spots within them
 			- spots: interconnected stacks of *granum*, (or plural *grana*; hollowed out membranes)
 			- each granum = made up of enclosed membrane (thylakoids)
-				- composed of [[lipid]] bilayer w/ [[proteins]] accumulated into *aggregates* (groups) embedded within
+				- composed of [[lipid]] bilayer w/ [[proteins]] accumulated into *aggregates* (groups) embedded within![[Pasted image 20230810082258.png]]
 				- aggregates: light-harvesting antennae of [[chloroplasts]] (chlorophyll is also found there)
-			- therefore: third membrane within two outer membranes (3 layers in total)
+			- therefore: third membrane within two outer membranes (3 layers in total)![[Pasted image 20230810082239.png]]
 			- chlorophyll: pigment that absorbs light
-				- porphyrin ring: light-reactive end of molecule; involved in photosynthesis' light reactions
-				- lower end = nonpolar hydrocarbon tail (which interacts w/ other nonpolar regions of proteins + membrane to anchor molecule into membrane) aka, serv
+				- porphyrin ring: light-reactive end of molecule; involved in photosynthesis' light reactions![[Pasted image 20230810082317.png]]
+				- lower end (not shown in diagram) = nonpolar hydrocarbon tail (which interacts w/ other nonpolar regions of proteins + membrane to anchor molecule into membrane) aka, holds it in place
 - ### 5.2.3: Photosynthetic Pigments
+	- #### pigment: substance able to absorb light
+		- photosynthetic pigments (ex. chlorophyll): able to absorb light so that its energy can build carbs during photosynthesis
+		- ##### chlorophyll: green pigment embedded in thylakoid membrane of [[chloroplasts]]
+			- Chlorophyll a: involved directly in photosynthesis' light reactions (light energy --> carbs)
+			- others:
+				- chlorophyll b
+				- cartenoids
+		- ##### Engelmann
 - ### 5.2.4: The Nature of Light
 - ### 5.2.5: Photoexcitation and Electron Transfer
 
