@@ -132,10 +132,13 @@
 		- ##### energy lost in these redox reactions is used to pump protons (H+) into thylakoid's lume; proton gradient fuels ATP production via enzyme complex ****ATP Synthase****
 		- after photosystem 1 loses electron to make NADPH, it receives an electron from photosystem 2's ETC (from final acceptor of electron in ps 2)
 		- [[photolysis]] takes place in order to provide electrons to photosystem 2 as they are lost (bc *chlorophyll a* in photosystem 2 loses excited electrons)
+		- ![[Pasted image 20230810093836.png]]
 			- water split into 2 hydrogen ions + 1 oxygen atom; oxygen atom combines with another to form O2 (one of the 3 products)
 		- end products of photosystems 1 and 2 (**light reactions**): $\ce{ATP, NADPH + H+, and O2}$ 
 - ### 5.3.4: The Light Reactions: A Summary
-
+	- in photosystem 1, an excited electron is used to reduce $\ce{NADP+}$ to $\ce{NADPH + H+}$; electron hole created in photosystem 1 = filled in with electron from photosystem 2
+	- cyclic electron flow happens in ps 1 when NADPH builds up (instead of reducing NADP+, electron is passed down an electron transport chain until it returns to ps 1)
+	- in ps 2, an excited electron is passed down an ETC of proteins to pump protons into lumen for ATP synthesis (bc energy released as electron travels through ETC)
 ## 5.4: The Dark Reactions
 - ### 5.4.1: The Calvin Cycle
 - ### 5.4.2: The Calvin Cycle: RuBP Regeneration
