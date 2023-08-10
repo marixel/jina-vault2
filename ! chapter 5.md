@@ -29,7 +29,7 @@
 		![[Pasted image 20230810035757.png]]
 		
 	- $\ce{NADP+}$ = involved in [[oxidation]] (oxidizing agent; accepts [[electrons]]) used in photosynthesis
-	- after Hill, Arnon found that chloroplasts without $\ce{CO2}$ could make $\ce{ATP, 02, NADPH + H+, and O2}$ (but *no* glucose!) in light![[Pasted image 20230810035908.png]]
+	- after Hill, Arnon found that chloroplasts without $\ce{CO2}$ could make $\ce{ATP, NADPH + H+, and O2}$ (but *no* glucose!) in light![[Pasted image 20230810035908.png]]
 	- there are no carbons to *be* converted into [[carbohydrates]] 
 ## 5.2: Adaptations for [[Photosynthesis]]
 - ### 5.2.1: The Leaf: Adaptations for Photosynthesis
