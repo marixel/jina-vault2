@@ -222,5 +222,10 @@
 			- when stomata open at night, CO2 taken up and incorporated into acids
 			- during the day acids release this CO2, which then enters Calvin Cycle
 - ### 5.5.3: The Evolution of Photosynthesis
-	- photosynthesis evolved by adapting *existing system* into photosynthetic *machinery*
-	- evolution of photosynthesis required an antenna to absor
+	- #### photosynthesis evolved by adapting *existing system* into photosynthetic *machinery*
+		- evolution of photosynthesis required an antenna to absorb light, a living cell, and the constraints of the Earth's ancient environment
+		- evolution likely included **bacteriorhodopsin** as the pigment, a member of Archaea as the organism, and H2S as the protein source (see van Niel's experiment in 5.1)
+			- bacteriorhodopsin: found in some Archaea; serves as 'antenna' for light
+		- first cell that developed photosynthetic capabilities needed a battery to drive ATP production (in modern cells, this is a gradient of hydrogen ions/proton gradient in the thylakoid membrane)
+		- ancient photosynthetic unit = likely had bacteriorhodopsin acting as antenna and a gradient of hydrogen ions drove synthesis of ATP
+			- proton source may have been H2S (since there was a lot in the ancient seas) that was split into hydrogen ions a
