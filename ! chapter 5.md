@@ -80,11 +80,14 @@
 		- can be described as discrete packets of energy called [[photons]]
 	- #### photoelectric effec/photoexcitationt: light's ability to excite electrons to higher energy levels
 		- different wavelengths = diff amt of energy able to excite electrons into *discreet* energy levels
-		- when [[chlorophyll]] is hit with light, an electron is excited and then falls back down to its ground state
+			- when [[chlorophyll]] is hit with light, an electron is excited and then falls back down to its ground state          ![[Pasted image 20230810084506.png]]
 			- when hit with UV light, electron within it = excited, gains energy (example)
 			- when electron falls back down to ground state, it gives off/loses energy in the form of [[photons]] (a single photon for each [[electron]])
+	- ***concept question***: instead of allowing excited electron to fall, why not use it to reduce a coenzyme like $\ce{NADP+}$? (would allow energy to be stored and used for synthesis of molecules like glucose)
+		- plants utilize this in a way to convert light energy into carbs, sustenance, and other products. this will be explored throughout chapter and in next subchapter (see 5.2.5: photoexcitation and electron transfer)
+		- ![[Pasted image 20230810084552.png]]
 - ### 5.2.5: Photoexcitation and Electron Transfer
-
+	- when a pigment absorbs [[photons]], 
 ## 5.3: The Light Reactions
 - ### 5.3.1: The Light Reactions: An Introduction
 - ### 5.3.2: Photosystem 1
