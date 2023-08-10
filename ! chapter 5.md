@@ -21,10 +21,11 @@
 			- ***oxygen in water*** was tagged with an isotope and given to plants; oxygen gas produced by these plants also had the isotope![[Pasted image 20230810033835.png]]
 - ### 5.1.3: [[Photosynthesis]]: The Final Picture
 	- Robin Hill's experiment within chloroplasts (2 different types of reactions):
-		- one split water to release O2 (required light; seen in images above)
-		- other didn't need light and attached H to CO2 to make a carbohydrate (glucose)
+		- one split water to release O2 (required light; seen in images above) ([[photolysis]]/splitting of water by light to produce O2)
+		- other didn't need light and attached/fixed H to CO2 to make a carbohydrate (glucose)
 		- **experiment processs:**
-			- [[chloroplasts]] placed in $\ce{CO2}$-deprived environment and added oxidizing agent ()
+			- [[chloroplasts]] placed in $\ce{CO2}$-deprived environment and added oxidizing agent ($\ce{NADP+}$)
+		
 	- $\ce{NADP+}$ = involved in [[oxidation]] (oxidizing agent; accepts [[electrons]]) used in photosynthesis
 	- after Hill, Arnon found that chloroplasts without $\ce{CO2}$ could make $\ce{ATP, 02, NADPH + H+, and O2}$ (but *no* glucose!) in light
 ## 5.2: Adaptations for [[Photosynthesis]]
