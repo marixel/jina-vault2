@@ -154,10 +154,15 @@
 			- in light-dependent reactions, this energy comes from the sun (makes ATP and NADPH)
 			- the goal is to make carbs!!!
 		- synthesis glucose from CO2 required enzymes + energy input (bc spontaneous cannot go from low -> high)
+			- ![[Pasted image 20230810100452.png]]
 		- CO2 and water have lower free energy than glucose, so bc there's a positive difference, energy needs to be inputted for reaction to happen
 	- stage 1: carbon fixation (incorporation of carbon in CO2 into a larger molecule)
+	- ![[Pasted image 20230810100440.png]]
 		- takes place when Co2 added to ribulose bisphosphate (RuBP), a 5-carbon sugar, by enzyme *rubisco*
-		- 6-carbon molecule formed, which then splits into 2 three-car
+		- 6-carbon molecule formed, which then splits into 2 three-carbon molecules called 3 phosphoglycerate (3PG)
+	- stage 2/reduction stage: phosphate group from ATP transferred to each 3PG to form 1,3-biphosphoglycerate
+		- NADPH reduces this and phosphate is removed to form *glyceraldehyde 3-phosphate*, which is the **first product of photosynthesis**
+		- **so... where's the glucose? is its production related to rubisco?**
 
 - ### 5.4.2: The Calvin Cycle: RuBP Regeneration
 - ### 5.4.3: A Review of Photosynthesis
