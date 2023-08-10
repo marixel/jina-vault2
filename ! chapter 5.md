@@ -36,28 +36,52 @@
 
 - flashcards:
 	**Discovering Photosynthesis::Process of plants making food using light, water, and carbon dioxide**
+<!--ID: 1691690140840-->
+
 	
 	**Historical Perspective::Steps to understand and unravel photosynthesis over time**
+<!--ID: 1691690140850-->
+
 	
 	**Van Helmont Experiment::Willow tree experiment revealing water's role in plant conversion**
+<!--ID: 1691690140861-->
+
 	
 	**Priestley Experiment::Mice experiment proving plants produce oxygen**
+<!--ID: 1691690140871-->
+
 	
 	**Ingenhousz Experiment::Experiment showing oxygen release in light, some CO2 in dark**
+<!--ID: 1691690140879-->
+
 	
 	**Twentieth-Century Breakthroughs::Key advancements in photosynthesis understanding**
+<!--ID: 1691690140888-->
+
 	
 	**Van Neil's Hydrogen Sulfide Experiment::Study revealing water, not CO2, splits in photosynthesis**
+<!--ID: 1691690140902-->
+
 	
 	**Ruben and Kamen's Isotopic Experiment::Experiment confirming water's role with isotopes**
+<!--ID: 1691690140916-->
+
 	
 	**Photosynthesis - The Final Picture::Overall process: photolysis (O2) and carbon fixation (carbs)**
+<!--ID: 1691690140928-->
+
 	
 	**Photolysis::Splitting water using light, releasing oxygen and electrons**
+<!--ID: 1691690140940-->
+
 	
 	**Carbon Fixation::Incorporating CO2 into carbohydrates using light energy**
+<!--ID: 1691690140954-->
+
 	
 	**NADP+ and Arnon's Findings::NADP+ electron acceptance, Arnon's CO2-free ATP, NADPH + H+**
+<!--ID: 1691690140965-->
+
 ## 5.2: Adaptations for [[Photosynthesis]]
 - ### 5.2.1: The Leaf: Adaptations for Photosynthesis
 	- *structure follows function*
@@ -126,6 +150,23 @@
 				- inside photosystem = reaction center (where light-driven reactions of photosynthesis begin) (remember that not all of photosynthesis' reactions are light-driven, robin hill's experiment)
 				- excited electron from *chlorophyll a* in reaction center passed onto protein acceptor, *reducing* the acceptor (more negative)
 				- proteins arranged within thylakoid membrane to accept + pass energized electrons through a series of redox reactions, giving off energy at each step (which is then used to create ATP!)
+- flashcards:
+Upper epidermis::Thin cell layer on leaf's upper surface, covered by a waterproof cuticle 
+Mesophyll::Middle leaf cells with veins containing chloroplasts 
+Lower epidermis::Bottom layer of cells housing stomata 
+Stomata::Openings formed by guard cells, allowing CO2 in, water out
+Chloroplasts::Organelles in mesophyll cells for photosynthesis 
+Chloroplast structure::Double-membrane with grana and thylakoids Grana::Stacks of thylakoids containing chlorophyll 
+Thylakoids::Membrane structures with chlorophyll and proteins 
+Chlorophyll::Pigment for light absorption, contains porphyrin ring
+Pigment::Substance absorbing light 
+Photosynthetic pigments (e.g., chlorophyll)::Absorb light for carb building 
+Chlorophyll::Green pigment in thylakoid membrane 
+Chlorophyll a::Directly involved in photosynthesis' light reactions 
+Chlorophyll b, Carotenoids::Other pigments complementing absorption
+Light properties::Waves and particles (photons)
+Photoelectric effect::Light excites electrons to higher energy levels 
+Chlorophyll response to light::Excited electrons falling back to ground state
 ## 5.3: The Light Reactions
 - ### 5.3.1: The Light Reactions: An Introduction
 	- #### thylakoid = enclosed membrane within [[chloroplasts]] where the light-dependent reactions of photosynthesis happen/take place

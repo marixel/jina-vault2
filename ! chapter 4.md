@@ -111,6 +111,8 @@ TARGET DECK: Biology
 - Why is the third phosphate bond in ATP called a high energy bond? :: Because energy is released when the bond is broken.
     
 - What is NAD+? :: Nicotinamide Adenine Dinucleotide; an oxidizing agent that accepts electrons during redox reactions.
+<!--ID: 1691690140984-->
+
     
 - Describe glycolysis. :: It is an anaerobic process where glucose is broken down and oxidized to form two pyruvate molecules, a net of two ATP, and two NADH.
     
@@ -119,12 +121,16 @@ TARGET DECK: Biology
 - What does the Acetyl CoA step produce? :: NADH + H+, and CO2 during the conversion of pyruvate to acetyl CoA.
     
 - Explain the Krebs cycle. :: Also known as the citric acid cycle, it produces 2 ATP, 6 NADH + H+, and 2 FADH2 for each glucose molecule from glycolysis.
+<!--ID: 1691690141003-->
+
     
 - What is the Electron Transport Chain (ETC)? :: It is a series of exergonic redox reactions that create a proton gradient, which is used to fuel the synthesis of ATP.
     
 - How much ATP is produced for each NADH and FADH2 that enters the ETC? :: 3 ATP are produced for each NADH, and 2 ATP are produced for each FADH2.
     
 - What happens to glycerol during the breakdown of fats for energy? :: Glycerol enters glycolysis as glyceraldehyde 3-phosphate.
+<!--ID: 1691690141027-->
+
     
 - What happens when glycolysis isn't available, allowing the process to continue in organisms without mitochondria? :: Fermentation happens.
     
