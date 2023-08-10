@@ -23,7 +23,7 @@
 - ### 5.1.3: [[Photosynthesis]]: The Final Picture
 	- Robin Hill's experiment within chloroplasts (2 different types of reactions):
 		- one split water to release O2 (required light; seen in images above) ([[photolysis]]/splitting of water by light to produce O2)
-		- other didn't need light and attached/fixed H to CO2 to make a carbohydrate (glucose)
+		- other didn't need light and attached/fixed H to CO2 to make a carbohydrate (glucose; also known as **carbon fixation**)
 		- **experiment process:**
 			- [[chloroplasts]] placed in $\ce{CO2}$-deprived environment and added oxidizing agent ($\ce{NADP+}$)
 		![[Pasted image 20230810035757.png]]
@@ -31,6 +31,7 @@
 	- $\ce{NADP+}$ = involved in [[oxidation]] (oxidizing agent; accepts [[electrons]]) used in photosynthesis
 	- after Hill, Arnon found that chloroplasts without $\ce{CO2}$ could make $\ce{ATP, NADPH + H+, and O2}$ (but *no* glucose!) in light![[Pasted image 20230810035908.png]]
 	- there are no carbons to *be* converted into [[carbohydrates]] 
+	- **water** is oxidized, **CO2** is reduced
 ## 5.2: Adaptations for [[Photosynthesis]]
 - ### 5.2.1: The Leaf: Adaptations for Photosynthesis
 - ### 5.2.2: The Structure of a Chloroplast
