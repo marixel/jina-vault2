@@ -102,8 +102,15 @@
 				- proteins arranged within thylakoid membrane to accept + pass energized electrons through a series of redox reactions, giving off energy at each step (which is then used to create ATP!)
 ## 5.3: The Light Reactions
 - ### 5.3.1: The Light Reactions: An Introduction
+	- #### thylakoid = enclosed membrane within [[chloroplasts]] where the light-dependent reactions of photosynthesis happen/take place
+		- light-harvesting antennae = complexes of pigment molecules found in thylakoid membrane
+			- here, energy from light = gathered and eventually used to help fuel light-dependent reactions
+		- proteins embedded in thylakoid membrane able to accept + pass excited electrons from *chlorophyll a* through redox reactions (giving off energy as they go; this energy fuels ATP synthesis)
+			- energy lost
+	- an excited electron from *chlorophyll a* = passed through chain of proteins embedded in thylakoid membrane
+	- as electron passed, energy released (which fuels ATP synthesis)
 - ### 5.3.2: Photosystem 1
-- ### 5.3.3: Phososystem 2
+- ### 5.3.3: Photosystem 2
 - ### 5.3.4: The Light Reactions: A Summary
 
 ## 5.4: The Dark Reactions
