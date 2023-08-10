@@ -3,11 +3,16 @@
 	- #### the steps that were made historically in order to 'unravel' the process 
 	- [[Photosynthesis]]: process by which plants produce their own food
 	- experiments by Van Helmont, joseph Priestly, and Ingenhousz
-		- Helmont: planted willow tree in tub and waited five years
-		- Priestly:
-		- Ingenhousz
+		- Helmont: planted willow tree in tub; after five years, found that gained 164 lbs and soil had lost 2oz
+			- concluded that water was involved in conversion of abiotic (nonliving) material to biotic (living) materials (plant tissues/organic materials)
+		- Priestly: placed 2 mice in separate, lidded jars: one was empty and another had a plant. the one in the empty jar died, but the one with the plant survived
+			- concluded that plants must be able to produce oxygen; so plants can take in water and form organic materials + oxygen
+		- Ingenhousz: found that plants give off oxygen in presence of light and give off some carbon dioxide in the dark
+			- concluded that plants use water and light to build plant material + give off oxygen
+	- *photosynthesis involves the conversion of light energy and water to produce plant/organic materials and oxygen (and we figured this out from the experiments above)
 	- autotrophs and heterotrophs
 - ### 5.1.2: Twentieth-Century Breakthroughs
+	- experiments by CB Van Neil and Ruman and Kamen led to clearer understanding (we already knew what it was, but not as well as we do today. By now, we only knew the b)
 - ### 5.1.3: [[Photosynthesis]]: The Final Picture
 
 ## 5.2: Adaptations for [[Photosynthesis]]
