@@ -161,6 +161,7 @@
 		- takes place when Co2 added to ribulose bisphosphate (RuBP), a 5-carbon sugar, by enzyme *rubisco*
 		- 6-carbon molecule formed, which then splits into 2 three-carbon molecules called 3 phosphoglycerate (3PG)
 	- stage 2/reduction stage: phosphate group from ATP transferred to each 3PG to form 1,3-biphosphoglycerate
+	- ![[Pasted image 20230810100759.png]]
 		- NADPH reduces this and phosphate is removed to form *glyceraldehyde 3-phosphate*, which is the **first product of photosynthesis**
 		- **so... where's the glucose? is its production related to rubisco?**
 
