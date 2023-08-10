@@ -123,11 +123,15 @@
 			- if buildup of NADPH, *cyclic electron flow* happens
 				- excited electron passed from chlorophyll a in photosystem 1 to primary electron acceptor to ferredoxin, but is passed down electron transport chain instead of being passed to $\ce{NADP+}$
 				- as electron goes down electron transport chain, it loses energy; membrane proteins use this energy to pump protons into *lumen* of the thylakoid
-				- electron eventually returns to chlorophyll a in phtosystem 1 (process repeats(?))
+				- electron eventually returns to chlorophyll a in photosystem 1 (process repeats(?))
 				- protons in thylakoid membrane = allowed to pass through point of ATP synthase where ADP is phosphorylated to make ATP
 					- production of ATP from cyclic electron flow = **photophosphorylation**
 - ### 5.3.3: Photosystem 2
-	- #### here, electron excited by light and passed to
+	- #### here, electron excited by light and passed to primary electron acceptor, which passes it down an electron transport chain (losing energy as it goes) leading to ATP synthesis
+		- ##### energy lost in these redox reactions is used to pump protons
+		- after photosystem 1 loses electron to make NADPH, it receives an electron from photosystem 2's ETC
+		- [[photolysis]] takes place in order to provide electrons to photosystem 2 (bc chlorophyll a from photosystem 2 loses excited electrons)
+		- end products of photosystems 1 and 2 (**light reactions**): $\ce{ATP, NADPH + H+, and O2}$ 
 - ### 5.3.4: The Light Reactions: A Summary
 
 ## 5.4: The Dark Reactions
