@@ -197,6 +197,9 @@
 			- protons pumped into lumen of thylakoid + allowe dto diffuse back into stroma of chloroplast through ATP synthase (which produces ATP in the process)
 ## 5.5: Photorespiration
 - ### 5.5.1: Photorespiration
-	- photorespiration: process by which oxygen (O2)
+	- photorespiration: process by which oxygen (O2) is consumed by rubisco + added into Calvin cycle instead of CO2 (process produces no ATP)
+		- may be evolutionary remnant from when the atmosphere contained a much higher level of CO2 and less O2 than today
+		- guard cells of plant leaf = usually open during day; during dry, hot conditions they close to conserve water
+			- this closing can cause problem for photosynthesis (rubisco will put oxy)
 - ### 5.5.2: Plants and CAM Plants
 - ### 5.5.3: The Evolution of Photosynthesis
