@@ -137,16 +137,23 @@
 		- end products of photosystems 1 and 2 (**light reactions**): $\ce{ATP, NADPH + H+, and O2}$ 
 - ### 5.3.4: The Light Reactions: A Summary
 	- #### mesophyll > chloroplasts > thylakoid > photosystems
+	- ![[Pasted image 20230810094821.png]]
 		- photosystems = groups of proteins, pigments, and other molecules + site of light reactions (reactions w/ light, literally)
 			- in photosystem 1, an excited electron is used to reduce $\ce{NADP+}$ to $\ce{NADPH + H+}$
 				- electron --> ferredoxin, then used to reduce $\ce{NADP+}$ to $\ce{NADPH + H+}$
 				- electron hole created in photosystem 1 = filled in with electron from photosystem 2
 			- cyclic electron flow happens in ps 1 when NADPH builds up (instead of reducing NADP+, electron is passed down an electron transport chain until it returns to ps 1)
 			- in ps 2, an excited electron is passed down an ETC of proteins to pump protons into lumen for ATP synthesis (bc energy released as electron travels through ETC)
+			- ![[Pasted image 20230810094837.png]]
 				- photolysis of water gives electrons to photosystem 2 and produces oxygen and H+ (or a proton) in the lumen of thylakoid
 ## 5.4: The Dark Reactions
 - ### 5.4.1: The Calvin Cycle
 	- #### light-independent series of reactions involving synthesis of carbs from CO2
+	- ![[Pasted image 20230810095123.png]]
+		- reaction *cannot* spontaneously go from low energy -> high energy; energy input is necessary
+			- in light-dependent reactions, this energy comes from the sun (makes ATP and NADPH)
+			- the goal is to make carbs!!!
+	- synthesis glucose from CO
 
 - ### 5.4.2: The Calvin Cycle: RuBP Regeneration
 - ### 5.4.3: A Review of Photosynthesis
