@@ -164,9 +164,8 @@
 	- ![[Pasted image 20230810100759.png]]
 		- NADPH reduces this and phosphate is removed to form *glyceraldehyde 3-phosphate*, which is the **first product of photosynthesis**
 		- **so... where's the glucose? is its production related to rubisco?**
-
 - ### 5.4.2: The Calvin Cycle: RuBP Regeneration
-- ![[Pasted image 20230810120436.png]]
+	- ![[Pasted image 20230810120436.png]]
 	- during carbon cycle, carbon fixed onto RuBP by *rubisco* to form 3-phosphoglycerate (which is then phosphorylated and reduced to give rise to **glyceraldehyde 3-phosphate**)
 	- RuBP then regenerated through complex series of reactions to continue cycle
 	- cycle must make three turns to synthesize *one* **glyceraldehyde 3-phosphate**
@@ -185,8 +184,19 @@
 		- at photosystem 1, *cyclic electron flow* takes place when NADPH builds up (process cycles/repeats)
 	- in the **calvin cycle**, CO2 fixed to ribulose biphosphate (RuBP) to (eventually) form glyceraldehyde 3-phosphate (builds glucose + other materials)
 		- in process, ATP and NADPH from light reactions are used
-	- mi
+	- mitochondria and chloroplasts are very similar, suggesting a common ancestry
+	- ![[Pasted image 20230810121422.png]]
+		- mitochondria: organelles that convert energy stored in glucose into ATP (glucose --> ATP)
+			- inner and outer membrane
+			- proteins like ATP sunthase, NADH reductase, and FADH2 reductase present (recognize their roles and be able to place them)
+			- protons pumped into *intermembrane space* + allowed to **diffuse** back into mitochondrial matrix (interior) through enzyme complex ATP synthase (which produces ATP in the process)
+		- chloroplasts: organelles found in plants that convert light energy --> chemical energy
+			- inner and outer membrane
+				- inner membrane network: thylakoid membrane
+			- proteins like ATP synthase and NADP+ reductase are present
+			- protons pumped into lumen of thylakoid + allowe dto diffuse back into stroma of chloroplast through ATP synthase (which produces ATP in the process)
 ## 5.5: Photorespiration
 - ### 5.5.1: Photorespiration
+	- photorespiration: process by which oxygen (O2)
 - ### 5.5.2: Plants and CAM Plants
 - ### 5.5.3: The Evolution of Photosynthesis
