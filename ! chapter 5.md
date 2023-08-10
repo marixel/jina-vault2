@@ -200,6 +200,13 @@
 	- photorespiration: process by which oxygen (O2) is consumed by rubisco + added into Calvin cycle instead of CO2 (process produces no ATP)
 		- may be evolutionary remnant from when the atmosphere contained a much higher level of CO2 and less O2 than today
 		- guard cells of plant leaf = usually open during day; during dry, hot conditions they close to conserve water
-			- this closing can cause problem for photosynthesis (rubisco will put oxy)
+		- ![[Pasted image 20230810122318.png]]
+			- this closing can cause problem for photosynthesis (rubisco will put oxygen into calvin cycle instead of CO2, causing O2 to build up from light reactions)
+			- when rubisco incorporates O2 into calvin cycle instead of CO2, 5-carbon molecule results
+			- ![[Pasted image 20230810122334.png]]
+			- this 5-carbon molecule = splits into 2-carbon and 3-carbon molecule (latter goes back into calvin cycle and former leaves chloroplast + broken down to form CO2 in *peroxisome* and mitochondria
+		- **counterproductive** to plants bc no ATP produced + carbon directed out of the Calvin cycle
 - ### 5.5.2: Plants and CAM Plants
+	- #### C4 and CAM plants = special adaptations that allow them to avoid problem of photorespiration
+		- C4 plants avoid photorespiration by using alt. form of *carbon fixation*
 - ### 5.5.3: The Evolution of Photosynthesis
