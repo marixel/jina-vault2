@@ -208,5 +208,11 @@
 		- **counterproductive** to plants bc no ATP produced + carbon directed out of the Calvin cycle
 - ### 5.5.2: Plants and CAM Plants
 	- #### C4 and CAM plants = special adaptations that allow them to avoid problem of photorespiration
-		- C4 plants avoid photorespiration by using alt. form of *carbon fixation*
+		- C4 plants avoid photorespiration by using alt. form of *carbon fixation* (which takes place in the mesophyll cells)
+			- *bundle sheath cells* line veins of C4 plants; Calvin cycle takes place in chloroplasts of bundle sheath cells
+			- in these plants, CO2 is fixed to a molecule called *phosphoenolpyruvate (PEP) carboxylase* within mesophyll cells
+				- reaction forms molecule oxaloacetate, which is then converted into malate (which then diffuses into bundle sheath cells where it is broken down into CO2 and pyruvate)
+				- CO2 released enters Calvin cycle and pyruvate returns to mesophyll cells + converted back into PEP
+			- overall, **C4 plants avoid photorespiration by fixing CO2 in a separate location from the Calvin cycle*
+		- Cam plants fix Co2 at d
 - ### 5.5.3: The Evolution of Photosynthesis
