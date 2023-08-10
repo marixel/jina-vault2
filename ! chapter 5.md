@@ -166,12 +166,18 @@
 		- **so... where's the glucose? is its production related to rubisco?**
 
 - ### 5.4.2: The Calvin Cycle: RuBP Regeneration
+- ![[Pasted image 20230810120436.png]]
 	- during carbon cycle, carbon fixed onto RuBP by *rubisco* to form 3-phosphoglycerate (which is then phosphorylated and reduced to give rise to **glyceraldehyde 3-phosphate**)
 	- RuBP then regenerated through complex series of reactions to continue cycle
 	- cycle must make three turns to synthesize *one* **glyceraldehyde 3-phosphate**
-		- carbon molecules fix
+		- carbon molecules fixed to RuBP; 3 new 6-carbon molecules then split apart to make six 3-carbon molecules called 3-phosphoglycerate (phase 1)
+		- 3-phosphoglycerate molecules reduced to form glyceraldehyde 3-phosphate (G3P); one of these molecules is released from cycle for use by plant cell, so five are left behind (phase 2)
+		- through complex series of reactions, five 3-carbon G3P molecules are used to regenerate three 5-carbon RuBP molecules to continue the cycle
+	- G3P is the **starting material** used for production of glucose in other pathways
 - ### 5.4.3: A Review of Photosynthesis
-
+	- in light reactions, light energy converted into chemical energy **in the form of NADPH and ATP**
+		- light excites an electron in *chlorophyll a*, causing the chlorophyll to lose the electron
+		- 
 ## 5.5: Photorespiration
 - ### 5.5.1: Photorespiration
 - ### 5.5.2: Plants and CAM Plants
