@@ -11,7 +11,8 @@
 			- concluded that plants use water and light to build plant material + give off oxygen
 	- *photosynthesis involves the conversion of light energy and water to produce plant/organic materials and oxygen (and we figured this out from the experiments above)
 	- autotrophs and heterotrophs
-- ### 5.1.2: Twentieth-Century Breakthroughs
+- ### 5.1.2: Twe
+- ntieth-Century Breakthroughs
 	- experiments by CB Van Neil and Ruben and Kamen led to clearer understanding (we already knew what it was, but not as well as we do today. by this point, we only knew the fundamentals)
 		- van Neil's hydrogen sulfide experiment: origianlly believed that bacteria could take in CO2, split it, and combine the carbon with H2S (hydrogen sulfide) to make CH2S-type compound and O2 gas
 			-  instead, H2S was being split and CO2 combining w/ H to make [[carbohydrates]]; elemental sulfur given off
@@ -32,6 +33,31 @@
 	- after Hill, Arnon found that chloroplasts without $\ce{CO2}$ could make $\ce{ATP, NADPH + H+, and O2}$ (but *no* glucose!) in light![[Pasted image 20230810035908.png]]
 	- there are no carbons to *be* converted into [[carbohydrates]] 
 	- **water** is oxidized, **CO2** is reduced
+
+- flashcards:
+	**Discovering Photosynthesis::Process of plants making food using light, water, and carbon dioxide**
+	
+	**Historical Perspective::Steps to understand and unravel photosynthesis over time**
+	
+	**Van Helmont Experiment::Willow tree experiment revealing water's role in plant conversion**
+	
+	**Priestley Experiment::Mice experiment proving plants produce oxygen**
+	
+	**Ingenhousz Experiment::Experiment showing oxygen release in light, some CO2 in dark**
+	
+	**Twentieth-Century Breakthroughs::Key advancements in photosynthesis understanding**
+	
+	**Van Neil's Hydrogen Sulfide Experiment::Study revealing water, not CO2, splits in photosynthesis**
+	
+	**Ruben and Kamen's Isotopic Experiment::Experiment confirming water's role with isotopes**
+	
+	**Photosynthesis - The Final Picture::Overall process: photolysis (O2) and carbon fixation (carbs)**
+	
+	**Photolysis::Splitting water using light, releasing oxygen and electrons**
+	
+	**Carbon Fixation::Incorporating CO2 into carbohydrates using light energy**
+	
+	**NADP+ and Arnon's Findings::NADP+ electron acceptance, Arnon's CO2-free ATP, NADPH + H+**
 ## 5.2: Adaptations for [[Photosynthesis]]
 - ### 5.2.1: The Leaf: Adaptations for Photosynthesis
 	- *structure follows function*
