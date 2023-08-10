@@ -23,6 +23,8 @@
 	- Robin Hill's experiment within chloroplasts (2 different types of reactions):
 		- one split water to release O2 (required light; seen in images above)
 		- other didn't need light and attached H to CO2 to make a carbohydrate (glucose)
+		- **experiment processs:**
+			- [[chloroplasts]] placed in $\ce{CO2}$-deprived environment and added oxidizing agent ()
 	- $\ce{NADP+}$ = involved in [[oxidation]] (oxidizing agent; accepts [[electrons]]) used in photosynthesis
 	- after Hill, Arnon found that chloroplasts without $\ce{CO2}$ could make $\ce{ATP, 02, NADPH + H+, and O2}$ (but *no* glucose!) in light
 ## 5.2: Adaptations for [[Photosynthesis]]
