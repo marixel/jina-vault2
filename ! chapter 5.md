@@ -150,23 +150,69 @@
 				- inside photosystem = reaction center (where light-driven reactions of photosynthesis begin) (remember that not all of photosynthesis' reactions are light-driven, robin hill's experiment)
 				- excited electron from *chlorophyll a* in reaction center passed onto protein acceptor, *reducing* the acceptor (more negative)
 				- proteins arranged within thylakoid membrane to accept + pass energized electrons through a series of redox reactions, giving off energy at each step (which is then used to create ATP!)
+
+
 - flashcards:
-Upper epidermis::Thin cell layer on leaf's upper surface, covered by a waterproof cuticle 
-Mesophyll::Middle leaf cells with veins containing chloroplasts 
-Lower epidermis::Bottom layer of cells housing stomata 
-Stomata::Openings formed by guard cells, allowing CO2 in, water out
-Chloroplasts::Organelles in mesophyll cells for photosynthesis 
-Chloroplast structure::Double-membrane with grana and thylakoids Grana::Stacks of thylakoids containing chlorophyll 
-Thylakoids::Membrane structures with chlorophyll and proteins 
-Chlorophyll::Pigment for light absorption, contains porphyrin ring
-Pigment::Substance absorbing light 
-Photosynthetic pigments (e.g., chlorophyll)::Absorb light for carb building 
-Chlorophyll::Green pigment in thylakoid membrane 
-Chlorophyll a::Directly involved in photosynthesis' light reactions 
-Chlorophyll b, Carotenoids::Other pigments complementing absorption
-Light properties::Waves and particles (photons)
-Photoelectric effect::Light excites electrons to higher energy levels 
-Chlorophyll response to light::Excited electrons falling back to ground state
+	Upper epidermis::Thin cell layer on leaf's upper surface, covered by a waterproof cuticle 
+	<!--ID: 1691690470161-->
+	
+	Mesophyll::Middle leaf cells with veins containing chloroplasts 
+	<!--ID: 1691690470182-->
+	
+	Lower epidermis::Bottom layer of cells housing stomata 
+	<!--ID: 1691690470195-->
+	
+	Stomata::Openings formed by guard cells, allowing CO2 in, water out
+	<!--ID: 1691690470206-->
+	
+	Chloroplasts::Organelles in mesophyll cells for photosynthesis 
+	<!--ID: 1691690470219-->
+	
+	Chloroplast structure::Double-membrane with grana and thylakoids Grana::Stacks of thylakoids containing chlorophyll 
+	<!--ID: 1691690470229-->
+	
+	Thylakoids::Membrane structures with chlorophyll and proteins 
+	<!--ID: 1691690470240-->
+	
+	Chlorophyll::Green pigment in thylakoid membrane for light absorption, contains porphyrin ring
+	<!--ID: 1691690470256-->
+	
+	Pigment::Substance absorbing light 
+	<!--ID: 1691690470266-->
+	
+	Photosynthetic pigments (e.g., chlorophyll)::Absorb light for carb building 
+	<!--ID: 1691690470277-->
+	
+	Chlorophyll a::Directly involved in photosynthesis' light reactions 
+	<!--ID: 1691690470291-->
+	
+	Chlorophyll b, Carotenoids::Other pigments complementing absorption
+	<!--ID: 1691690470301-->
+	
+	Light properties::Waves and particles (photons)
+	<!--ID: 1691690470312-->
+	
+	Photoelectric effect::Light excites electrons to higher energy levels 
+	<!--ID: 1691690470322-->
+	
+	Chlorophyll response to light::Excited electrons falling back to ground state
+	<!--ID: 1691690470333-->
+	
+	Photoexcitation::Pigment absorbs photons, electron gains energy 
+	<!--ID: 1691690470344-->
+	
+	Electron movement::Passed to protein receiver, transferred through pigments 
+	<!--ID: 1691690470354-->
+	
+	Photosystems::Light-harvesting complexes in thylakoid membrane 
+	<!--ID: 1691690470365-->
+	
+	Reaction center::Photosystem area where light-driven reactions start 
+	<!--ID: 1691690484170-->
+	
+	
+	Redox reactions::Series of electron transfers creating energy for ATP
+	<!--ID: 1691690470376-->
 ## 5.3: The Light Reactions
 - ### 5.3.1: The Light Reactions: An Introduction
 	- #### thylakoid = enclosed membrane within [[chloroplasts]] where the light-dependent reactions of photosynthesis happen/take place
@@ -213,6 +259,9 @@ Chlorophyll response to light::Excited electrons falling back to ground state
 			- in ps 2, an excited electron is passed down an ETC of proteins to pump protons into lumen for ATP synthesis (bc energy released as electron travels through ETC)
 			- ![[Pasted image 20230810094837.png]]
 				- photolysis of water gives electrons to photosystem 2 and produces oxygen and H+ (or a proton) in the lumen of thylakoid
+
+flashcards:
+	
 ## 5.4: The Dark Reactions
 - ### 5.4.1: The Calvin Cycle
 	- #### light-independent series of reactions involving synthesis of carbs from CO2
