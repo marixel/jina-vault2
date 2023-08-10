@@ -34,6 +34,7 @@
 	- **water** is oxidized, **CO2** is reduced
 ## 5.2: Adaptations for [[Photosynthesis]]
 - ### 5.2.1: The Leaf: Adaptations for Photosynthesis
+	- *structure follows function*
 - ### 5.2.2: The Structure of a Chloroplast
 - ### 5.2.3: Photosynthetic Pigments
 - ### 5.2.4: The Nature of Light
