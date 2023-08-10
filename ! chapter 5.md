@@ -1,6 +1,7 @@
 ## 5.1: Discovering [[Photosynthesis]]
 - ### 5.1.1: The Unraveling of Photosynthesis: A Historical Perspective
-	- 
+	- #### the steps that were made historically in order to 'unravel' the process 
+	- [[Photosynthesis]]
 - ### 5.1.2: Twentieth-Century Breakthroughs
 - ### 5.1.3: [[Photosynthesis]]: The Final Picture
 
