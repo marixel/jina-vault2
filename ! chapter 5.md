@@ -153,7 +153,10 @@
 		- reaction *cannot* spontaneously go from low energy -> high energy; energy input is necessary
 			- in light-dependent reactions, this energy comes from the sun (makes ATP and NADPH)
 			- the goal is to make carbs!!!
-	- synthesis glucose from CO
+		- synthesis glucose from CO2 required enzymes + energy input (bc spontaneous cannot go from low -> high)
+		- CO2 and water have lower free energy than glucose, so bc there's a positive difference, energy needs to be inputted for reaction to happen
+	- stage 1: carbon fixation (incorporation of carbon in CO2 into a larger molecule)
+		- takes place when Co2 added to 
 
 - ### 5.4.2: The Calvin Cycle: RuBP Regeneration
 - ### 5.4.3: A Review of Photosynthesis
