@@ -71,7 +71,10 @@
 				- white light split into component colors + shone along length of alga
 				- used aerobic bacteria that clustered around oxygen to determine which part of alga was releasing oxygen (bc they'd gravitate towards that area)
 				- bacteria clustered around areas clustered around green + blue light, and not around green light, demonstrating the **action spectrum** for photosynthesis (different activity at different wavelengths)
-		##### action spectrum: shows effectiveness/differe
+		- ##### action spectrum: shows effectiveness of different wavelengths of light on [[photosynthesis]] (or measures activity at diff. wavelengths)
+			- photosynthetic activity happens at 'lower' levels bc of *accessory pigments* (chlorophyll b and carotenoids)
+			- **absorption spectrum** of chlorophyll b peaks = absorption of chlorophyll a starts to drop
+				- + carotenoids absorb wavelengths that chlorophylls a and b can't (so they all complement each other)
 - ### 5.2.4: The Nature of Light
 - ### 5.2.5: Photoexcitation and Electron Transfer
 
