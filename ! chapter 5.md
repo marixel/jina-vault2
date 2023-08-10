@@ -177,7 +177,15 @@
 - ### 5.4.3: A Review of Photosynthesis
 	- in light reactions, light energy converted into chemical energy **in the form of NADPH and ATP**
 		- light excites an electron in *chlorophyll a*, causing the chlorophyll to lose the electron
-		- 
+		- energy released by excited electrons in ETCs used to pump proteins into thylakoid's lumen
+		- electron passed to NADP+ to form NADPH
+		- water split + loses electrons, producing O2 and H+ ions in lumen of thylakoid
+			- these H+ ions (or protons) pass through ATP synthase, which produces ATP
+		- at photosystem 2, *monocyclic electron flow* occurs (cycles once)
+		- at photosystem 1, *cyclic electron flow* takes place when NADPH builds up (process cycles/repeats)
+	- in the **calvin cycle**, CO2 fixed to ribulose biphosphate (RuBP) to (eventually) form glyceraldehyde 3-phosphate (builds glucose + other materials)
+		- in process, ATP and NADPH from light reactions are used
+	- mi
 ## 5.5: Photorespiration
 - ### 5.5.1: Photorespiration
 - ### 5.5.2: Plants and CAM Plants
