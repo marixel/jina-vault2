@@ -209,10 +209,18 @@
 - ### 5.5.2: Plants and CAM Plants
 	- #### C4 and CAM plants = special adaptations that allow them to avoid problem of photorespiration
 		- C4 plants avoid photorespiration by using alt. form of *carbon fixation* (which takes place in the mesophyll cells)
+		- ![[Pasted image 20230810123449.png]]
 			- *bundle sheath cells* line veins of C4 plants; Calvin cycle takes place in chloroplasts of bundle sheath cells
 			- in these plants, CO2 is fixed to a molecule called *phosphoenolpyruvate (PEP) carboxylase* within mesophyll cells
+			- ![[Pasted image 20230810123316.png]]
 				- reaction forms molecule oxaloacetate, which is then converted into malate (which then diffuses into bundle sheath cells where it is broken down into CO2 and pyruvate)
 				- CO2 released enters Calvin cycle and pyruvate returns to mesophyll cells + converted back into PEP
 			- overall, **C4 plants avoid photorespiration by fixing CO2 in a separate location from the Calvin cycle*
-		- Cam plants fix Co2 at d
+		- CAM plants fix CO2 at different *time* than Calvin cycle (not location!)
+		- ![[Pasted image 20230810123259.png]]
+			- these plants have stomata closed during day + open at night; water loss minimized this way
+			- when stomata open at night, CO2 taken up and incorporated into acids
+			- during the day acids release this CO2, which then enters Calvin Cycle
 - ### 5.5.3: The Evolution of Photosynthesis
+	- photosynthesis evolved by adapting *existing system* into photosynthetic *machinery*
+	- evolution of photosynthesis required an antenna to absor
