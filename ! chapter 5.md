@@ -128,9 +128,11 @@
 					- production of ATP from cyclic electron flow = **photophosphorylation**
 - ### 5.3.3: Photosystem 2
 	- #### here, electron excited by light and passed to primary electron acceptor, which passes it down an electron transport chain (losing energy as it goes) leading to ATP synthesis
-		- ##### energy lost in these redox reactions is used to pump protons
-		- after photosystem 1 loses electron to make NADPH, it receives an electron from photosystem 2's ETC
-		- [[photolysis]] takes place in order to provide electrons to photosystem 2 (bc chlorophyll a from photosystem 2 loses excited electrons)
+	- ![[Pasted image 20230810093725.png]]
+		- ##### energy lost in these redox reactions is used to pump protons (H+) into thylakoid's lume; proton gradient fuels ATP production via enzyme complex ****ATP Synthase****
+		- after photosystem 1 loses electron to make NADPH, it receives an electron from photosystem 2's ETC (from final acceptor of electron in ps 2)
+		- [[photolysis]] takes place in order to provide electrons to photosystem 2 as they are lost (bc *chlorophyll a* in photosystem 2 loses excited electrons)
+			- water split into 2 hydrogen ions + 1 oxygen atom; oxygen atom combines with another to form O2 (one of the 3 products)
 		- end products of photosystems 1 and 2 (**light reactions**): $\ce{ATP, NADPH + H+, and O2}$ 
 - ### 5.3.4: The Light Reactions: A Summary
 
