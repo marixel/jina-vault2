@@ -14,11 +14,12 @@
 - ### 5.1.2: Twentieth-Century Breakthroughs
 	- experiments by CB Van Neil and Ruben and Kamen led to clearer understanding (we already knew what it was, but not as well as we do today. by this point, we only knew the fundamentals)
 		- van Neil's hydrogen sulfide experiment: origianlly believed that bacteria could take in CO2, split it, and combine the carbon with H2S (hydrogen sulfide) to make CH2S-type compound and O2 gas
-			-  instead, H2S was being split and Co2 combining w/ H to make [[carbohydrates]]; elemental sulfur given off
+			-  instead, H2S was being split and CO2 combining w/ H to make [[carbohydrates]]; elemental sulfur given off
 			- photosynthesis: very similar, only w/ H2O instead of H2S
 			- suggested that water may be split in photosynthesis instead of CO2 to produce O2 and [[carbohydrates]]![[Pasted image 20230810033550.png]]
 		- Ruben and Kamen: *proved* that **water** is split in photosynthesis, not carbon dioxide w/ isotopes 
-			- ***oxygen in water*** was tagged with an isotope and given to plants; oxygen gas produced by these plants also had the isotope![[Pasted image 20230810033835.png]]
+			- ***oxygen in water*** was tagged with an isotope and given to plants; oxygen gas produced by these plants also had the isotope
+			- water provides [[electron]] source (hydrogens) in formation of [[carbohydrates]] from CO2![[Pasted image 20230810033835.png]]
 - ### 5.1.3: [[Photosynthesis]]: The Final Picture
 	- Robin Hill's experiment within chloroplasts (2 different types of reactions):
 		- one split water to release O2 (required light; seen in images above) ([[photolysis]]/splitting of water by light to produce O2)
