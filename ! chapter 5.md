@@ -116,12 +116,18 @@
 		- two photosystems (1 and 2)
 			- each = light-harvesting unit, work together to produce ATP and NADPH
 	- also known as P700 bc its *reaction center* best at absorbing 700 nanometers (nm)
+	- ![[Pasted image 20230810092535.png]]
 		- electron from *chlorophyll a* in reaction center = excited by a photon of light before being passed to *primary electron acceptor*
 		- *primary electron acceptor* passse electron to **ferredoxin (Fd)**, a protein within the thylakoid membrane
-		- from ferredoxcin, electron passed to $\ce{NADP+}$, which gets reduced to NADPH
+		- from ferredoxcin, electron passed to $\ce{NADP+}$, which gets reduced to NADPH![[Pasted image 20230810092557.png]]
 			- if buildup of NADPH, *cyclic electron flow* happens
-				- excited electron passed from chlorophyll a in photosystem 1 to primary electron acceptor to ferredoxin, but is passed
+				- excited electron passed from chlorophyll a in photosystem 1 to primary electron acceptor to ferredoxin, but is passed down electron transport chain instead of being passed to $\ce{NADP+}$
+				- as electron goes down electron transport chain, it loses energy; membrane proteins use this energy to pump protons into *lumen* of the thylakoid
+				- electron eventually returns to chlorophyll a in phtosystem 1 (process repeats(?))
+				- protons in thylakoid membrane = allowed to pass through point of ATP synthase where ADP is phosphorylated to make ATP
+					- production of ATP from cyclic electron flow = **photophosphorylation**
 - ### 5.3.3: Photosystem 2
+	- #### here, electron excited by light and passed to
 - ### 5.3.4: The Light Reactions: A Summary
 
 ## 5.4: The Dark Reactions
