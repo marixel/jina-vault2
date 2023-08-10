@@ -156,8 +156,7 @@
 		- synthesis glucose from CO2 required enzymes + energy input (bc spontaneous cannot go from low -> high)
 		- CO2 and water have lower free energy than glucose, so bc there's a positive difference, energy needs to be inputted for reaction to happen
 	- stage 1: carbon fixation (incorporation of carbon in CO2 into a larger molecule)
-		- takes place when Co2 added to ribulose bisphosphate (RuBP), a 5-carbon sugar, by enzyme *rubisco*
-		- 6-carbon molecule formed, which then splits into 2 three-car
+		- takes place when Co2 added to 
 
 - ### 5.4.2: The Calvin Cycle: RuBP Regeneration
 - ### 5.4.3: A Review of Photosynthesis
