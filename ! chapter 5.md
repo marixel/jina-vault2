@@ -259,6 +259,13 @@
 			- in ps 2, an excited electron is passed down an ETC of proteins to pump protons into lumen for ATP synthesis (bc energy released as electron travels through ETC)
 			- ![[Pasted image 20230810094837.png]]
 				- photolysis of water gives electrons to photosystem 2 and produces oxygen and H+ (or a proton) in the lumen of thylakoid
+		- 
+		  
+		  
+	
+
+- flashcards
+
 ## 5.4: The Dark Reactions
 - ### 5.4.1: The Calvin Cycle
 	- #### light-independent series of reactions involving synthesis of carbs from CO2
@@ -311,6 +318,9 @@
 	- 
 
 - flashcards:
+
+- flashcards
+
 ## 5.5: Photorespiration
 - ### 5.5.1: Photorespiration
 	- photorespiration: process by which oxygen (O2) is consumed by rubisco + added into Calvin cycle instead of CO2 (process produces no ATP)
