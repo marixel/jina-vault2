@@ -1,3 +1,4 @@
+![[Pasted image 20230811072500.png]]
 #### happens to *all* cells (plant & animal)
 10-step [[anaerobic]] or [[aerobic]] process involving the breakdown of [[glucose]] into 2 [[pyruvate]]
 processes produce much more [[ATP]] ([[catabolic]] process)
