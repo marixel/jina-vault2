@@ -1,5 +1,5 @@
 ### [[ATP]]
-	triphosphorylated nucleotide
+- triphosphorylated nucleotide
 
 #### How does the cell capture and process the energy released by the [[high-energy bonds]] in ATP?
 
