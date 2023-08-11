@@ -8,6 +8,7 @@ bc it releases energy when broken
 the [[acetyl CoA]] step produces NADH + H+; CO2 during conversion of [[pyruvate]] to [[acetyl CoA]] (got this wrong)
 
 during [[fermentation]], NADH is recycled back into [[NAD+]] to continue [[glycolysis]]
+	in alcohol fermentation, acetaldehyde is reduced
 
 [[glycolysis]] is an anaerobic process involving the breakdown and oxidization of glucose into 2 ATP, 2 NADH, and 2 pyruvate molecules
 
@@ -18,3 +19,4 @@ NAD+ is the oxidized form of NADH; it accepts electrons during respiration (ex. 
 the [[krebs cycle]] (or citric acid cycle) involves the conversion of the products of [[glycolysis]] into 2 ATP, 6 NADH + H+, and 2 FADH2 for each [[glucose]] molecule from [[glycolysis]]
 
 the [[electron]] transport chain is made up of a series of exergonic redox reactions (electrons released) that create a [[proton]] gradient, which then fuels [[ATP]] synthesis
+	for each nadh that enters, 3 atp are produced; for each fadh2 that enters, 2 atp are produced

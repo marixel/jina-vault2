@@ -2,7 +2,7 @@
 10-step [[anaerobic]] or [[aerobic]] process involving the breakdown of [[glucose]] into 2 [[pyruvate]]
 processes produce much more [[ATP]] ([[catabolic]] process)
 
-### products: 2 [[pyruvate]] molecules, a net of 2 [[ATP]], and 2 NADH (see [[NAD+]])
+### products: 2 [[pyruvate]] molecules, a net of 2 [[ATP]], and 1 NADH (see [[NAD+]])
 #### [[energy]] is added throughout process
 #### begins and ends in [[cytoplasm]] (bc no [[energy]] is required)
 
