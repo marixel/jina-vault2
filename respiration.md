@@ -16,6 +16,5 @@
 
 ### [[cellular respiration]]: more efficient when [[aerobic]] (involving oxygen); carbs broken down with oxygen consumption to produce $\ce{CO2 + H2O + ATP}$
 
-TARGET DECK: Biology
 Q: name the 3 products of aerobic respiration
 A: CO2 + H2O + ATP

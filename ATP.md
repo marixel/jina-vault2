@@ -27,7 +27,6 @@ title: ATP
 	[[free energy]] = negative; [[catabolic]] and [[exergonic]] reaction
 
 ### flashcards
-TARGET DECK: Biology
 1. What is the function of ATP? :: ATP serves as a molecule that stores and transfers energy within cells. It is generated through respiration (both aerobic and anaerobic) and is used for mechanical work, transport work, and chemical work in the cell.
 <!--ID: 1691315832393-->
 
