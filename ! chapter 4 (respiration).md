@@ -109,13 +109,13 @@ More [[ATP]] will be produced from *reduced [[coenzymes]]* in mitochondria durin
     
 - Why is the third phosphate bond in ATP called a high energy bond? :: Because energy is released when the bond is broken.
     
-- What is NAD+? :: Nicotinamide Adenine Dinucleotide; an oxidizing agent that accepts electrons during redox reactions.
+- What is [[NAD+]]? :: Nicotinamide Adenine Dinucleotide; an oxidizing agent that accepts electrons during redox reactions.
 <!--ID: 1691690140984-->
 
     
 - Describe glycolysis. :: It is an anaerobic process where glucose is broken down and oxidized to form two pyruvate molecules, a net of two ATP, and two NADH.
     
-- What happens during fermentation? :: It is an anaerobic respiration that recycles NADH to form NAD+ and allows glycolysis to continue.
+- What happens during fermentation? :: It is an anaerobic respiration that recycles NADH to form [[NAD+]] and allows glycolysis to continue.
     
 - What does the Acetyl CoA step produce? :: NADH + H+, and CO2 during the conversion of pyruvate to acetyl CoA.
     
@@ -133,17 +133,17 @@ More [[ATP]] will be produced from *reduced [[coenzymes]]* in mitochondria durin
     
 - What happens when glycolysis isn't available, allowing the process to continue in organisms without mitochondria? :: Fermentation happens.
     
-- How is NADH recycled in anaerobic glycolysis (fermentation)? :: Fermentation accomplishes the same goal as NAD oxidization in aerobic respiration (NADH -> NAD+).
+- How is NADH recycled in anaerobic glycolysis (fermentation)? :: Fermentation accomplishes the same goal as NAD oxidization in aerobic respiration (NADH -> [[NAD+]]).
     
 - What are the two types of fermentation? :: Alcohol fermentation and Lactate fermentation.
     
 - Describe Alcohol fermentation. :: Pyruvate decarboxylated, forming acetaldehyde. Hydrogen atoms from NAD + H+ convert acetaldehyde to ethanol.
     
-- Describe Lactate fermentation. :: 2 pyruvates converted to 2 lactic acid molecules, forming lactate when ionized. 2 NADH + H+ converted to 2 NAD+ (hydrogen ionizes lactate).
+- Describe Lactate fermentation. :: 2 pyruvates converted to 2 lactic acid molecules, forming lactate when ionized. 2 NADH + H+ converted to 2 [[NAD+]] (hydrogen ionizes lactate).
     
 - When does aerobic respiration start? :: After pyruvate is produced from glycolysis.
     
-- What happens during the Acetyl CoA step? :: Pyruvate is converted to acetyl CoA through decarboxylation, reduction of NAD+ (back to NADH + H+), and attachment of coenzyme A.
+- What happens during the Acetyl CoA step? :: Pyruvate is converted to acetyl CoA through decarboxylation, reduction of [[NAD+]] (back to NADH + H+), and attachment of coenzyme A.
     
 - Where does the Acetyl CoA step take place? :: In organisms with mitochondria and within the mitochondria.
     
@@ -157,7 +157,7 @@ More [[ATP]] will be produced from *reduced [[coenzymes]]* in mitochondria durin
     
 - What happens in step 6 of the Krebs cycle? :: Succinate is converted to fumarate when FAD is reduced to form FADH2.
     
-- What happens in step 8 of the Krebs cycle? :: Malate is converted to oxaloacetate after NAD+ is reduced.
+- What happens in step 8 of the Krebs cycle? :: Malate is converted to oxaloacetate after [[NAD+]] is reduced.
     
 - What sets up a proton gradient in the electron transport chain? :: Energy released from electrons of reduced coenzymes.
     
@@ -199,7 +199,7 @@ More [[ATP]] will be produced from *reduced [[coenzymes]]* in mitochondria durin
 <!--ID: 1691315248735-->
 
     
-44. What is NAD+? :: NAD+ stands for Nicotinamide Adenine Dinucleotide, and it is a coenzyme that acts as an oxidizing agent, accepting electrons during redox reactions.
+44. What is [[NAD+]]? :: NAD+ stands for Nicotinamide Adenine Dinucleotide, and it is a coenzyme that acts as an oxidizing agent, accepting electrons during redox reactions.
     
 45. Describe glycolysis. :: Glycolysis is the first step in both aerobic and anaerobic respiration, where one molecule of glucose is broken down into two molecules of pyruvate. During this process, a net gain of two ATP and two NADH molecules is produced.
     
