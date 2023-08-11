@@ -30,7 +30,7 @@
 		![[Pasted image 20230810035757.png]]
 		
 	- $\ce{NADP+}$ = involved in [[oxidation]] (oxidizing agent; accepts [[electrons]]) used in photosynthesis
-	- after Hill, Arnon found that chloroplasts without $\ce{CO2}$ could make $\ce{ATP, NADPH + H+, and O2}$ (but *no* glucose!) in light![[Pasted image 20230810035908.png]]
+	- after Hill, Arnon found that chloroplasts without $\ce{CO2}$ could make $\ce{[[[[ATP]]]], NADPH + H+, and O2}$ (but *no* glucose!) in light![[Pasted image 20230810035908.png]]
 	- there are no carbons to *be* converted into [[carbohydrates]] 
 	- **water** is oxidized, **CO2** is reduced
 
@@ -79,7 +79,7 @@
 <!--ID: 1691690140954-->
 
 	
-	**NADP+ and Arnon's Findings::NADP+ electron acceptance, Arnon's CO2-free ATP, NADPH + H+**
+	**NADP+ and Arnon's Findings::NADP+ electron acceptance, Arnon's CO2-free [[[[ATP]]]], NADPH + H+**
 <!--ID: 1691690140965-->
 
 ## 5.2: Adaptations for [[Photosynthesis]]
@@ -149,7 +149,7 @@
 			- in thylakoid membrane, light-harvesting complexes called **photosystems**![[Pasted image 20230810085540.png]]
 				- inside photosystem = reaction center (where light-driven reactions of photosynthesis begin) (remember that not all of photosynthesis' reactions are light-driven, robin hill's experiment)
 				- excited electron from *chlorophyll a* in reaction center passed onto protein acceptor, *reducing* the acceptor (more negative)
-				- proteins arranged within thylakoid membrane to accept + pass energized electrons through a series of redox reactions, giving off energy at each step (which is then used to create ATP!)
+				- proteins arranged within thylakoid membrane to accept + pass energized electrons through a series of redox reactions, giving off energy at each step (which is then used to create [[ATP]]!)
 
 
 - flashcards:
@@ -211,7 +211,7 @@
 	<!--ID: 1691690484170-->
 	
 	
-	Redox reactions::Series of electron transfers creating energy for ATP
+	Redox reactions::Series of electron transfers creating energy for [[ATP]]
 	<!--ID: 1691690470376-->
 ## 5.3: The Light Reactions
 - ### 5.3.1: The Light Reactions: An Introduction
@@ -220,14 +220,14 @@
 		- light-harvesting antennae (or photosystems!) = complexes of pigment molecules found in thylakoid membrane
 			- here, energy from light = gathered and eventually used to help fuel light-dependent reactions
 		- proteins embedded in thylakoid membrane able to accept + pass excited electrons from *chlorophyll a* through redox r
-		- ![[Pasted image 20230810091519.png]]eactions (giving off energy as they go; this energy fuels ATP synthesis)
-			- energy lost by electrons = used to create proton gradient in *lumen* of thylakoid; diffusion of protons through *ATP synthase* fuels ATP production
+		- ![[Pasted image 20230810091519.png]]eactions (giving off energy as they go; this energy fuels [[ATP]] synthesis)
+			- energy lost by electrons = used to create proton gradient in *lumen* of thylakoid; diffusion of protons through *[[ATP]] synthase* fuels [[ATP]] production
 			- final electron acceptor = $\ce{NADP+}$ which becomes $\ce{NADPH + H+}$ when reduced
 - ### 5.3.2: Photosystem 1
 	- #### light-harvesting antennae/photosystems found in thylakoid and consist of proteins, chlorophyll, and other pigments and molecules
 		- reaction center: chlorophyll molecule next to *primary electron acceptor*, which is able to accept an excited electron
 		- two photosystems (1 and 2)
-			- each = light-harvesting unit, work together to produce ATP and NADPH
+			- each = light-harvesting unit, work together to produce [[ATP]] and NADPH
 	- also known as P700 bc its *reaction center* best at absorbing 700 nanometers (nm)
 	- ![[Pasted image 20230810092535.png]]
 		- electron from *chlorophyll a* in reaction center = excited by a photon of light before being passed to *primary electron acceptor*
@@ -237,17 +237,17 @@
 				- excited electron passed from chlorophyll a in photosystem 1 to primary electron acceptor to ferredoxin, but is passed down electron transport chain instead of being passed to $\ce{NADP+}$
 				- as electron goes down electron transport chain, it loses energy; membrane proteins use this energy to pump protons into *lumen* of the thylakoid
 				- electron eventually returns to chlorophyll a in photosystem 1 (process repeats(?))
-				- protons in thylakoid membrane = allowed to pass through point of ATP synthase where ADP is phosphorylated to make ATP
-					- production of ATP from cyclic electron flow = **photophosphorylation**
+				- protons in thylakoid membrane = allowed to pass through point of [[ATP]] synthase where ADP is phosphorylated to make [[ATP]]
+					- production of [[ATP]] from cyclic electron flow = **photophosphorylation**
 - ### 5.3.3: Photosystem 2
-	- #### here, electron excited by light and passed to primary electron acceptor, which passes it down an electron transport chain (losing energy as it goes) leading to ATP synthesis
+	- #### here, electron excited by light and passed to primary electron acceptor, which passes it down an electron transport chain (losing energy as it goes) leading to [[ATP]] synthesis
 	- ![[Pasted image 20230810093725.png]]
-		- ##### energy lost in these redox reactions is used to pump protons (H+) into thylakoid's lume; proton gradient fuels ATP production via enzyme complex ****ATP Synthase****
+		- ##### energy lost in these redox reactions is used to pump protons (H+) into thylakoid's lume; proton gradient fuels [[ATP]] production via enzyme complex ****[[ATP]] Synthase****
 		- after photosystem 1 loses electron to make NADPH, it receives an electron from photosystem 2's ETC (from final acceptor of electron in ps 2)
 		- [[photolysis]] takes place in order to provide electrons to photosystem 2 as they are lost (bc *chlorophyll a* in photosystem 2 loses excited electrons)
 		- ![[Pasted image 20230810093836.png]]
 			- water split into 2 hydrogen ions + 1 oxygen atom; oxygen atom combines with another to form O2 (one of the 3 products)
-		- end products of photosystems 1 and 2 (**light reactions**): $\ce{ATP, NADPH + H+, and O2}$ 
+		- end products of photosystems 1 and 2 (**light reactions**): $\ce{[[ATP]], NADPH + H+, and O2}$ 
 - ### 5.3.4: The Light Reactions: A Summary
 	- #### mesophyll > chloroplasts > thylakoid > photosystems
 	- ![[Pasted image 20230810094821.png]]
@@ -256,7 +256,7 @@
 				- electron --> ferredoxin, then used to reduce $\ce{NADP+}$ to $\ce{NADPH + H+}$
 				- electron hole created in photosystem 1 = filled in with electron from photosystem 2
 			- cyclic electron flow happens in ps 1 when NADPH builds up (instead of reducing NADP+, electron is passed down an electron transport chain until it returns to ps 1)
-			- in ps 2, an excited electron is passed down an ETC of proteins to pump protons into lumen for ATP synthesis (bc energy released as electron travels through ETC)
+			- in ps 2, an excited electron is passed down an ETC of proteins to pump protons into lumen for [[ATP]] synthesis (bc energy released as electron travels through ETC)
 			- ![[Pasted image 20230810094837.png]]
 				- photolysis of water gives electrons to photosystem 2 and produces oxygen and H+ (or a proton) in the lumen of thylakoid
 		- 
@@ -271,7 +271,7 @@
 	- #### light-independent series of reactions involving synthesis of carbs from CO2
 	- ![[Pasted image 20230810095123.png]]
 		- reaction *cannot* spontaneously go from low energy -> high energy; energy input is necessary
-			- in light-dependent reactions, this energy comes from the sun (makes ATP and NADPH)
+			- in light-dependent reactions, this energy comes from the sun (makes [[ATP]] and NADPH)
 			- the goal is to make carbs!!!
 		- synthesis glucose from CO2 required enzymes + energy input (bc spontaneous cannot go from low -> high)
 			- ![[Pasted image 20230810100452.png]]
@@ -280,7 +280,7 @@
 	- ![[Pasted image 20230810100440.png]]
 		- takes place when Co2 added to *ribulose bisphosphate* (RuBP), a 5-carbon sugar, by enzyme *rubisco*
 		- 6-carbon molecule formed, which then splits into 2 three-carbon molecules called 3 phosphoglycerate (3PG)
-	- stage 2/reduction stage: phosphate group from ATP transferred to each 3PG to form 1,3-biphosphoglycerate
+	- stage 2/reduction stage: phosphate group from [[ATP]] transferred to each 3PG to form 1,3-biphosphoglycerate
 	- ![[Pasted image 20230810100759.png]]
 		- NADPH reduces this and phosphate is removed to form *glyceraldehyde 3-phosphate*, which is the **first product of photosynthesis**
 		- **so... where's the glucose? is its production related to rubisco?**
@@ -294,27 +294,27 @@
 		- through complex series of reactions, five 3-carbon G3P molecules are used to regenerate three 5-carbon RuBP molecules to continue the cycle
 	- G3P is the **starting material** used for production of glucose in other pathways
 - ### 5.4.3: A Review of Photosynthesis
-	- in light reactions, light energy converted into chemical energy **in the form of NADPH and ATP**
+	- in light reactions, light energy converted into chemical energy **in the form of NADPH and [[ATP]]**
 		- light excites an electron in *chlorophyll a*, causing the chlorophyll to lose the electron
 		- energy released by excited electrons in ETCs used to pump proteins into thylakoid's lumen
 		- electron passed to NADP+ to form NADPH
 		- water split + loses electrons, producing O2 and H+ ions in lumen of thylakoid
-			- these H+ ions (or protons) pass through ATP synthase, which produces ATP
+			- these H+ ions (or protons) pass through [[ATP]] synthase, which produces [[ATP]]
 		- at photosystem 2, *monocyclic electron flow* occurs (cycles once)
 		- at photosystem 1, *cyclic electron flow* takes place when NADPH builds up (process cycles/repeats)
 	- in the **calvin cycle**, CO2 fixed to ribulose biphosphate (RuBP) to (eventually) form glyceraldehyde 3-phosphate (builds glucose + other materials)
-		- in process, ATP and NADPH from light reactions are used
+		- in process, [[ATP]] and NADPH from light reactions are used
 	- mitochondria and chloroplasts are very similar, suggesting a common ancestry
 	- ![[Pasted image 20230810121422.png]]
-		- mitochondria: organelles that convert energy stored in glucose into ATP (glucose --> ATP)
+		- mitochondria: organelles that convert energy stored in glucose into [[ATP]] (glucose --> [[ATP]])
 			- inner and outer membrane
-			- proteins like ATP sunthase, NADH reductase, and FADH2 reductase present (recognize their roles and be able to place them)
-			- protons pumped into *intermembrane space* + allowed to **diffuse** back into mitochondrial matrix (interior) through enzyme complex ATP synthase (which produces ATP in the process)
+			- proteins like [[ATP]] sunthase, NADH reductase, and FADH2 reductase present (recognize their roles and be able to place them)
+			- protons pumped into *intermembrane space* + allowed to **diffuse** back into mitochondrial matrix (interior) through enzyme complex [[ATP]] synthase (which produces [[ATP]] in the process)
 		- chloroplasts: organelles found in plants that convert light energy --> chemical energy
 			- inner and outer membrane
 				- inner membrane network: thylakoid membrane
-			- proteins like ATP synthase and NADP+ reductase are present
-			- protons pumped into lumen of thylakoid + allowe dto diffuse back into stroma of chloroplast through ATP synthase (which produces ATP in the process)
+			- proteins like [[ATP]] synthase and NADP+ reductase are present
+			- protons pumped into lumen of thylakoid + allowe dto diffuse back into stroma of chloroplast through [[ATP]] synthase (which produces ATP in the process)
 	- 
 
 - flashcards:

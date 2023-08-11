@@ -103,7 +103,7 @@ More [[ATP]] will be produced from *reduced [[coenzymes]]* in mitochondria durin
 - When oxygen finally entered the atmosphere, organisms suffered in a harsh environment (because they were so used to [[anaerobic]] [[respiration]]) until they became capable of [[aerobic]] [[respiration]] with evolution.
 
 ### flashcards:
-- - What is ATP? :: Adenosine Triphosphate; a molecule that stores and transfers energy in cells.
+- - What is [[ATP]]? :: Adenosine Triphosphate; a molecule that stores and transfers energy in cells.
 <!--ID: 1691314827247-->
 
     
