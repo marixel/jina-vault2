@@ -1,3 +1,5 @@
+review questions 2, 9, 18, 24, and 25 on chapter test for midterm/final (got wrong on first attempt)
+
 ![[Pasted image 20230729102734.png]]
 ## 4.2.3: [[Anaerobic]] [[Respiration]]: Fermentation of [[Pyruvate]]
 
