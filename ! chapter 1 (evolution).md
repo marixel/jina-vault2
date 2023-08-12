@@ -179,9 +179,19 @@
 		- water covers dry environment, killing the organisms
 		- over time, layers of sediment cover the organisms in the water
 		- with enough sediment, water dries; remains are mineralized or leave imprints
-	- Methods of dating fossils
-	- 
+	- Methods of dating fossils 
+		- [[relative]] (indexing): older fossils in deeper layers
+		- [[absolute]] (radiometric): often utilizes C14 (instead of C12); determine initial amount of C14 in fossil (determined by today's standards; imagine that the fossil is being buried today) and view how many C14 atoms are left in fossil
+		- for very, very old fossils, U-235 can be used (as it has a half-life of 4.5 billion years)
 - ### 1.5.2: The Fossil Record
+	- Fossil Record Shows:
+		- increasing diversity of life forms
+		- coevolution: evolution in one group affecting changes in another
+		- biological ages of earth
+			- 3 bya: no fossils
+			- 1 bya: *only* bacteria ([[pre-cambrian]] period)
+			- 600 mya: algae + invertebrates ([[cambrian]] period + [[cambrian explosion]]
+			- 500 mya: advanced marine algae, early vertebrates, jawless fish ([[Ordovician]]))
 - ### 1.5.3: Some Fossil Surprises
 - ### 1.5.4: The Coevolution of Horses and Plants
 - ### 1.5.5: Mass Extinctions: AACRYD
