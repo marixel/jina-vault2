@@ -1,7 +1,29 @@
 ## 2.1: An Introduction to Atoms
 - ### 2.1.1: Atomic Structure: SPONCH and the Atom
+	- we can't define life, only describe it
+		- to try to understand life, must understand fundamentals
+		- [[SPONCH]]:
+			- Hydrogen, Carbon, Nitrogen, Oxygen, Phosphorus, and Sulfur
+			- make up >99% of human body
+		- [[atoms]]: smallest units of a chemical element
+			- atomic number: number of protons
+			- atomic mass: sum of protons and neutrons
+			- in atom (not an ion!!) proton number = electron number
 - ### 2.1.2: Electrons, Orbitals, and Electron Shells
+	- what to understand abt atoms:
+		- electrons crucial to bonding
+		- atoms = mostly empty space
+		- protons attract electrons
+	- 7 rules of chemistry (from prof):
+		- 1. [[orbital]]s = 2 [[electrons]]
+		- 2. orbitals combine to form shells (on outside of atom w/ valence electrons)
+		- 3. shell 1 has one orbital (so 2 electrons)
+		- 4. shells 2+ = 4 orbitals (8 electrons)
+		- 5. **one electron goes in each orbital before any orbital can get a second electron** (confusing; need to study)
+		- 6. [[valence layer]]: reactive if not full
+		- 7. further [[electrons]]: higher potential energy (bc farther away from nucleus)
 - ### 2.1.3: Ions, Ionization, and Isotopes
+	- atoms interact 
 - ### 2.1.4: Isotopes: Unraveling Photosynthesis
 
 ## 2.2: Atoms and Bonding
