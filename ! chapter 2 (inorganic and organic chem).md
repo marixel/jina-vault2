@@ -98,7 +98,26 @@
 
 ## 2.4: Carbon Chemistry
 - ### 2.4.1: Carbon Chemistry and Isomers
+	- shape is very important in moelcules
+	- most organic molecules involve carbon
+		- can form chains by bonding with itself
+		- has to have all 4 bonding sites filled (many possibilities)
+		- can branch and have single, double, or triple bonds (natural ones usually only have single/double)
+		- [[isomer]]: different arrangement, same formula
+			- structural: same formula, diff. shape (branching, etc.)
+			- geometric: same formula, diff. arrangement around double bond
+			- enantiomers: same formula, structures mirror each other
 - ### 2.4.2: Functional Side Groups
+	- functional side groups: parts of organic molecules w/ their own characteristic properties + most likely to take part in chemical reactions
+		- hydroxyl (-OH/alcohols): polarity allows hydrogen bonds
+		- carbonyl (aldehydes/ketones): at end of chain; O = C
+		- Carboxyl (non-ionized/ionized): always acids (proton donors); polarity allows for ionization; in all organic acids
+		- Amino (Non-ionized/ionized): bases; accepts protons; -NH2
+			- amino acids: Amino group + carboxyl groups
+		- sulfhydryl (thiols/-SH): consist SH; in amino acids, form disulfide bridges (which strengthen protein structure)
+		- Phosphate (organic phosphates): derived from phosphoric acid (H3PO4)
+			- can be transferred to organic molecules (forming [[phosphorylated-intermediates]])
+			- how energy passes from molecule 
 
 ## 2.5: Carbohydrates
 - ### 2.5.1: Carbohydrates: Monosaccharides
