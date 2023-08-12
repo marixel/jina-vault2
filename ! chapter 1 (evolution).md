@@ -58,16 +58,20 @@
 
 	+ 1200 AD
 	+ Roger Bacon, Thomas Aquinas, and Albertus Magnus
-	+ Bacon: reject dogma<br>Thomas and Albertus: natural (from nature) vs revealed (theological) truths
+	+ Bacon: reject dogma<br>Aquinas and Magnus: natural (from nature) vs revealed (theological) truths
 
 	+ 1500 AD
 	+ Francis bacon
 	+ don't accept anything without a test (experimentation advocacy)
 
 	+ 1600 AD
-	+ Galileo, Newton, John Ray: Dawn of Science
-	```
+	+ Galileo, Newton, John Ray, and James Usher: Dawn of Science
+	+ Galileo: supported Copernicus' theory (Earth = round and revolves around sun); forced to reject this theory to keep his life<br>Ray: found that fossils were remains of living things (an idea that couldn't be easily supported by theology)<br>Newton: physics and calculus<br>Usher: believed that world began in 4004 B.C.
 
+	+ 1800 AD
+	+ Darwin
+	+ Darwin embarked on his journey when the bulk of the information above was new or not yet widely accepted as truth. Originally, he was an explorer, not a scientist
+	```
 
 
 ## 1.3: An Introduction to Evolution
