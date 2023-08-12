@@ -104,7 +104,18 @@
 			- organisms pass on their traits from use/disuse to offspring
 			- rarely true (think: two absolutely jacked , olympic-gold-medalist-in-lifting level parents would still have a fat, normally sized baby)
 - ### 1.3.2: Darwin: The Voyage Continues
+	- onboard, he read "Principles of Geology" by Lyell (uniformitarianism guy)
+		- loved it and read second volume
+	- first stopped at Cape Verde and found shell fossils **on a cliff** (far away from the water!)
+	- found quadroped fossils in Argentina
+		- biogeography: idea that life and geography are related
+		- **questions: how did they get there? did they migrate? why extinct?**
+		- also found horse fossils (previously believed that horses weren't native to South America and were introduced by Spain, but these fossils were too old for that to be the case)
+	- experienced earthquake while in Chile which changed geological features (a few weeks layer, the elevation had increased by 9 ft/around 3 meters)
+	- clam fossils in Andes Mountains and nearby forests
+	- "Where are the rabbits?" (there were none in South America, though there *were* hares that shared the same purpose)
 - ### 1.3.3: Darwin: More Observations
+	- found fossils of giant 
 
 ## 1.4: Evolution: The Theory of Natural Selection
 
