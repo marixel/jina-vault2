@@ -143,8 +143,26 @@
 				- overpopulation, variety, and competition (**survival of the luckiest/fittest**)
 - ### 1.4.2: Theory of Natural Selection
 	- artificial selection example: Wild Mustard Plant
-	- work aft
+	- Darwin's work after return:
+		- journal entries
+		- book on coral atolls
+		- 2 books on geology
+		- definitive treatise on barnacles
+	- when *finally* writing his theory to publish, A.R. Wallace came to similar observation (putting Darwin in trouble)
+		- Darwin presented book to Linnaean Society in 1858 + published "The Origin of Species" in 1859
+		- 1871: "The Origin of Man"
+	- Darwin's Theory of Natural Selection
+		1. overpopulation
+		2. variation within a population
+		3. competition in a population
+		4. survival of the fittest/luckiest
+		5. reproduction
 - ### 1.4.3: Contrasting Lamarck vs Darwin (pt. 1)
+	- a biologist asks: ***WHY?***
+		- both Lamarck's and Darwin's theories provide a possible answer to the question of evolution
+	- "Why do giraffes have long necks?"
+		- Lamarck: giraffes stretch their necks during their lifetime to reach higher leaves and pass this trait on to their offspring
+		- Darwin: a variety of giraffes are present within a population; those with longer necks can reach higher leaves, a luxury not present among the entire species. Those with shorter necks, being that they can  may starve, die, and leave those with the taller necks to survive and reproduce
 - ### 1.4.4: Contrasting Lamarck vs Darwin (pt 2)
 
 ## 1.5: Fossils and Evolution
