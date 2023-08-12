@@ -213,10 +213,7 @@
 			- size of a small dog; teeth adapted for biting small twigs (no grass yet)
 			- no hooves bc forest was wet; horse-like jaw
 		- 40 mya: [[mesohippus]]
-			- 2 middle toes fused into one and teeth changed; helped as prairies began
-			- 2 other toes = vestigial structures
-		- [[cladogenesis]]: pattern of *branching* in the evolutionary tree **showing the emergence of new species**
-			- **why significant? success rates
+			- 2 middle toes fused into one and teeth changed
 - ### 1.5.5: Mass Extinctions: AACRYD
 
 ## 1.6: Human Evolution
