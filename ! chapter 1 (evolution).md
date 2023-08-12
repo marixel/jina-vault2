@@ -400,6 +400,17 @@
 		- anaerobic photosynthetic bacteria took CO2 and released oxygen into atmosphere
 		- over a very long time, evolution exploded bc of oxygen in atmosphere
 	- when [[proteins]] are mixed with cool water, [[microspheres]] form
-	- [[coacervates]] 
+	- [[coacervates]]' drops absorb environmental substrates and release products of chemical reactions
+	- [[nucleic acid]]s are **not** capable of polymerizing [[replication reactions]]
 ## 1.11: Classifying Life
 - ### 1.11.1: The Linnaean System
+	- #### universal scientific language to name organisms
+	- categorizes organisms by **evolutionary relationships**
+	- kingdom, [[phylum]], class, order, family, [[genus]], and [[species]] (largest to smallest)
+		- kingdoms expanded from 2 --> 5:
+			- [[Monera]]: single-celled [[prokaryote]]s
+			- [[Protista]]: single-celled [[eukaryote]]s
+			- [[Plantae]]: multicellular organisms that perform [[Photosynthesis]]
+			- [[Animalia]]: multicellular, [[heterotrophic]] consumers
+			- [[Fungi]]: multicellular, [[heterotrophic]] absorbers
+- ### 1.11.2: The Linnaean System: Still Changing
