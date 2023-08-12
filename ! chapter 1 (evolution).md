@@ -24,7 +24,19 @@
 			- has to do w/ how life remains *balanced* to maintain a constant environment
 
 ## 1.2: Early Perspectives in Science
-
+- ### 1.2.1: An Introduction to Biology
+	- Biology mixes every science (a "kaleidoscope" of sciences) and tells us how the world works
+	- Biology = the big picture in science
+- ### 1.2.2: The Nature of Science: The Story of Darwin
+	- #### Scientific Method
+		1. observe
+		2. hypothesize
+		3. experiment
+		4. collect data
+		5. conclude
+	- these steps will come naturally in time
+	- #### science is about wonder and curiosity
+		- hypotheses aren't "proven," they're either rejected or not (there are very, *very* few constants in science)
 ## 1.3: An Introduction to Evolution
 
 ## 1.4: Evolution: The Theory of Natural Selection
