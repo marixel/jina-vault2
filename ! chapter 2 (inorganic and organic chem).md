@@ -51,9 +51,15 @@
 - ### 2.2.3: Polar Covalent Bonds, Hydrogen Bonds, and Van der Waals Interactions
 	- **Polar Covalent Bonds**: one element has shared electrons more often than the other
 		- [[the secret to life]] (like water)
-	- **Hydrogen Bond**: interactions between 2 molecules where there is a *weak attraction be
+	- **Hydrogen Bond**: interactions between 2 molecules where there is a *weak attraction between the partially positive and partially negative atoms* of **both** molecules
+		- [[DNA]] constructed of these types of bonds
+	- **Van der Waals interaction**: *very weak* attraction between 2 **nonpolar** molecules; very tightly packed molecules necessary
+		- caused by charge fluctuations from shift of electron clouds surrounding atoms of involved molecules
 ## 2.3: Properties of Water
 - ### 2.3.1: Water: Hydrogen Bonding, Solubility, and Specific Heat
+	- #### properties of water:
+		- 1. water = polar
+		- 2. water = universal solvent
 - ### 2.3.2: Water: Adhesion, Cohesion, and a Solid that Floats
 - ### 2.3.3: Water: Hydrophilic and Hydrophobic Substances
 - ### 2.3.4: Dissociation of Water and the pH Scale
