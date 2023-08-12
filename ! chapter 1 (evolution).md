@@ -300,9 +300,24 @@
 		1. isolating events
 			- geographic
 				- interrupts [[gene flow]] (ability to reproduce)
-		2. genetic divergence (2 ≤ gene populations in diff. environments)
+		2. genetic divergence (2 ≤ gene populations in diff. environments vary w/ gene pools)
+			- adaptive radiation: a great increase in species diversity over a relatively short time -- each variation adapts to new/unused resource or habitat
+			- [[cladogenesis]] bc no competition
+		3. reproductive isolation ([[Prezygotic]] or [[Postzygotic]])
 - ### 1.8.3: Prezygotic Reproductive Isolation
+	- [[zygote]]: fertilized egg
+	1. Habitat (diet preference, etc.)
+	2. Behavioral (courtship rituals; ex. male birds often bring food to females but females will reject food that they don't eat)
+	3. Temporal (time; different breeding seasons)
+	4. Mechanical (reproductive organs don't fit)
+	5. Gametic (sperm doesn't recognize egg)
 - ### 1.8.4: Postzygotic Reproductive Isolation
+	- occurs when zygote is [[inviable]] (unable to survive)
+	1. Hybrid Viability
+		- [[hybridization]]: process of interbreeding between 2 geographically separated populations
+	2. Hybrid Infertility
+		1. [[zygote]] --> viable organism but unable to reproduce
+		2. 
 
 ## 1.9: Examples of Artificial and Natural Selection
 - ### 1.9.1: Artificial Selection in Action
