@@ -128,7 +128,24 @@
 - ***How did Darwin's observations of the English rabbit and Patagonian Hare vs. his observations of the Galapagos Islands' diversity differ? Why did he decide that the former two developed separately, and that the latter was derived from a common ancestor?***
 
 ## 1.4: Evolution: The Theory of Natural Selection
-- 
+- ### 1.4.1: Darwin: Theory of Natural Selection
+	- influencers for theories
+		- Lyell's theory that continents moved ("Principles of Biology")
+		- variations/resemblances, fossils, artificial selection, and "An Essay on the Principles of Population" by **Thomas Malthus**
+			- humans will overpopulate Earth without disease, war, and famine
+	- #### Darwin's theory (unpublished):
+		1. species change over a long period of time
+		2. number of species increase
+		3. species descend from a common ancesto
+		4. *natural selection* causes survivors to emerge
+			- adaptation: trait in organism that helps it survive
+			- *natural selection conditions:*
+				- overpopulation, variety, and competition (**survival of the luckiest/fittest**)
+- ### 1.4.2: Theory of Natural Selection
+	- artificial selection example: Wild Mustard Plant
+	- work aft
+- ### 1.4.3: Contrasting Lamarck vs Darwin (pt. 1)
+- ### 1.4.4: Contrasting Lamarck vs Darwin (pt 2)
 
 ## 1.5: Fossils and Evolution
 
