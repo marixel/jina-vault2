@@ -1,4 +1,11 @@
 ## 1.1: Unity and Diversity of Life on Earth
+- ### 1.1.1: Properties of Life
+	- *Why are the worms alive?*
+	- What makes something *alive*?
+		- biologists **describe** life
+	- key to life: ***organization***
+		- life happens somewhere between molecules, organelles, and cells
+		- organism = "multicellular," but describes everyth
 
 ## 1.2: Early Perspectives in Science
 
