@@ -46,7 +46,32 @@
 			- few had faith in Darwin, and he could only go bc his uncle (and *only* his uncle) permitted that he should go
 			- **Fitzroy**, captain of the [[HMS Beagle]], believed that Darwin was a divine intervention (because his trip's purpose was to disprove evolutionists/literally prove the Bible)
 - ### 1.2.3: Early Scientific Thought
-- ![[Pasted image 20230812040038.png]]
+	```timeline 
+	[line-4, body-4]
+	+ 500-400 BC
+	+ Aristotle
+	+ 4 elements: fire, air, water, and earth<br>described world generally
+
+	+ 200-1200 AD
+	+ Age of Theology (No Science)
+	+  
+
+	+ 1200 AD
+	+ Roger Bacon, Thomas Aquinas, and Albertus Magnus
+	+ Bacon: reject dogma<br>Aquinas and Magnus: natural (from nature) vs revealed (theological) truths
+
+	+ 1500 AD
+	+ Francis bacon
+	+ don't accept anything without a test (experimentation advocacy)
+
+	+ 1600 AD
+	+ Galileo, Newton, John Ray, and James Usher: Dawn of Science
+	+ Galileo: supported Copernicus' theory (Earth = round and revolves around sun); forced to reject this theory to keep his life<br>Ray: found that fossils were remains of living things (an idea that couldn't be easily supported by theology)<br>Newton: physics and calculus<br>Usher: believed that world began in 4004 B.C.
+
+	+ 1800 AD
+	+ Darwin
+	+ Darwin embarked on his journey when the bulk of the information above was new or not yet widely accepted as truth. Originally, he was an explorer, not a scientist
+	```
 - ### 1.2.4: The Emerging Science of Geology
 	- John Ray started w/ fossil theory
 	- George Cuvier (geologist; 1769-1832)
