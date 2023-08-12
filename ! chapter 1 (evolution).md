@@ -346,10 +346,20 @@
 			- bacteria
 			- archaea
 		- [[eukaryote]]: has nuclear membrane
-	- next question: **how did life originate?** (be able to describe and maybe explain most plausible theory)
+	- next question: **how did life originate?** (be able to describe and maybe explain most plausible idea/heterotroph hypothesis)
 - ### 1.10.2: The Heterotroph Hypothesis: An Introduction
-	- **Oparin** and **Haldane's** hypothesis of primitive earth: "hot" from formation; reducing atmosphere (methane, water vapor, ammonia)
+	- **Oparin** and **Haldane's** hypothesis of primitive earth: "hot" from formation; [[reducing atmosphere]]
+		- lots of chemical activity on surface as result
+	- #### Reducing vs. Oxidizing Atmospheres:
+		- **Reducing**: methane, H2O, NH3, H2; chemicals = reducing agents; donates electrons; allows [[synthesis]]
+		- **Oxidizing**: O2; grabs electrons; no [[synthesis]] allowed
+	- **make prediction:** what to go from abiotic --> biotic world?
+		- quick chemical change, maybe?
+	- **explain**: why would or wouldn't this be able to take place in our modern world?
+		- wouldn't bc we have in an oxidizing atmosphere (prohibits synthesis)
 - ### 1.10.3: The Origin of Life: Life from Nonlife
+	1. [[synthesis]]: the making of [[organic]] [[molecules]]
+	2. [[]]
 - ### 1.10.4: The Heterotroph Hypothesis: Protobionts
 - ### 1.10.5: The Heterotroph Hypothesis: The First Genetic Material
 - ### 1.10.6: The Origin of Life: The Rest of the Story
