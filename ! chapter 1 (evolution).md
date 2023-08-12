@@ -115,9 +115,20 @@
 	- clam fossils in Andes Mountains and nearby forests
 	- "Where are the rabbits?" (there were none in South America, though there *were* hares that shared the same purpose)
 - ### 1.3.3: Darwin: More Observations
-	- found fossils of giant 
+	- found fossils of giant sloths and armadillos
+		- giants = ancestors of current generation?
+	- Patagonian Hare in Patagonia (like said b4, had rabbit's role/[[niche]] bc there were no English rabbits in South America)
+		- shared niche w/ English rabbits
+		- concluded that **they developed separately** (this is ***huge!***)
+	- in Galapagos islands, flora and fauna unique from creatures anywhere else
+		- many different varieties bc of adaptations
+		- islands were 600 miles from mainland
+		- [[biogeography]] present (varieties)
+			- therefore: **derived from a common ancestor**
+- ***How did Darwin's observations of the English rabbit and Patagonian Hare vs. his observations of the Galapagos Islands' diversity differ? Why did he decide that the former two developed separately, and that the latter was derived from a common ancestor?***
 
 ## 1.4: Evolution: The Theory of Natural Selection
+- 
 
 ## 1.5: Fossils and Evolution
 
