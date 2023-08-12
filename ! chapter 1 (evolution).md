@@ -391,8 +391,15 @@
 			- instead of [[enzymes]], [[ribozymes]] (enzymatic RNA [[molecule]])
 		- can bond to and release [[amino]] [[acid]]s
 		- can make [[DNA]]
-		- when combined w/ [[protobionts]] [[proto]]
+		- #### when combined w/ [[protobionts]], forms hereditary organism (a [[cell]]!!!)
 - ### 1.10.6: The Origin of Life: The Rest of the Story
-
+	- [[RNA]] may have given rise to [[DNA]]
+		- ex. [[retroviruses]]
+	- first cells "took in" energized molecules + broke bonds (following explains how environment went from reducing to oxidizing)
+		- in breaking of bonds, CO2 released into atmosphere
+		- anaerobic photosynthetic bacteria took CO2 and released oxygen into atmosphere
+		- over a very long time, evolution exploded bc of oxygen in atmosphere
+	- when [[proteins]] are mixed with cool water, [[microspheres]] form
+	- [[coacervates]] 
 ## 1.11: Classifying Life
 - ### 1.11.1: The Linnaean System
