@@ -210,7 +210,22 @@
 		- humans + other primates share a **common ancestor**
 		- doesn't mean that humans originated **directly** from "monkeys"
 		- [[phylogeny]]: evolutionary history of species or group of related species
+	- Features of Primates
+		- opposable thumbs (for grasping)
+		- nails instead of claws
+		- front-facing eyes (ability for depth perception)
+		- great/extended parental care
+	- Classificiatoin of animals w/ Linnaean system
+		- kingdom: animal
+		- phylum: chordata
+		- class: mammalia
+		- order: primate
+		- family: Hominidae
+			- man diverges from ape at this level (familial)
+	- **to find divergence between modern + ancient humans, must view fossil record and 'family trees' showing phylogeny**
 - ### 1.6.2: Human Evolution: The Family Tree
+	- primate phylogeny believed to have originated with "Ancestral arboreal (tree-dwelling) insectivores (insect-eaters)"
+		- ~55 mya, split into 2 major suborders: 
 - ### 1.6.3: Human Evolution: The Fossil Record
 
 ## 1.7: Evidence for Evolution
