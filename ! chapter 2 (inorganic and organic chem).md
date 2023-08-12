@@ -23,8 +23,18 @@
 		- 6. [[valence layer]]: reactive if not full
 		- 7. further [[electrons]]: higher potential energy (bc farther away from nucleus)
 - ### 2.1.3: Ions, Ionization, and Isotopes
-	- atoms interact 
+	- atoms interact at [[valence layer]]
+	- [[ion]]: positively/negatively charged particle (atom or molecule)
+		- Lewis Dot Notation: shows only [[valence layer]] to help visualize bonding
+		- [[ionization]]: formation of [[ion]]s
+			- [[atoms]] w/ unfilled [[valence layer]]s will gain or lose electrons to achieve stability
+		- [[isotopes]]: same atomic number, different atomic mass (different number of neutrons)
+			- [[radioisotope]]: change in element bc neutron charges/becomes proton
 - ### 2.1.4: Isotopes: Unraveling Photosynthesis
+	- [[isotopes]]: trace paths of [[atoms]] in chemical processes
+	- **old** [[Photosynthesis]] equation: $\ce{6CO2 + 6H2O -> C6H12O6 + 6O2}$
+		- explanation: water splits during [[Photosynthesis]] to give off O2 (discovered w/ heavy water isotope + equation needs 2 to be rebalanced)
+	- **new** [[Photosynthesis]] equation: $\ce{6Co2 + 12H2O -> }$
 
 ## 2.2: Atoms and Bonding
 - ### 2.2.1: Bonding and Electronegativity
