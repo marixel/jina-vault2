@@ -63,10 +63,25 @@
 			- ex. $\ce{Na+Cl-}$ will dissociate in water bc opposite charges wil attract and form [[hydration shells]] (can happen w/ any charged particles)
 		- 3. ionic substances will dissociate in water
 		- 4. nonpolar substances are insoluble in water
-		- 5. water is held together by a *lot* of 
+		- 5. water is held together by a *lot* of hydrogen bonds, so requires a lot of energy to overcome attractions
+			- [[specific heat]] of water: 1.0 (basis for other substances)
+			- resists temp. change
 - ### 2.3.2: Water: Adhesion, Cohesion, and a Solid that Floats
+	- water is wet (it leaves residue/clings to surfaces bc of polarity)
+		- 2 properties:
+			- [[adhesion]]: force of attraction between unlike molecules
+			- [[cohesion]]: force of attraction between like molecules
+		- explain how plants carry water from roots to branches
+		- surface tension: no upwards [[cohesive]] force, upper layer molecules tightly packed w/ downwards net force
+		- ice floats in water bc between 4C and 0C, it crystallizes and hydrogen bonds become more rigid
+		- [[turnover]]: when surface water, reaches 4C, it sinks and warmer water is pushed towards the surface
 - ### 2.3.3: Water: Hydrophilic and Hydrophobic Substances
+	- hydrophobia: rejection of water (nonpolar molecule)
+	- hydrophilic: *will* dissolve in water (polar + ionic molecules)
+	- [[detergents]]: molecule able to mix polar and nonpolar molecules bc of versatility (philic + phobic ends able to attract both substances)
 - ### 2.3.4: Dissociation of Water and the pH Scale
+	- [[pH]] is related to water's polarity
+		- when 2 wat
 - ### 2.3.5: Hemoglobin as a Buffer
 
 ## 2.4: Carbon Chemistry
