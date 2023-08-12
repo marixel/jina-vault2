@@ -162,10 +162,29 @@
 		- both Lamarck's and Darwin's theories provide a possible answer to the question of evolution
 	- "Why do giraffes have long necks?"
 		- Lamarck: giraffes stretch their necks during their lifetime to reach higher leaves and pass this trait on to their offspring
-		- Darwin: a variety of giraffes are present within a population; those with longer necks can reach higher leaves, a luxury not present among the entire species. Those with shorter necks, being that they can  may starve, die, and leave those with the taller necks to survive and reproduce
+		- Darwin: a variety of giraffes are present within a population; those with longer necks can reach higher leaves, a luxury not present among the entire species. Those with shorter necks, being that they can only reach the overconsumed lower leaves, may starve, die, and leave those with the taller necks to survive and reproduce
 - ### 1.4.4: Contrasting Lamarck vs Darwin (pt 2)
+	- "How did the woodpecker get a cushioned head?"
+		- Lamarck: woodpecker used its head a lot, causing it to grow stronger; this strengthened head is then passed on to its offspring
+		- Darwin: woodpeckers in a population have varying beak and head thicknesses. There will only be enough food to sustain those w/ desirable traits (thicker beaks, cushioned heads.) The surviving variations will reproduce and pass on their traits to their offspring.
+	- next question: What is the *source* of variation?
+	- selective pressure: when an outside force affects the composition of a population by favoring certain traits over others
+		- **how is this related to natural selection?**
 
 ## 1.5: Fossils and Evolution
+- ### 1.5.1: Fossil Formation, Dating, and Indexing
+	- Darwin's theory supported by fossils
+		- fossils often found in sediment, ice, or amber
+	- Sedimentation + fossil formation:
+		- water covers dry environment, killing the organisms
+		- over time, layers of sediment cover the organisms in the water
+		- with enough sediment, water dries; remains are mineralized or leave imprints
+	- Methods of dating fossils
+	- 
+- ### 1.5.2: The Fossil Record
+- ### 1.5.3: Some Fossil Surprises
+- ### 1.5.4: The Coevolution of Horses and Plants
+- ### 1.5.5: Mass Extinctions: AACRYD
 
 ## 1.6: Human Evolution
 
