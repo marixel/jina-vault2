@@ -44,7 +44,14 @@
 			- Darwin's teacher, **John Henslow**, got Darwin a place on the [[HMS Beagle]] (designated as the naturalist on board)
 			- voyage went worldwide
 			- few had faith in Darwin, and he could only go bc his uncle (and *only* his uncle) permitted that he should go
-			- **Fitzroy**, captain of the [[HMS Beagle]], believed that Darwin was a divine intervention (because his trip's purpose was to disprove evolutionist)
+			- **Fitzroy**, captain of the [[HMS Beagle]], believed that Darwin was a divine intervention (because his trip's purpose was to disprove evolutionists/literally prove the Bible)
+- ### 1.2.3: Early Scientific Thought
+	```timeline 
+	[line-3, body-2]
+	```
+
+
+
 ## 1.3: An Introduction to Evolution
 
 ## 1.4: Evolution: The Theory of Natural Selection
