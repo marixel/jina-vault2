@@ -81,8 +81,16 @@
 	- [[detergents]]: molecule able to mix polar and nonpolar molecules bc of versatility (philic + phobic ends able to attract both substances)
 - ### 2.3.4: Dissociation of Water and the pH Scale
 	- [[pH]] is related to water's polarity
-		- when 2 wat
+		- when 2 water molecules dissociate, $\ce{H3O+}$ (hydronium) and $\ce{-OH}$ (hydroxide) form
+		- $\ce{2H2O -> H3O+ + OH-}$ (but only 1/10m per liter of pure water)
+		- definition: negative log of concentration of [[hydronium]] of solution (in pure water, $\ce{10^-^7)}$; pH of water = 7
+	- [[acid]]s and [[base]]s
+		- (1-6.9): acids; proton (H+) donor (pH < 7), adds H+, increasing hydronium concentration
+		- (7.1-14): bases; proton (H+) acceptor (pH > 7); removes H+, lowering hydronium concentration
 - ### 2.3.5: Hemoglobin as a Buffer
+	- [[buffers]] help to maintain a constant pH
+	- [[enzymes]] require a constant pH to function
+	- [[hemoglobin]] carries oxygen in blood and adds on to substances within to keep pH constant a
 
 ## 2.4: Carbon Chemistry
 - ### 2.4.1: Carbon Chemistry and Isomers
