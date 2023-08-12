@@ -225,8 +225,28 @@
 	- **to find divergence between modern + ancient humans, must view fossil record and 'family trees' showing phylogeny**
 - ### 1.6.2: Human Evolution: The Family Tree
 	- primate phylogeny believed to have originated with "Ancestral arboreal (tree-dwelling) insectivores (insect-eaters)"
-		- ~55 mya, split into 2 major suborders: 
+		- ~55 mya, split into 2 major suborders: [[prosimii]] and [[anthropoidea]]
+			- [[prosimian]]: 
+				- layer, prosimians split into smaller groups (less related to primates)
+				- comparisons of anatomy determine tree placement
+			- [[anthropoid]]:
+			- physical similarities between splits + modern-day ppl begin w/ the second split (old world monkeys and apes)
+			- after split separating lesser and greater apes, final split determined by fossil record
 - ### 1.6.3: Human Evolution: The Fossil Record
+	- monkey-ape split may be result of some monkeys being born w/ ability to move + live on the ground
+		- w/ less competition, those on ground survived and reproduced, eventually forming **apes**
+	- 15-18 mya: [[ramapithecus]]
+		- shorter muzzle (like humans)
+		- smaller canines (like humans)
+	- ~4.5 mya: [[australopithecus]]
+		- first true [[hominid]]
+		- abt 1 meter tall
+		- brain 1/3 size of human's
+		- hip development
+	- the genus Homo
+		- smaller muzzles, larger brain cases
+		- many varieties because of natural selection
+	- [[species]]: narrowest defn
 
 ## 1.7: Evidence for Evolution
 - ### 1.7.1: Evidence for Evolution -- Biochemical Similarities
