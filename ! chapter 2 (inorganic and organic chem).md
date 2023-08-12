@@ -34,10 +34,15 @@
 	- [[isotopes]]: trace paths of [[atoms]] in chemical processes
 	- **old** [[Photosynthesis]] equation: $\ce{6CO2 + 6H2O -> C6H12O6 + 6O2}$
 		- explanation: water splits during [[Photosynthesis]] to give off O2 (discovered w/ heavy water isotope + equation needs 2 to be rebalanced)
-	- **new** [[Photosynthesis]] equation: $\ce{6Co2 + 12H2O -> }$
+	- **new** [[Photosynthesis]] equation: $\ce{6CO2 + 12H2O -> C6H12O6 + 6O2 + 6H2O}$
+		- uses *and* produces water!
 
 ## 2.2: Atoms and Bonding
 - ### 2.2.1: Bonding and Electronegativity
+	- Bonding Characteristics:
+		- 1. electrons travel in pairs
+		- 2. atoms show tendencies towards positive and negative interactions (or [[electrostatics]])
+		- 3. tend to establish completely **FULL** outer shells for stability
 - ### 2.2.2: Ionic and Covalent Bonds
 - ### 2.2.3: Polar Covalent Bonds, Hydrogen Bonds, and Van der Waals Interactions
 
