@@ -385,7 +385,13 @@
 		- cellular: [[DNA]] stores hereditary material
 			- [[DNA]] too complex to form spontaneously
 			- [[RNA]] (simpler than DNA) makes proteins + thought to be **first genetic material*
-	- [[RNA]] can form spontaneously + self-replicate (like some [[protobionts]])
+	- [[RNA]] can form spontaneously + self-replicate (like some [[protobionts]]!); small pieces of [[RNA]] can form from other [[RNA]]
+		- when proteins? 6
+		- RNA can act as its own [[catalyst]]
+			- instead of [[enzymes]], [[ribozymes]] (enzymatic RNA [[molecule]])
+		- can bond to and release [[amino]] [[acid]]s
+		- can make [[DNA]]
+		- when combined w/ [[protobionts]] [[proto]]
 - ### 1.10.6: The Origin of Life: The Rest of the Story
 
 ## 1.11: Classifying Life
