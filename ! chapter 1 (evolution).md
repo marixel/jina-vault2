@@ -286,6 +286,10 @@
 		- different [[morphotype]]s
 			- [[morphotype]]: categorization of individuals based on appearance ex. body shape, size, and coloring
 		- could reproduce *biochemically*
+	- **What defines a species?**
+		- [[speciation]] event: occurrence of a new species
+			- involves geography
+		- Darwin "discovered" the Rhen (large, flightless bird) and determined that it developed apart from 
 - ### 1.8.2: Speciation
 - ### 1.8.3: Prezygotic Reproductive Isolation
 - ### 1.8.4: Postzygotic Reproductive Isolation
