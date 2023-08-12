@@ -189,10 +189,19 @@
 		- coevolution: evolution in one group affecting changes in another
 		- biological ages of earth
 			- 3 bya: no fossils
-			- 1 bya: *only* bacteria ([[pre-cambrian]] period)
-			- 600 mya: algae + invertebrates ([[cambrian]] period + [[cambrian explosion]]
+			- 1 bya: *only* bacteria ([[Pre-cambrian]] period)
+			- 600 mya: algae + invertebrates ([[Cambrian]] period + [[Cambrian explosion]]
 			- 500 mya: advanced marine algae, early vertebrates, jawless fish ([[Ordovician]]))
+			- 400 mya: land plants + early arthropods ([[Silurian]] period)
+			- 350 mya: [[tracheophytes]] + early amphibians ([[Devonian]] period)
+			- 300 mya: **trees**, age of amphibians, early reptiles ([[radiation]] of amphibians because of no competition; [[Carboniferous]] period)
+			- 250 mya: reptiles rule + small mammals ([[Permian]] period)
+			- 60 mya: dinosaurs ruled + nocturnal, small mammals ([[Cretaceous]] Period)
 - ### 1.5.3: Some Fossil Surprises
+	- fossil record *provides evidence for evolution* and has had a few surprises
+		- whales share more characteristics w/ mammals than fish
+		- [[transitional]] fossils demonstrate this change
+			- ancestor = land-dwelling mammals
 - ### 1.5.4: The Coevolution of Horses and Plants
 - ### 1.5.5: Mass Extinctions: AACRYD
 
