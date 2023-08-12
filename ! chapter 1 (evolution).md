@@ -5,7 +5,15 @@
 		- biologists **describe** life
 	- key to life: ***organization***
 		- life happens somewhere between molecules, organelles, and cells
-		- organism = "multicellular," but describes everyth
+		- organism = "multicellular," but describes everything w/ life
+		- not all things w/ organization are alive
+	- #### 6 characteristics of life:
+		1. order
+		2. reproduction
+		3. growth and development
+		4. energy use
+		5. response to environment
+		6. homeostasis
 
 ## 1.2: Early Perspectives in Science
 
