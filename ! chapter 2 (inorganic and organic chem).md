@@ -90,7 +90,11 @@
 - ### 2.3.5: Hemoglobin as a Buffer
 	- [[buffers]] help to maintain a constant pH
 	- [[enzymes]] require a constant pH to function
-	- [[hemoglobin]] carries oxygen in blood and adds on to substances within to keep pH constant a
+	- [[hemoglobin]] carries oxygen in blood and adds on to substances within to keep pH constant (acid-like hemoglobin/H+Hb)
+		- $\ce{CO2 + H2O -> H2CO3 -> H2O + H+ -> H3O+ // HCO^-3}$
+		- $\ce{CO2 + H2O -> H2CO3 + K+Hb -> KHCO3 + H+Hb}$
+		- if too acidic, buffers accept H+
+		- if too basic, buffers release H+
 
 ## 2.4: Carbon Chemistry
 - ### 2.4.1: Carbon Chemistry and Isomers
