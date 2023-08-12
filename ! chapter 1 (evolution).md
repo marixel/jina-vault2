@@ -316,11 +316,19 @@
 	1. Hybrid Viability
 		- [[hybridization]]: process of interbreeding between 2 geographically separated populations
 	2. Hybrid Infertility
-		1. [[zygote]] --> viable organism but unable to reproduce
-		2. 
-
+		-  [[zygote]] --> viable organism but unable to reproduce
+		- ex. horse + donkey = mule (which is infertile) bc parents have different numbers of [[chromosomes]]
+	3. Hybrid Breakdown
+		- hybrid = viable + fertile, but offspring are inviable or infertile (ex. female ligers can be impregnated, but the fetus is most likely inviable)
+- **to form a new species, parents must be different populations that can't reproduce with each other in a wild, free-ranging environment (because of isolation)**
+	- elaborate? how do new species form in the wild??
 ## 1.9: Examples of Artificial and Natural Selection
 - ### 1.9.1: Artificial Selection in Action
+	- been studying evolution only for few hundred yrs
+		- hard to experiment upon
+	- [[Artificial Selection]]: selective breeding to produce offspring w/ desirable traits (so high frequency of desired traits in environment)
+		- allows experimentation + study of *mechanisms* of evolution and [[natural selection]]
+		- [[selective pressure]]: those w/ desirable traits will reproduce (ex. bacteria that are already resistant to initial dose of antibiotics when it comes through will reproduce and pass on this trait)
 - ### 1.9.2: Natural Selection in Action
 
 ## 1.10: The Origin of Life
