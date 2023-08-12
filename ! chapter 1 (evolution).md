@@ -372,8 +372,20 @@
 - ### 1.10.4: The Heterotroph Hypothesis: Protobionts
 	- [[Protobionts]]: cell-like qualities, but unable to reproduce; chemistry occurs
 		- involves [[aggregation]]
-		- can form spontaneously from [[abiotic]]
+		- can form spontaneously from [[abiotic]]/nonliving materials
+		1. [[coacervates]]: self-assemble, aggregate of molecules surrounded by water shell
+			- [[enzymes]]: class of [[proteins]] serving as catalysts (proteins are like small test tubes; contained reactions)
+		2. [[proteinoids]]: abiotically produced polypeptides that self-assemble to form microspheres (shell of proteinoids that self-assemble to surround water)
+			- selectively permeable
+		3. [[liposomes]]: lipid shells w/ water interiors
+		- [[Heterotroph]]: something that takes in and processes materials (think [[heterotrophic organisms]])
 - ### 1.10.5: The Heterotroph Hypothesis: The First Genetic Material
+	- "How did these [[organic]] [[molecules]] get formed?"
+	- [[reproduction]]/[[heredity]]
+		- cellular: [[DNA]] stores hereditary material
+			- [[DNA]] too complex to form spontaneously
+			- [[RNA]] (simpler than DNA) makes proteins + thought to be **first genetic material*
+	- [[RNA]] can form spontaneously + self-replicate (like some [[protobionts]])
 - ### 1.10.6: The Origin of Life: The Rest of the Story
 
 ## 1.11: Classifying Life
