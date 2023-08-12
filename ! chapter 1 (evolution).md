@@ -246,12 +246,33 @@
 	- the genus Homo
 		- smaller muzzles, larger brain cases
 		- many varieties because of natural selection
-	- [[species]]: narrowest defn
+	- [[species]]: narrowest defining group that can be assigned; organisms within a species can interbreed
+	- #### **human evolution**: characterized by decreasing jaw size and increasing brain size
+		- modern-day human skulls resemble [[neanderthal]] and [[Cro-Magnon]] skulls
+	- [[australopithecus]] walked on 2 feet
 
 ## 1.7: Evidence for Evolution
 - ### 1.7.1: Evidence for Evolution -- Biochemical Similarities
+	- biochemical similarities: back up evidence for evolution
+		- DNA makes proteins (in effect; DNA makes RNA makes Proteins)
+		- [[hemoglobin]]: protein molecule w/ 4 sub-units found in red blood cells; functions to carry oxygen through cell
+			- closer relations = similar hemoglobin structures (gorillas + humans have 1 [[amino]] [[acid]] difference)
+		- [[DNA]]: molecule that carries genetic info in all living organisms
+			- only ~2% makes proteins, so DNA chemical sequencing more accurate
+			- human + chimps share 98.3% of DNA content
+		- points of divergence from a common ancestry = ultimately caused by divergence in DNA
 - ### 1.7.2: Evidence for Evolution: Vestigial Structures
+	- vestigial structures tend to be disadvantages
+	- #### [[Vestigial]] Structures:
+		- present w/ no apparent function
+		- **provide evidence of descent w/ mods**
+		- example: appendix (remaining part of cecum)
+			- og mammals: herbivores
+			- couldn't digest cellulose in plants; cecum stored bacteria which could digest it
+				- carnivores (+ omnivores by extension) didn't need it bc they didn't consume cellulose
+				- cecum was just storing bacteria; if appendix is infected, will need to be removed
 - ### 1.7.3: Homologous Structures
+	- [[homologous]] structures: equivalent structures between different species bc of shared ancestry (same structure, different function)
 
 ## 1.8: Species Concepts
 - ### 1.8.1: Species Concepts
