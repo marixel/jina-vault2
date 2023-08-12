@@ -60,6 +60,10 @@
 	- #### properties of water:
 		- 1. water = polar
 		- 2. water = universal solvent
+			- ex. $\ce{Na+Cl-}$ will dissociate in water bc opposite charges wil attract and form [[hydration shells]] (can happen w/ any charged particles)
+		- 3. ionic substances will dissociate in water
+		- 4. nonpolar substances are insoluble in water
+		- 5. water is held together by a *lot* of 
 - ### 2.3.2: Water: Adhesion, Cohesion, and a Solid that Floats
 - ### 2.3.3: Water: Hydrophilic and Hydrophobic Substances
 - ### 2.3.4: Dissociation of Water and the pH Scale
