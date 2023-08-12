@@ -37,6 +37,14 @@
 	- these steps will come naturally in time
 	- #### science is about wonder and curiosity
 		- hypotheses aren't "proven," they're either rejected or not (there are very, *very* few constants in science)
+	- [[Charles Darwin]]
+		- "forefather" of scientific thought
+		- grandfather theorized natural selection (but nobody listened)
+		- grew up wealthy, quit medical school, failed law school, and made it through divinity school
+			- Darwin's teacher, **John Henslow**, got Darwin a place on the [[HMS Beagle]] (designated as the naturalist on board)
+			- voyage went worldwide
+			- few had faith in Darwin, and he could only go bc his uncle (and *only* his uncle) permitted that he should go
+			- **Fitzroy**, captain of the [[HMS Beagle]], believed that Darwin was a divine intervention (because his trip's purpose was to disprove evolutionist)
 ## 1.3: An Introduction to Evolution
 
 ## 1.4: Evolution: The Theory of Natural Selection
