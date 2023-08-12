@@ -47,7 +47,7 @@
 			- **Fitzroy**, captain of the [[HMS Beagle]], believed that Darwin was a divine intervention (because his trip's purpose was to disprove evolutionists/literally prove the Bible)
 - ### 1.2.3: Early Scientific Thought
 	```timeline 
-	[line-3, body-2]
+	[line-4, body-4]
 	+ 500-400 BC
 	+ Aristotle
 	+ 4 elements: fire, air, water, and earth<br>described world generally
@@ -57,8 +57,15 @@
 	+  
 
 	+ 1200 AD
-	+ Roger Bacon
-	+ 
+	+ Roger Bacon, Thomas Aquinas, and Albertus Magnus
+	+ Bacon: reject dogma<br>Thomas and Albertus: natural (from nature) vs revealed (theological) truths
+
+	+ 1500 AD
+	+ Francis bacon
+	+ don't accept anything without a test (experimentation advocacy)
+
+	+ 1600 AD
+	+ Galileo, Newton, John Ray: Dawn of Science
 	```
 
 
