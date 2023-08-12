@@ -10,10 +10,18 @@
 	- #### 6 characteristics of life:
 		1. order
 		2. reproduction
+			- ability to reproduce at the molecular level (like DNA, cells, etc.)
+			- sterile organisms can reproduce in this way
 		3. growth and development
-		4. energy use
+			- doesn't just refer to expansion
+			- refers to creation of *new material*
+		4. energy use (will show up later in class)
 		5. response to environment
+			- also called [irritability]
+			- doesn't refer to physical or chemical changes
 		6. homeostasis
+			- synthesizes previous points
+			- has to do w/ how life remains *balanced* to maintain a constant environment
 
 ## 1.2: Early Perspectives in Science
 
