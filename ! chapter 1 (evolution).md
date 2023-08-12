@@ -48,6 +48,17 @@
 - ### 1.2.3: Early Scientific Thought
 	```timeline 
 	[line-3, body-2]
+	+ 500-400 BC
+	+ Aristotle
+	+ 4 elements: fire, air, water, and earth<br>described world generally
+
+	+ 200-1200 AD
+	+ Age of Theology (No Science)
+	+  
+
+	+ 1200 AD
+	+ Roger Bacon
+	+ 
 	```
 
 
