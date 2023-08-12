@@ -359,8 +359,20 @@
 		- wouldn't bc we have in an oxidizing atmosphere (prohibits synthesis)
 - ### 1.10.3: The Origin of Life: Life from Nonlife
 	1. [[synthesis]]: the making of [[organic]] [[molecules]]
-	2. [[]]
+	2. [[polymerization]]: bonding of simple molecules to make more complex molecules
+	3. [[aggregation]]: collection of large molecules into an organized structure
+	4. [[heredity]]: the passing on of information ([[reproduction]])
+	- 1953: **Miller and Urey's experiment (recreated proposed conditions of early Earth's atmosphere)**
+		- "hot thin soup" or the atmosphere (made up of [[life's building blocks]])
+		- formed 20 [[amino]] [[acid]]s, simple sugars, and lipids (components of life)
+		- demonstrates [[synthesis]] (formation of [[organic]] [[molecules]]!!!!)
+	- **Sidney Fox's polymerization experiment:**
+		- exposed amino acids to dry environment proposed for early Earth
+		- [[amino]] [[acid]]s *formed [[proteins]]**
 - ### 1.10.4: The Heterotroph Hypothesis: Protobionts
+	- [[Protobionts]]: cell-like qualities, but unable to reproduce; chemistry occurs
+		- involves [[aggregation]]
+		- can form spontaneously from [[abiotic]]
 - ### 1.10.5: The Heterotroph Hypothesis: The First Genetic Material
 - ### 1.10.6: The Origin of Life: The Rest of the Story
 
