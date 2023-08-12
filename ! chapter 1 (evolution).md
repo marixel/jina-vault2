@@ -273,9 +273,19 @@
 				- cecum was just storing bacteria; if appendix is infected, will need to be removed
 - ### 1.7.3: Homologous Structures
 	- [[homologous]] structures: equivalent structures between different species bc of shared ancestry (same structure, different function)
+	- [[convergent evolution]]: evolution of analogous structures between distantly related animals
+	- during embryonic development, lots of homology bc of active genes that deactivate later on
+	- **DNA record --> homology --> fossil record** (in terms of specificity)
+	- homologous structures are determined by genetic inheritance
 
 ## 1.8: Species Concepts
 - ### 1.8.1: Species Concepts
+	- some organisms can/can't reproduce with each other
+	- think Great Danes + Chihuahuas:
+		- unlikely to mate in nature
+		- different [[morphotype]]s
+			- [[morphotype]]: categorization of individuals based on appearance ex. body shape, size, and coloring
+		- could reproduce *biochemically*
 - ### 1.8.2: Speciation
 - ### 1.8.3: Prezygotic Reproductive Isolation
 - ### 1.8.4: Postzygotic Reproductive Isolation
