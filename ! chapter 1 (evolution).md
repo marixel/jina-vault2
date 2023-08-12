@@ -330,10 +330,25 @@
 		- allows experimentation + study of *mechanisms* of evolution and [[natural selection]]
 		- [[selective pressure]]: those w/ desirable traits will reproduce (ex. bacteria that are already resistant to initial dose of antibiotics when it comes through will reproduce and pass on this trait)
 - ### 1.9.2: Natural Selection in Action
+	- #### individuals with most fit more likely to survive and reproduce
+	- [[population]]: members of the same species that occupy the same area
+	- drastic changes in environment can alter [[selective pressure]] (ex. environment undergoes sudden change + formerly unsuccessful group now has ideal conditions)
 
 ## 1.10: The Origin of Life
 - ### 1.10.1: History of Life: Overview of the Heterotroph Hypothesis
+	- theory vs hypothesis
+		- [[theory]]: an idea with overwhelmingly supportive evidence (as close to truth as can be achieved from a scientific standpoint)
+		- [[hypothesis]]: *proposed* explanation for an observation
+		- ex. [[Atomic Theory]] vs [[Heterotroph Hypothesis]]
+	- first life: [[stromatolite]] (dome-shaped fossil w/ single-celled bacteria)
+	- types of single-celled bacteria:
+		- [[prokaryote]]: no nuclear membrane
+			- bacteria
+			- archaea
+		- [[eukaryote]]: has nuclear membrane
+	- next question: **how did life originate?** (be able to describe and maybe explain most plausible theory)
 - ### 1.10.2: The Heterotroph Hypothesis: An Introduction
+	- **Oparin** and **Haldane's** hypothesis of primitive earth: "hot" from formation; reducing atmosphere (methane, water vapor, ammonia)
 - ### 1.10.3: The Origin of Life: Life from Nonlife
 - ### 1.10.4: The Heterotroph Hypothesis: Protobionts
 - ### 1.10.5: The Heterotroph Hypothesis: The First Genetic Material
