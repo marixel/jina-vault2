@@ -420,4 +420,6 @@
 			- [[Plantae]], [[Animalia]], and [[[Fungi]]: eukarya [[domain]]; same names (3-domain)
 			- [[Protista]]: split into 3 or 5 groups (8-kingdom and 3-domain, respectively)
 			- [[Monera]]: [[domain]] archaea + [[domain]] bacteria
-				- common arching point?
+				- common branching point
+			- [[domain]]: highest [[taxonomic]] category (above kingdom!)
+		- evolution and scientific knowledge are **always growing**
