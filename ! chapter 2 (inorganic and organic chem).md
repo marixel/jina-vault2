@@ -39,13 +39,19 @@
 
 ## 2.2: Atoms and Bonding
 - ### 2.2.1: Bonding and Electronegativity
-	- Bonding Characteristics:
 		- 1. electrons travel in pairs
 		- 2. atoms show tendencies towards positive and negative interactions (or [[electrostatics]])
 		- 3. tend to establish completely **FULL** outer shells for stability
+	- [[electronegativity]]: tendency to gain/hold electrons (numeric value)
+		- diff. >2: *transfer* of electrons (ionic bond)
+		- diff. <2: *sharing* of electrons (covalent bond)
 - ### 2.2.2: Ionic and Covalent Bonds
+	- [[ionic]] bonds: 2 oppositely charged ions attract (often 2 highly reactive atoms)
+	- [[covalent]] bonds: difference in electronegativity <2 = electron constantly moving between atoms in bond (often involves low-mid reactivity elements)
 - ### 2.2.3: Polar Covalent Bonds, Hydrogen Bonds, and Van der Waals Interactions
-
+	- **Polar Covalent Bonds**: one element has shared electrons more often than the other
+		- [[the secret to life]] (like water)
+	- **Hydrogen Bond**: interactions between 2 molecules where there is a *weak attraction be
 ## 2.3: Properties of Water
 - ### 2.3.1: Water: Hydrogen Bonding, Solubility, and Specific Heat
 - ### 2.3.2: Water: Adhesion, Cohesion, and a Solid that Floats

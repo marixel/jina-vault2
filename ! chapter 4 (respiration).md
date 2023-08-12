@@ -57,7 +57,7 @@ More [[ATP]] will be produced from *reduced [[coenzymes]]* in mitochondria durin
 - In the **[[electron]] transport chain**, [[electrons]] are transferred between proteins, [[energy]] is released, and free [[energy]] decreases.
   - Above: used to pump protons across the membrane to set up a gradient.
   - The [[electron]] transport chain has proteins that accept [[electrons]] from NADH + H2 and FAD2 to convert them with [[redox]] reactions; [[energy]] released from these reactions pumps [[electrons]] from the inner membrane to the intermembrane space.
-    - The final [[electron]] acceptor is oxygen (at the end of the [[electron]] transport chain); because of its high [[electronegativity,]] it can easily accept low-[[energy]] [[electrons]] ([[hydrogen]]). [[Hydrogen]]-oxygen bonds form water.
+    - The final [[electron]] acceptor is oxygen (at the end of the [[electron]] transport chain); because of its high [[electronegativity]] it can easily accept low-[[energy]] [[electrons]] ([[hydrogen]]). [[Hydrogen]]-oxygen bonds form water.
 
 ## 4.4.2: Oxidative [[Phosphorylation]]
 
