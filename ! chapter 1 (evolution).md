@@ -72,9 +72,22 @@
 	+ Darwin
 	+ Darwin embarked on his journey when the bulk of the information above was new or not yet widely accepted as truth. Originally, he was an explorer, not a scientist
 	```
-
-
+- ### 1.2.4: The Emerging Science of Geology
+	- John Ray started w/ fossil theory
+	- George Cuvier (geologist; 1769-1832)
+		- studied stratification (formation/structure of rock layers)
+		- noticed that layers changed over time
+			- theory: caused by catastrophic events ([[catastrophism]]; mass-extinctions)
+			- deeper fossils = more and more unfamiliar (bc older)
+	- James Hutton = proposed [[gradualism]] in 1785 to opposite Cuvier's idea
+		- [[gradualism]]: earth is shaped oer tiem by geological process (slow, continuous change)
+	- Charles Lyell (1797-1875)
+		- [[uniformitarianism]]: forces involved in gradualism have not changed through Earth's history
+			- so: few catastrophes and earth is >6000 years old
+	- **opened doors** and **changed minds**
 ## 1.3: An Introduction to Evolution
+- ### 1.3.1: Linnaeas, Buffon, and Lamarck
+###
 
 ## 1.4: Evolution: The Theory of Natural Selection
 
