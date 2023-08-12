@@ -46,7 +46,7 @@
 			- few had faith in Darwin, and he could only go bc his uncle (and *only* his uncle) permitted that he should go
 			- **Fitzroy**, captain of the [[HMS Beagle]], believed that Darwin was a divine intervention (because his trip's purpose was to disprove evolutionists/literally prove the Bible)
 - ### 1.2.3: Early Scientific Thought
-- ![[Pasted image 20230812040038.png]]
+	- ![[Pasted image 20230812040038.png]]
 - ### 1.2.4: The Emerging Science of Geology
 	- John Ray started w/ fossil theory
 	- George Cuvier (geologist; 1769-1832)
@@ -414,3 +414,10 @@
 			- [[Animalia]]: multicellular, [[heterotrophic]] consumers
 			- [[Fungi]]: multicellular, [[heterotrophic]] absorbers
 - ### 1.11.2: The Linnaean System: Still Changing
+	- need to change 5-kingdom system as scientific knowledge grows
+		- [[Protista]] + [[Monera]] = too broad
+		- which: [[3-domain system]], [[5-kingdom system]], or [[8-kingdom system]]
+			- [[Plantae]], [[Animalia]], and [[[Fungi]]: eukarya [[domain]]; same names (3-domain)
+			- [[Protista]]: split into 3 or 5 groups (8-kingdom and 3-domain, respectively)
+			- [[Monera]]: [[domain]] archaea + [[domain]] bacteria
+				- common arching point?
