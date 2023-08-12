@@ -206,6 +206,10 @@
 
 ## 1.6: Human Evolution
 - ### 1.6.1: Human Evolution: What is a Primate?
+	- Darwin's theory of natural selection = often misinterpreted
+		- humans + other primates share a **common ancestor**
+		- doesn't mean that humans originated **directly** from "monkeys"
+		- [[phylogeny]]: evolutionary history of species or group of related species
 - ### 1.6.2: Human Evolution: The Family Tree
 - ### 1.6.3: Human Evolution: The Fossil Record
 
