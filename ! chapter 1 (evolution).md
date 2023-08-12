@@ -86,8 +86,25 @@
 			- so: few catastrophes and earth is >6000 years old
 	- **opened doors** and **changed minds**
 ## 1.3: An Introduction to Evolution
-- ### 1.3.1: Linnaeas, Buffon, and Lamarck
-###
+- ### 1.3.1: Linnaeus, Buffon, and Lamarck
+	- Linnaeus: **binomial system of nomenclature** (genus + species)
+		- 2-name system of naming
+		- 8-system animal kingdom
+		- system allows for more in-depth analysis of life forms
+	- Georges Buffon: "A Natural History of Animals"
+		- animal anatomy
+		- naturalist
+		- while researching, **noticed**:
+			- [[homologous]] structures: similar constructs between animals w/ varying structures derived from a common ancestor
+			- vestigial structures: constructs w/o apparent use
+	- Jean Baptiste de Lamarck: **first evolution theory**
+		1. use or disuse
+			- like weight training (more use = adapts to meet needs within lifetime; likewise, with less use the structure decays)
+		2. inheritance of acquired characteristics
+			- organisms pass on their traits from use/disuse to offspring
+			- rarely true (think: two absolutely jacked , olympic-gold-medalist-in-lifting level parents would still have a fat, normally sized baby)
+- ### 1.3.2: Darwin: The Voyage Continues
+- ### 1.3.3: Darwin: More Observations
 
 ## 1.4: Evolution: The Theory of Natural Selection
 
