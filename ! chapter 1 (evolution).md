@@ -289,8 +289,18 @@
 	- **What defines a species?**
 		- [[speciation]] event: occurrence of a new species
 			- involves geography
-		- Darwin "discovered" the Rhen (large, flightless bird) and determined that it developed apart from 
+		- Darwin "discovered" the Rhen (large, flightless bird) and determined that it developed apart from common group by a river
+		- [[species]]: populations that can produce fertile offspring in wild, free-ranging environment
+			- coyotes + dogs: fertile offspring, but don't mate in wild
+			- lions + tigers: don't mate in wild and produce sterile/generationally inviable offspring
+			- horses + donkeys: infertile offspring, may mate in wild
+		- [[speciation]]: **continuous process** (so gray area will always be present)
 - ### 1.8.2: Speciation
+	- **when do organisms stop interbreeding?** Speciation guidelines (at least one must be followed)
+		1. isolating events
+			- geographic
+				- interrupts [[gene flow]] (ability to reproduce)
+		2. genetic divergence (2 ≤ gene populations in diff. environments)
 - ### 1.8.3: Prezygotic Reproductive Isolation
 - ### 1.8.4: Postzygotic Reproductive Isolation
 
