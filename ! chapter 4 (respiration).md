@@ -53,8 +53,10 @@ review questions 2, 9, 18, 24, and 25 on chapter test for midterm/final (got wro
 		- [[electronegativity]]: molecule's ability to hold electrons
 		- energy released when something goes from high --> lower state of potential energy
 - ### 4.1.5: Energy Release from Sugar: A Demo
-	- energy stored between bonds of sugar = released when chemical source of oxygen (potassium chlorate)
+	- energy stored between bonds of sugar = released when chemical source of oxygen (potassium chlorate) is added (and activated by activation energy (sulfuric acid))
+	- to prevent rapid, exergonic reactions like this from happening (and destroying our insides) our body has developed a method to regulate the energy release from sugar
 - ### 4.1.6: Coenzymes: The Role of NAD+
+	- energy release = regulated in cell by a series of redox reactions
 
 ## 4.2: Glycolysis and Fermentation
 - ### 4.2.1: Glycolysis: The Initial Steps: Energy Input
