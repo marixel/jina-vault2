@@ -50,7 +50,10 @@ review questions 2, 9, 18, 24, and 25 on chapter test for midterm/final (got wro
 				- carbon will lose electrons when bonded to oxygen (bc oxygen pulling it away w/ stronger force than hydrogen did)
 				- carbon is then oxidized
 	- energy = product of redox reactions bc electrons go from low --> high electronegativity
+		- [[electronegativity]]: molecule's ability to hold electrons
+		- energy released when something goes from high --> lower state of potential energy
 - ### 4.1.5: Energy Release from Sugar: A Demo
+	- energy stored between bonds of sugar = released when chemical source of oxygen (potassium chlorate)
 - ### 4.1.6: Coenzymes: The Role of NAD+
 
 ## 4.2: Glycolysis and Fermentation
