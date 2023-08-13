@@ -190,8 +190,13 @@
 	- waxes: [[lipid]]s found in cuticle layer of plant leaves preventing water loss; in human's inner ears (earwax)
 	- [[steroids]]: composed of 4 fused rings
 	- ![[steroid_structure.png]]
-		- [[cholesterol]]: component of biel
+		- [[cholesterol]]: component of bile; produces Vitamin D and precursor to formation of sex hormones (ex. testosterone or estrogen)
 - ### 2.6.4: Nucleic Acids: An Introduction to Genetic Material
+	- #### central Dogma of Biology: DNA makes RNA makes Proteins
+		- DNA + RNA
+			- made of [[nucleotide]]s
+		- *Deoxyribo*nucleic acid: missing an oxygen in ribose
+			- nitrogeneous bases vary between [[nucleotide]]s (agenine, guanine, cytosine,)
 
 ## 2.7: Proteins
 - ### 2.7.1: Proteins: Amino Acids and the Peptide Bond
