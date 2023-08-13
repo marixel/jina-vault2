@@ -282,6 +282,12 @@
 
 ## 2.8: Enzymes
 - ### 2.8.1: Bioenergetics: The Laws of Thermodynamics
+	- 2 Laws of [[Thermodynamics]]:
+		- 1. Energy can neither be created nor destroyed -- only transferred
+		- 2. energy transfer increases entropy (disorder)
+			- [[entropy]]: tendency towards disorder
+			- **life is a battle against the constantly increasing entropy in the universe**
+	- [[free energy]]: the energy available to do [[work]]
 - ### 2.8.2: Activation Energy
   ### 2.8.3: Enzyme Characteristics
 
