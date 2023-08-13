@@ -184,10 +184,13 @@
 		- ex. peanut oil
 
 - ### 2.6.3: Phospholipids, Waxes, and Steroids
-	- [[phospholipids]]: basic component of [[cell membrane]] (lipids w/ phosphorus)
+	- [[phospholipids]]: basic component of [[cell membrane]] (lipids w/ phosphorus
+ ![[phospholipid_structure.png]]
 		- very similar to [[triglycerides]]
 	- waxes: [[lipid]]s found in cuticle layer of plant leaves preventing water loss; in human's inner ears (earwax)
 	- [[steroids]]: composed of 4 fused rings
+	- ![[steroid_structure.png]]
+		- [[cholesterol]]: component of biel
 - ### 2.6.4: Nucleic Acids: An Introduction to Genetic Material
 
 ## 2.7: Proteins
