@@ -36,7 +36,12 @@ first stage summary:
 - 6. glyceraldehyde phosphate = oxidized (NAD+ reduced) and phosphorylated by *triose phosphate dehydrogenase* to produce 1, 3-biphosphoglycerate and 2 molecules of NADH + H+
 - ![[Pasted image 20230813111159.png]]
 	- coupled reaction (redox --> phosphorylation)
-- 7. phosphate group removed from each 1, 3 biphosphoglycerate to make 2 ATP
+- 7. phosphate group removed from each 1, 3 biphosphoglycerate to make 2 ATP and 3-phosphoglycerate; mediated by phospho-glycerokinase
+	- from the name of this enzyme, we can determine that it has to do with the formation of ATP (energy/kinase) from glycerol (glycero) by means of altering a phosphate group (phospho)
+- 8. remaining phosphate group transferred to middle carbon by *phosphoglyceromutase*, energizing and destabilizing the molecule
+	- 2-phosphoglycerate results
+	- from this enzyme, we can assume that it will catalyze a reaction having to do with the movement of a phosphate group (mutase; phospho) and a change in the 
+	- ![[Pasted image 20230813111559.png]]
 
 ## flashcards
 
