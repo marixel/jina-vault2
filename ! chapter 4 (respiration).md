@@ -121,28 +121,28 @@ review questions 2, 9, 18, 24, and 25 on chapter test for midterm/final (got wro
 ## 4.3: Aerobic Respiration
 - ### 4.3.1: [[Aerobic]] [[Respiration]]: The Acetyl CoA Step
 
-[[Aerobic]] [[respiration]] starts after [[pyruvate]] is produced from [[glycolysis]].
-It begins with [[pyruvate]] being converted to acetyl CoA (coenzyme A).
-1. Decarboxylation (removal of CO2).
-2. [[Reduction]] of [[NAD+]] (back to NADH + H+).
-3. Attachment of coenzyme A (energizes + destabilizes the molecule; prepares it for [[energy]] release).
-In organisms with mitochondria (+ takes place in mitochondria).
-
-Glucose -> [[Pyruvate]] -> Acetyl CoA -> Krebs cycle
+		[[Aerobic]] [[respiration]] starts after [[pyruvate]] is produced from [[glycolysis]].
+		It begins with [[pyruvate]] being converted to acetyl CoA (coenzyme A).
+		1. Decarboxylation (removal of CO2).
+		2. [[Reduction]] of [[NAD+]] (back to NADH + H+).
+		3. Attachment of coenzyme A (energizes + destabilizes the molecule; prepares it for [[energy]] release).
+		In organisms with mitochondria (+ takes place in mitochondria).
+		
+		Glucose -> [[Pyruvate]] -> Acetyl CoA -> Krebs cycle
 
 - ### 4.3.2: [[Aerobic]] [[Respiration]]: Krebs Cycle
-**Important**
-- 8-step cycle where acetyl CoA is added to **oxaloacetate** (which is broken down, producing CO2, **reduced [[coenzymes]]** (NADH + H+ and FADH2), and [[ATP]]).
-- Happens to BOTH acetyl CoAs.
-1. Acetyl CoA added to oxaloacetate to form citrate (coenzyme A converted to CoA-SH and removed in the process).
-2. Dehydration synthesis + hydrolysis during the process; change in shape or isomerization of citrate to form isocitrate (less stability + more [[energy]]).
-3. Isocitrate decarboxylated + converted to alpha-ketoglutarate (bc 5 carbons); [[NAD+]] reduced.
-4. Alpha-ketoglutarate has CoA added, is decarboxylated, and [[NAD+]] is reduced, converting it to succinyl CoA (4 carbons, less stability).
-5. Succinyl CoA releases CoA and makes GTP (which is hydrolyzed), forming succinate and releasing [[ATP]].
-6. Succinate converted to fumarate when FAD ([[redox]]-active coenzyme) reduced to form FADH2.
-7. Fumarate converted to malate when hydrolyzed.
-8. Malate converted to oxaloacetate after [[NAD+]] is reduced.
-Oxaloacetate can accept another acetyl CoA, and the process repeats (goes in a loop).
+	**Important**
+	- 8-step cycle where acetyl CoA is added to **oxaloacetate** (which is broken down, producing CO2, **reduced [[coenzymes]]** (NADH + H+ and FADH2), and [[ATP]]).
+	- Happens to BOTH acetyl CoAs.
+	1. Acetyl CoA added to oxaloacetate to form citrate (coenzyme A converted to CoA-SH and removed in the process).
+	2. Dehydration synthesis + hydrolysis during the process; change in shape or isomerization of citrate to form isocitrate (less stability + more [[energy]]).
+	3. Isocitrate decarboxylated + converted to alpha-ketoglutarate (bc 5 carbons); [[NAD+]] reduced.
+	4. Alpha-ketoglutarate has CoA added, is decarboxylated, and [[NAD+]] is reduced, converting it to succinyl CoA (4 carbons, less stability).
+	5. Succinyl CoA releases CoA and makes GTP (which is hydrolyzed), forming succinate and releasing [[ATP]].
+	6. Succinate converted to fumarate when FAD ([[redox]]-active coenzyme) reduced to form FADH2.
+	7. Fumarate converted to malate when hydrolyzed.
+	8. Malate converted to oxaloacetate after [[NAD+]] is reduced.
+	Oxaloacetate can accept another acetyl CoA, and the process repeats (goes in a loop).
 
 - ### 4.3.3: [[Glycolysis]] and the Krebs Cycle
 - Net [[energy]] output for one glucose from [[glycolysis]] through [[the Krebs cycle]]: 4 [[ATP]], 10 NADH + H+, and 2 FADH.
