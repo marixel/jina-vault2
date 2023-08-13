@@ -52,6 +52,9 @@
 			- **Fitzroy**, captain of the [[HMS Beagle]], believed that Darwin was a divine intervention (because his trip's purpose was to disprove evolutionists/literally prove the Bible)
 			- explain why captain Fitzroy of the HMS Beagle helped Darwin develop his Theory of Evolution::Fitzroy = embarked on worldwide journey to literally prove the Bible's description of evolution to be correct; fiercely argued with Darwin over his theories, encouraging him to strengthen it
 - ### 1.2.3: Early Scientific Thought
+	- what major scientific discoveries were made around 1600 AD, all of which had some form of influence on Darwin's much later Theory of Evolution?::Galileo - openly supported Copernicus' theory (Earth was round and revolved around sun); John Ray - found that fossils were remains of living things (which couldn't be easily supported by theology); Newton - calculus and principles of physics (ex. Newton's laws); James Usher: believed that world began in 4004 B.C.
+	- who were Roger and Francis Bacon?::Roger (1200s) - reject dogma; Francis (1500s) - don't accept anything without testing it first (advocated for experimentation -- mostly in regards to religion)
+	- what w
 	- ![[Pasted image 20230812040038.png]]
 - ### 1.2.4: The Emerging Science of Geology
 	- John Ray started w/ fossil theory
