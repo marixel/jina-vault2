@@ -167,10 +167,27 @@
 	- 2 types of lipids:
 		- [[fats]]: solids at room temperature
 		- [[oils]]: liquids at room temperature
-	- triglycerides
+	- [[triglycerides]]: [[glycerol]] molecule and 3 fatty acids (which are nonpolar)
+		- [[fatty acid]]: long carbon chain with a carboxyl group on the end
+		- [[dehydration synthesis]] occurs between each [[fatty acid]] and the [[glycerol]]
+		- bonds broken during [[respiration]] (process by which molecular bonds break to use stored energy)
 
 - ### 2.6.2: Saturated vs Unsaturated Fats
+	- saturated: all carbons in chain are fully saturated w/ hydrogen
+		- created in body
+		- usually solid at room temperature
+		- ex. peanut butter
+	- unsaturated: double bonds, so hydrogen number in chain isn't max
+		- *necessary* components of [[cell membrane]]; cannot be produced internally
+		- must be obtained through diet
+		- more liquid-y than solid at room temperature
+		- ex. peanut oil
+
 - ### 2.6.3: Phospholipids, Waxes, and Steroids
+	- [[phospholipids]]: basic component of [[cell membrane]] (lipids w/ phosphorus)
+		- very similar to [[triglycerides]]
+	- waxes: [[lipid]]s found in cuticle layer of plant leaves preventing water loss; in human's inner ears (earwax)
+	- [[steroids]]: composed of 4 fused rings
 - ### 2.6.4: Nucleic Acids: An Introduction to Genetic Material
 
 ## 2.7: Proteins
