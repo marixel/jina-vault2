@@ -273,9 +273,22 @@
 		- filament excites electrons
 		- lenses = electromagnets
 		- phosphorescent dyes glow when electron beam hits
+		- 2D img
 	- scanning electron microscope
-		- object mounted on gold stub + specimen c
+		- object mounted on gold stub + specimen coated in metal
+		- electrons bounce off object + energy levels of electrons computed to form 3D img
+
 - ### 3.6.3: Freeze Fracture and Differential Centrifugation
+	- freeze fracture/etching:
+		- cell/tissue surrounded in ice
+		- knife inserted + cell ruptures
+		- natural areas that can rupture include hydrophobic tail of lipid bilayer
+			- holes + bumps left over
+		- allows for study of interior's topography
+	- differential centrifugation: liquid suspension = separated and subjected to increasing speeds in a centrifuge
+		- homogenate ground up + spun in centrifuge
+		- densest material put into another tube + spun faster
+		- liquid layers will separate materials by density, allowing you to pick out and study different materials
 
 ## 3.7: The Evolution of Metabolic Functions
 - ### 3.7.1: Major Modes of Nutrition Among Organisms
