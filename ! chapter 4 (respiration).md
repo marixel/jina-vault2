@@ -57,6 +57,7 @@ review questions 2, 9, 18, 24, and 25 on chapter test for midterm/final (got wro
 	- to prevent rapid, exergonic reactions like this from happening (and destroying our insides) our body has developed a method to regulate the energy release from sugar
 - ### 4.1.6: Coenzymes: The Role of NAD+
 	- energy release = regulated in cell by a series of redox reactions with enzymes and coenzymes
+		- in [[metabolic pathways]] of cell through transfer of electrons
 	- NAD = nicotinamide adenine dinucleotide
 		- coenzyme involved in redox reactions of respiration
 	- [[dehydrogenase]]: enzyme able to transfer hydrogen atoms from food molecules to NAD+
