@@ -265,8 +265,20 @@
 	- some proteins stop at tertiary structure (as polypeptides)
 	- quaternary: from interaction of 2 or more polypeptides (ex. hemoglobin
 		- hemoglobin: 4 polypeptide chains (iron oxide) interact
-	- the res
-- ### 2.7.6: Nucleic Acids: An Introduction to Genetic Material
+	- the results of mutation:
+		- protein from given strand of DNA = always the same
+		- if DNA changes, protein formation will too (and most likely drastically)
+	- protein conformation: protein shape that spontaneously takes place after polypeptide has been released from the RNA that directed its synthesis
+
+- ### 2.7.6: Protein Structure: A Summary
+	- 4 levels of protein structure:
+		- primary: sequence of amino acid by a peptide bond
+		- secondary: hydrogen bonds form between NH and C=O (adjacent segments)
+			- either alpha helixes or beta pleated sheets
+		- tertiary: interactions between R groups form a set conformation
+		- quaternary: polypeptides interact w/ each other to form final conformation
+			- mutations will alter formation of proteins
+		- SHAPE MATTERS!!!!!!!!!!!!
 
 ## 2.8: Enzymes
 - ### 2.8.1: Bioenergetics: The Laws of Thermodynamics
