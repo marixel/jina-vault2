@@ -292,10 +292,31 @@
 		- the more organization in a system, the higher its free energy
 			- so, free energy in solids > gases bc of stability differences
 		- deltaG = G(final) - G(initial)
+			- if negative, [[exergonic]] reaction
+			- if positive, [[endergonic]] reaction
+		- life balances these w/ energy coupling: energy released from exergonic reactions fuel endergonic reactions ([[coupled reactions]])
+
 - ### 2.8.2: Activation Energy
+	- [[activation energy]]: the energy required to start a reaciton
+	- enzymes *lower* activation energy
   ### 2.8.3: Enzyme Characteristics
+	- 1. temperature sensitive (low = slow, high = fast)
+		- peak @ certain temp + will stop working past that temperature
+	- 2. sensitive to pH (or ions affect enzymes)
+	- 3. certain chemicals inhibit enzymes
+		- [[inhibitors]] can be *temporary* or *permanent*
+	- 4. certain chemicals can promote/enhance enzymes
+	- 5. specificity
+		- 1 specific enzyme will have a specific substrate (or reactant that enzyme works with, like carbs or proteins)
+	- 6. reversible
+		- can be involved in synthesis and breakdown reactions
 
 ## 2.9: Enzyme Action
 - ### 2.9.1: The Induced-Fit model
+	- enzymes are:
+		- catalysts
+		- complex proteins
+		- specific to shape
+	- 
 - ### 2.9.2: Enzyme Regulation: Allosteric Regulation
 - ### 2.9.3: Feedback Inhibition and Cooperativity
