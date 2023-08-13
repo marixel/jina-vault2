@@ -37,8 +37,16 @@ review questions 2, 9, 18, 24, and 25 on chapter test for midterm/final (got wro
 	1. [[glycolysis]]: happens to ***all*** cells; glucose broken down by enzymes to release energy (inducing [[spontaneous]] reaction) to make ATP
 		- broken down into [[pyruvate]] ($\ce{C6H12O6 -> (2)3C Pyruvate}$)
 	- #### [[anaerobic]] [[respiration]] stops at first step of [[glycolysis]]
-	- #### [[aerobic]] [[respiration]] will continue to step 10 of [[glycolysis]
+	- #### [[aerobic]] [[respiration]] will continue to step 10 of [[glycolysis]]
 - ### 4.1.4: Redox: A Brief Overview
+	- redox/oxidation-reduction reactions involve transfer of electrons between molecules
+		- oxidation = loss of electrons
+		- reduction = gain of electrons
+		- always happen together (hence nickname 'redox')
+		- example:
+			- ![[Pasted image 20230813081042.png]]
+			- water and CO2 result
+			- methane's carbon = 4 hydrogen atoms -->
 - ### 4.1.5: Energy Release from Sugar: A Demo
 - ### 4.1.6: Coenzymes: The Role of NAD+
 
