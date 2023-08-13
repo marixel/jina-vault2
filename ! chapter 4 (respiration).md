@@ -1,6 +1,19 @@
 review questions 2, 9, 18, 24, and 25 on chapter test for midterm/final (got wrong on first attempt)
 
+## 4.1: An Introduction to Respiration
+- ### 4.1.1:
+
+## 4.2: Glycolysis and Fermentation
+
+## 4.3: Aerobic Respiration
+
+## 4.4: The Electron Transport Chain and Oxidative Phosphorylation
+
 ![[Pasted image 20230729102734.png]]
+
+
+
+
 ## 4.2.3: [[Anaerobic]] [[Respiration]]: Fermentation of [[Pyruvate]]
 
 **Review**: [[Glycolysis]] produces 2 [[ATP]], 2 NADH + H2, and 2 [[pyruvate]] molecules.
