@@ -245,11 +245,27 @@
 - ### 2.7.3: Primary and Secondary Structure
 	- proteins do the work of the cell
 		- Primary structure 1: order/arrangement of amino acids in peptide
+		- ![[primary_structure_protein.png]]
 			- RNA instructs order + arrangement of amino acids in a protein, determining its shape
 		- Secondary Structure 2: [[hydrogen]] bonds form between adjacents
-			- forming an [[alpha helix]]
+			- forming an [[alpha helix]] or [[pleated sheet]]
+			- ![[alpha_helix_pleated_sheet.png]]
 - ### 2.7.4: Tertiary Structure
+	- same segment of DNA will always produce same proteins (structurally)
+	- involves interactions between [[R groups]]
+		- interactions:
+			- 1. hydrophobic/nonpolar groups cluster on interior of protein to minimize water contact
+			- 2. Van der Waals interactions form between tightly clustered, hydrophobic particles
+			- 3. [[ionic]] bonding can occur between oppositely charged groups
+			- 4. disulfide bridges: covalent bonds that can take place between 2 cysteine R groups
+		- resulting structure will *always* be the same as long as its produced by same type of RNA
+	- essentially is a protein's 3D folding into its tertiary structure
+
 - ### 2.7.5: Quaternary Structure
+	- some proteins stop at tertiary structure (as polypeptides)
+	- quaternary: from interaction of 2 or more polypeptides (ex. hemoglobin
+		- hemoglobin: 4 polypeptide chains (iron oxide) interact
+	- the res
 - ### 2.7.6: Nucleic Acids: An Introduction to Genetic Material
 
 ## 2.8: Enzymes
