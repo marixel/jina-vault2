@@ -288,6 +288,10 @@
 			- [[entropy]]: tendency towards disorder
 			- **life is a battle against the constantly increasing entropy in the universe**
 	- [[free energy]]: the energy available to do [[work]]
+		- Free Energy (G) = Total (H) - Temp(T) * Entropy(S)
+		- the more organization in a system, the higher its free energy
+			- so, free energy in solids > gases bc of stability differences
+		- deltaG = G(final) - G(initial)
 - ### 2.8.2: Activation Energy
   ### 2.8.3: Enzyme Characteristics
 
