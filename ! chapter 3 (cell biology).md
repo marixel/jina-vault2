@@ -143,8 +143,23 @@
 				- may belong to keratin family
 			- 3. microtubules (tubulum dimers; proteins stack spirally to make hollow tube)
 				- allows for flexibility + ability to change size
+
 - ### 3.3.2: Centrioles, Flagella, and Cilia
+	- [[centrioles]]: pair of structures made from microtubules enabling chromosomal movement during cell division (3 microtubules arranged in 9+0 arrangement)
+	- [[flagella]]: long + made of microtubules allowing for propulsion/movement outside cell
+		- ex. sperm
+	- [[cilia]]: short, hairlike projections made w/ microtubules serving to propel organisms using a rowing function
+		- **protein motor molecule:** enables movement between microtubules
+		- how microtubules move: protein motor molecules bind to adjacent pairs of microtubules + provide force for bending and movement
+
 - ### 3.3.3: Cell Walls
+	- basal body: at base of every cilia + flagella; becomes centriole in egg
+	- cell walls:
+		- consists of [[peptidoglycan]] (prokaryotic bacteria), chitin (in fungi), and cellulose (in plants)
+			- so, structural material
+		- primary: allows expansion + cell wall formation after cell division
+			- hardened by pectin (which binds cellulose)
+		- secondary: 2-3 more layers between 
 
 ## 3.4: The Plasma Membrane
 - ### 3.4.1: Plasma Membrane: The Extracellular Matrix
