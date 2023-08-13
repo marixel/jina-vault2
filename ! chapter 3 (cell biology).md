@@ -96,10 +96,31 @@
 				- [[exocytosis]]: process of releasing materials through the plasma membrane
 - ### 3.2.3: Food Vacuole Formation: The Role of the Lysosomes
 	- lysosome: membrane-bound organelles w/ digestive/hydrolytic enzyme
-	- amoeba: eats via "phagocytosis" (engulfing extracellular particles by surrounding them w/ extensions of the plasma membrane )
+	- amoeba: eats via "phagocytosis" (engulfing extracellular particles by surrounding them w/ extensions of the plasma membrane called "pseudopods")
+		-  lysosome w/ digestive enzymes fuses w/ food vacuole, breaks organism down
+	- organelle recycling: autophagy ("self-eating")
+		- organelles broken down (like tadpole tail)
+	- breakdown of lipids in brain
+		- may malfunction; ex Tay-Sachs disease
+
 - ### 3.2.4: Still More Vacuoles and Peroxisomes
+	- water vacuoles: important in plants
+		- makes up majority of plant cell to store water
+		- also includes proteins, ions, and toxic wastes (toxins from plants)
+	- contractile vacuoles: pumps out water from animal cells (water gets in via osmosis)
+	- Peroxisomes: contains enzymes (peroxidase) that break down hydrogen peroxide (H2O2)
+		- bound by 1 membrane
+		- produces + disposes of H2O2
+
 - ### 3.2.5: Mitochondria: Welcome Guests
+	- mitochondria: organelles in eukaryotic cells that serve as the site for aerobic respiration (energy release)
+		- the "powerhouse" of the cell
+		- double-membrane system w/ inner being folded (folds = cristae)
+			- cristae increase surface area to allow for more reactions
+			- **theory of [[endosymbiosis]]** (process by which 2 organisms evolve to live inside each other) may apply to mitochondria
+
 - ### 3.2.6: The Origin of Mitochondria and Chloroplasts
+	- mitochondria and chloroplasts may have been introduced via phagocytosis (see 3)
 
 ## 3.3: The Cytoskeleton
 - ### 3.3.1: The Cytoskeleton: Basic Components
