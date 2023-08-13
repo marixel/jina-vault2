@@ -330,5 +330,18 @@
 	- adding/removing hydrogen moves active site
 	- substances improve (cofactors) or lower (inhibitors) protein activity bc of change sin active site
 - ### 2.9.2: Enzyme Regulation: Allosteric Regulation
-	- regulation can 
+	- regulation can control enzyme activity, but it's ineffective
+		- but, enzymes must be regulated to produce desired outcome
+		- types:
+			- allosteric control: 2 or more subunits; substances bonded will render it active (activator) or inactive (inhibitor)
+			- ![[allosteric_enzymes.png]]
+				- example: 
+				- ![[allosteric_enzymes_atp_example.png]]
+				- catabolic enzymes (break down cells + release ATP/energy)
+				- energy levels in ATP decrease + its name changes
 - ### 2.9.3: Feedback Inhibition and Cooperativity
+	- [[feedback inhibition]]: enzyme regulation involving inhibition of enzyme in [[metabolic pathways]] (singular) by an end product of that pathway
+		- ![[Pasted image 20230813045734.png]]
+		- if D inhibits enzyme x, it can conserve enzyme (feedback)
+			- can also be negative (view TW notes)
+		- [[cooperativity]]: substrate itself activates (and regulates) enzyme
