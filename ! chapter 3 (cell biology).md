@@ -250,11 +250,31 @@
 			- 5. phosphate group released from protein as inorganic phosphate
 			- 6. protein receptive to potassium ions from outside cell + bring them into cell
 			- 7. protein returns to original conformation and is ready to accept sodium ions
+
 - ### 3.5.5: Energy-Requiring Transport: Endocytosis and Exocytosis
+	- exocytosis vs endocytosis
+		- exocytosis: fuses w/ bilayre
+		- endocytosis: molecules go into cell
+			- types:
+				- 1. phagocytosis (cell eating)
+				- 2. pinocytosis (cell drinking; vesicle forms for fluid intake)
+				- 3. receptor-mediated endocytosis (vesicle forms when molecules are hooked into receptor proteins)
 
 ## 3.6: Tools for Cell Biology
 - ### 3.6.1: Tools of the Cytologist: Light and Fluorescent Microscopy
+	- microscopes:
+		- magnification: bending + focusing of light for enlarging of an object
+		- resolution: clarity/ability to discern between two separate points
+			- shorter light wavelength = higher resolution
+			- limited to white light, but fluorescent dyes + stains help but don't completely solve the problem
+
 - ### 3.6.2: Scanning and Transmission Electron Microscopes
+	- transmission electron microscopes: electrons pass through materials instead of light to minimize wavelength
+		- filament excites electrons
+		- lenses = electromagnets
+		- phosphorescent dyes glow when electron beam hits
+	- scanning electron microscope
+		- object mounted on gold stub + specimen c
 - ### 3.6.3: Freeze Fracture and Differential Centrifugation
 
 ## 3.7: The Evolution of Metabolic Functions
