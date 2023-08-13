@@ -45,8 +45,12 @@ first stage summary:
 	- from this enzyme, we can infer that it will catalyze a reaction having to do with the movement of a phosphate group (mutase; phospho) and a change in the glycerol (glycero)
 		- 'mutase' may be referring to the 'mutation' (changing of substances) happening between the phosphoglycerate
 	- ![[Pasted image 20230813111559.png]]
-- 9. water molecule removed (dehydration synthesis) and a double bond is added to both 2-phosphoglycerate molecules
-
+- 9. water molecule removed (dehydration synthesis) and a double bond is added to both 2-phosphoglycerate molecules to produce 2 phosphoenolpyruvate (PEP) molecules
+	- catalyzed by *enolase*
+	- ![[Pasted image 20230813114051.png]]
+- 10. both PEP molecules = dephosphorylated by *pyruvate kinase* to produce 2 pyruvates and 2 ATP
+	- from the name of this enzyme, we can infer that the reaction that it catalyzes has to do with pyruvate (in this case, formation,) and ATP (kinase; formation)
+	- ![[Pasted image 20230813114103.png]]
 ## flashcards
 
 Q: What happens to all cells during glycolysis?
