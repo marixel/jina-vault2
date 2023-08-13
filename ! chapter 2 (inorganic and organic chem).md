@@ -139,7 +139,20 @@
 	- [[polysaccharide]]: 3 or more simple sugars bonded together
 		- energy storage molecules
 		- chain of [[monosaccharide]]s w/ 1-4 [[glycosidic linkage]]s
+		- 3 types of energy storage [[polysaccharide]]s:
+			- [[amylose]]: enzyme in saliva that breaks [[glycosidic linkage]]s
+				- [[starch]]: generic term for a storage polysaccharide
+			- [[amylopectin]]: plant [[polysaccharide]]; 1-4 [[glycosidic linkage]]s and 1-6 branch points
+			- [[glycogen]]: more branching than amylopectin, but otherwise similar structure
+				- 1-6 [[glycosidic linkage]]s; found in *animals*
+
 - ### 2.5.4: Polysaccharides: Structural Molecules
+	- structural polysaccharides:
+		- [[cellulose]]: constructs plant cells; 1-4 [[glycosidic linkage]]s
+		- [[starch]] vs [[cellulose]]:
+			- physical differences:
+				- starch: soluble; 1-4 glycosidic links; no [[tensile strength]]; digestible
+				- cellulose: insoluble; 1-4 glycosidic links; high [[tensile strength]]; not digestible
 
 ## 2.6: Lipids and Nucleic Acids
 - ### 2.6.1: Lipids: An Introduction
