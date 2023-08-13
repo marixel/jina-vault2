@@ -7,7 +7,7 @@
 
 ### Phosphorylated Intermediates:
 
-- ##### involve [[coupled reactions]] between the energy released by the [[hydrolosis]] of [[ATP]] and an [[endergonic]] reaction 
+- ##### involve [[coupled reactions]] between the energy released by the [[hydrolysis]] of [[ATP]] and an [[endergonic]] reaction 
 	- [[spontaneous]] and [[exergonic]] process bc coupling = surplus of energy (see +(P) in formula)
 	- [[phosphorylation]]
 	- $\ce{ATP -> ADP + (P)}$

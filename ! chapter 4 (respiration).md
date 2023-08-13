@@ -10,8 +10,24 @@ review questions 2, 9, 18, 24, and 25 on chapter test for midterm/final (got wro
 	#### 3x as many [[phosphate group]]s as a [[nucleotide]]
 	- 3rd phosphate bond: [[high-energy bonds]] (singular)
 		- when energy is released from a reaction, that reaction has a negative change in free energy (bc products more stable than reactants)
-		- phosphate b
+		- phosphate bond in ATP = not very stable bc negative charges on phosphate group repel each other
 - ### 4.1.2: Phosphorylated Intermediates
+	[[ATP]]
+	- triphosphorylated nucleotide
+	
+	How does the cell capture and process the energy released by the [[high-energy bonds]] in ATP?
+	
+	How does a cell make [[ATP]]?
+	
+	Phosphorylated Intermediates:
+	
+	- involve [[coupled reactions]] between the energy released by the [[hydrolysis]] of [[ATP]] and an [[endergonic]] reaction 
+		- [[spontaneous]] and [[exergonic]] process bc coupling = surplus of energy (see +(P) in formula)
+		- [[phosphorylation]]
+		- $\ce{ATP -> ADP + (P)}$
+	- lose [[phosphate group]] during a coupled reaction
+	
+	#### *ATP is not a phosphorylated intermediate; it forms them with other molecules*
 - ### 4.1.3: Respiration: An Overview
 - ### 4.1.4: Redox: A Brief Overview
 - ### 4.1.5: Energy Release from Sugar: A Demo
