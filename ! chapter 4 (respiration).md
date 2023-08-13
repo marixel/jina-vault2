@@ -27,8 +27,17 @@ review questions 2, 9, 18, 24, and 25 on chapter test for midterm/final (got wro
 		- $\ce{ATP -> ADP + (P)}$
 	- lose [[phosphate group]] during a coupled reaction
 	
-	#### *ATP is not a phosphorylated intermediate; it forms them with other molecules*
+	- *ATP is not a phosphorylated intermediate; it forms them with other molecules*
 - ### 4.1.3: Respiration: An Overview
+		- ### the process in which [[ATP]] is generated from the breakdown of organic molecules
+	
+	### goal: transfer of energy stored in bonds of large, complex molecules to [[ATP]]
+	
+	### steps (generally):
+	1. [[glycolysis]]: happens to ***all*** cells; glucose broken down by enzymes to release energy (inducing [[spontaneous]] reaction) to make ATP
+		- broken down into [[pyruvate]] ($\ce{C6H12O6 -> (2)3C Pyruvate}$)
+	- #### [[anaerobic]] [[respiration]] stops at first step of [[glycolysis]]
+	- #### [[aerobic]] [[respiration]] will continue to step 10 of [[glycolysis]
 - ### 4.1.4: Redox: A Brief Overview
 - ### 4.1.5: Energy Release from Sugar: A Demo
 - ### 4.1.6: Coenzymes: The Role of NAD+
