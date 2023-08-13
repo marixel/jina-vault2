@@ -7,8 +7,18 @@
 <!--ID: 1691317922767-->
 
 ## 3.1: An Introduction to Cell Biology
+- ### 3.1.1: The History of Cytology
+- ### 3.1.2: Prokaryotes vs Eukaryotes
+- ### 3.1.3: Plant and Animal Cell Overview: The Basics
+- ### 3.1.4: Membranes: Basic Structures
+- ### 3.1.5: The Nuclear Envelope: The Initial Tour
+- ### 3.1.6: Nuclear Function: Who's in Charge?
 
 ## 3.2: Membrane-Bound Organelles
+- ### 3.2.1: Cellular Function: Endoplasmic Reticulum
+- ### Cellular Function: Golgi Apparatus
+- ### Food Vacuole Formation: The Role of the Lysosomes
+- ### 3.2.4:
 
 ## 3.3: The Cytoskeleton
 
