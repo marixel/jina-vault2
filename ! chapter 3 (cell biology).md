@@ -184,12 +184,42 @@
 
 - ### 3.4.3: Proteins as the Mosaic of the Cell Membrane
 	- how do polar molecules (aside from water) get through lipid bilayer?
-		- 
+		- **proteins!**
+		- vesicles from Golgi contain proteins on outside *or* inside bind to membrane
+			- proteins integrate into membrane (through/integral or on surface/peripheral)
+			- protein functions:
+				- 1. transport (form tunnels)
+				- 2. enzymes (molecules transform along metabolic pathway)
+				- 3. signal transduction (can convey signals across membranes, may undergo conformational changes)
+				- 4. junctions
+				- 5. cell-cell recognition (oligosaccharide can identify its cell to protein of another cell)
+				- 6. anchors (collagen + extracellular matrix)
 - ### 3.4.4: Animal Cell Junctions
+	- cells *must* communicate
+		- accomplished w/ cell junctions
+		- types of cell junctions:
+			- 1. tight (no intercellular space; lets material enter w/o leakage + prevent drifting)
+			- 2. desmosomes (fibers made of keratin + bind adjacent cells together)
+				- high tensile strength
+				- "rivets"
+			- 3. gap (communication between cells + permit intercellular transport between 2 adjacent cells)
 
 ## 3.5: Cell Transport
 - ### 3.5.1: Simple and Facilitated Diffusion
+	- passive transport: movement of molecules across a cell that *doesn't require ATP*
+	- diffusion: movement of molecules to areas of high -> low concentrations
+		- determinants:
+			- 1. [[concentration]] gradient
+			- 2. temperature
+			- 3. charge/polarity
+			- 4. size/diameter of molecule
+		- [[facilitated diffusion]]: passive transport w/ protein help
+			- applies to molecules unable to get past membrane
+			- protein undergoes shape change after molecule enters
+
 - ### 3.5.2: Passive Transport: Osmosis
+	- osmosis: passage of water across a membrane from high -> low concentration
+	- hypertonic + hypo
 - ### 3.5.3: Active Transport: Ion Pumps and Cotransport
 - ### 3.5.4: Active Transport: The Sodium-Potassium Pump
 - ### 3.5.5: Energy-Requiring Transport: Endocytosis and Exocytosis
