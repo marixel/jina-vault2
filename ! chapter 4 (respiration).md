@@ -56,7 +56,10 @@ review questions 2, 9, 18, 24, and 25 on chapter test for midterm/final (got wro
 	- energy stored between bonds of sugar = released when chemical source of oxygen (potassium chlorate) is added (and activated by activation energy (sulfuric acid))
 	- to prevent rapid, exergonic reactions like this from happening (and destroying our insides) our body has developed a method to regulate the energy release from sugar
 - ### 4.1.6: Coenzymes: The Role of NAD+
-	- energy release = regulated in cell by a series of redox reactions
+	- energy release = regulated in cell by a series of redox reactions with enzymes and coenzymes
+	- NAD = nicotinamide adenine dinucleotide
+		- coenzyme involved in redox reactions of respiration
+	- [[dehydrogenase]]: enzyme able to transfer hydrogen atoms from food molecules to NAD+
 
 ## 4.2: Glycolysis and Fermentation
 - ### 4.2.1: Glycolysis: The Initial Steps: Energy Input
