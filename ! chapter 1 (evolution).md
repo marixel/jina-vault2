@@ -9,20 +9,24 @@
 		- not all things w/ organization are alive
 	- #### 6 characteristics of life:
 	- name the six characteristics of life::order, reproduction, growth/development, energy use, response to environment/irritability, and homeostasis
+<!--ID: 1691954589980-->
 		1. order
 		2. reproduction
 			- ability to reproduce at the molecular level (like DNA, cells, etc.)
 			- sterile organisms can reproduce in this way
 			- when referring to reproduction as a characteristic of life, what level is the determinant?::the molecular level; reproduction doesn't just refer to sexual/asexual reproduction, but the ability to create and repair cells or molecules of life like DNA (so sterile organisms can reproduce)
+<!--ID: 1691954590009-->
 		3. growth and development
 			- doesn't just refer to expansion
 			- refers to creation of *new material*
 			- what does "growth and development" as a characteristic of life refer to? what does it mean in context?::refers to the creation of *new* material, not just expansion. some objects, like household sponges, can expand but can't create new material and are thus not alive.
+<!--ID: 1691954590020-->
 		4. energy use (will show up later in class)
 		5. response to environment
 			- also called [[irritability]]
 			- doesn't refer to physical or chemical changes
 			- what does 'irritability' mean in reference to the main characteristics of life?::the organism's response to its environment, or its 'niche'
+<!--ID: 1691954590033-->
 		1. homeostasis
 			- synthesizes previous points
 			- has to do w/ how life remains *balanced* to maintain a constant environment
@@ -42,6 +46,7 @@
 	- #### science is about wonder and curiosity
 		- hypotheses aren't "proven," they're either rejected or not (there are very, *very* few constants in science)
 	- "forefather" of scientific thought; grandfather theorized natural selection (but wasn't paid any attention); naturalist on the HMS Beagle; published most popular theory of evolution::Charles Darwin
+<!--ID: 1691954590044-->
 	- [[Charles Darwin]]
 		- "forefather" of scientific thought
 		- grandfather theorized natural selection (but nobody listened)
@@ -51,14 +56,20 @@
 			- few had faith in Darwin, and he could only go bc his uncle (and *only* his uncle) permitted that he should go
 			- **Fitzroy**, captain of the [[HMS Beagle]], believed that Darwin was a divine intervention (because his trip's purpose was to disprove evolutionists/literally prove the Bible)
 			- explain why captain Fitzroy of the HMS Beagle helped Darwin develop his Theory of Evolution::Fitzroy = embarked on worldwide journey to literally prove the Bible's description of evolution to be correct; fiercely argued with Darwin over his theories, encouraging him to strengthen it
+<!--ID: 1691954590056-->
 - ### 1.2.3: Early Scientific Thought
 	- what major scientific discoveries were made around 1600 AD, all of which had some form of influence on Darwin's much later Theory of Evolution?::Galileo - openly supported Copernicus' theory (Earth was round and revolved around sun); John Ray - found that fossils were remains of living things (which couldn't be easily supported by theology); Newton - calculus and principles of physics (ex. Newton's laws); James Usher: believed that world began in 4004 B.C.
+<!--ID: 1691954590066-->
 	- who were Roger and Francis Bacon?::Roger (1200s) - reject dogma; Francis (1500s) - don't accept anything without testing it first (advocated for experimentation -- mostly in regards to religion)
+<!--ID: 1691954590076-->
 	- what was thomas aquinas and albertus magnus' philosophies, and how did they shape the future of science?::natural vs revealed truths; this came right after age of theology (when very little scientific progress was made), so by clearly discerning the two from each other more discoveries could be made public
+<!--ID: 1691954590086-->
+
 	- ![[Pasted image 20230812040038.png]]
 - ### 1.2.4: The Emerging Science of Geology
 	- John Ray started w/ fossil theory
 	- who was george cuvier, and how did his theory of catastrophism pave the way for future ideas?::a geologist who noticed that the layers in rock changed over time; from this, he determined that these changes must have been caused by relatively frequent mass-extinctions. not long afterwards, other scientists began to present opposition to this idea (james hutton w/ gradualism), allowing for more progress to be made (as these ideas keep building on each other)
+<!--ID: 1691954590096-->
 	- George Cuvier (geologist; 1769-1832)
 		- studied stratification (formation/structure of rock layers)
 		- noticed that layers changed over time
@@ -67,7 +78,8 @@
 	- James Hutton = proposed [[gradualism]] in 1785 to oppose Cuvier's idea
 		- [[gradualism]]: earth is shaped over time by geological process (slow, continuous change)
 	- Charles Lyell (1797-1875)
-	- compare and contrast gradualism and uniformitarianism. why did lyell feel the need to discern between the two?::gradualism = earth shaped over time by slow, continuous geological processes; uniformitarianism = 
+		- compare and contrast gradualism and uniformitarianism. why did lyell feel the need to discern between the two?::gradualism = earth shaped over time by slow, continuous geological processes; uniformitarianism = earth shaped over time like in gradualism, but these processes have remained the same throughout earth's history; by differentiating the two, scientists of the time were able to infer that, when applying lyell's idea, that the earth had to be over 6,000 years old and few catastrophes (as defined by cuvier) had actually occurred
+<!--ID: 1691954590109-->
 		- [[uniformitarianism]]: forces involved in gradualism have not changed through Earth's history
 			- so: few catastrophes and earth is >6000 years old
 	- **opened doors** and **changed minds**
