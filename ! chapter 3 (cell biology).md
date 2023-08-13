@@ -70,6 +70,14 @@
 
 ## 3.2: Membrane-Bound Organelles
 - ### 3.2.1: Cellular Function: Endoplasmic Reticulum
+	- The Endomembrane System:
+		- a network of membrane-enclosed canals responsible for formation + excretion of proteins
+		- protein has to be packaged to leave cell (done by this system)
+		- Endoplasmic reticulum (ER): network of canal-like + flattened sack structures throughout cell
+			- 2 types:
+				- rough: covered in ribosomes (processes/alters proteins)
+					- lumen: cavity inside tubular part of an organ
+					- 
 - ### 3.2.2: Cellular Function: Golgi Apparatus
 - ### 3.2.3: Food Vacuole Formation: The Role of the Lysosomes
 - ### 3.2.4: Still More Vacuoles and Peroxisomes
