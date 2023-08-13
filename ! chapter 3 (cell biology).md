@@ -16,15 +16,29 @@
 
 ## 3.2: Membrane-Bound Organelles
 - ### 3.2.1: Cellular Function: Endoplasmic Reticulum
-- ### Cellular Function: Golgi Apparatus
-- ### Food Vacuole Formation: The Role of the Lysosomes
-- ### 3.2.4:
+- ### 3.2.2: Cellular Function: Golgi Apparatus
+- ### 3.2.3: Food Vacuole Formation: The Role of the Lysosomes
+- ### 3.2.4: Still More Vacuoles and Peroxisomes
+- ### 3.2.5: Mitochondria: Welcome Guests
+- ### 3.2.6: The Origin of Mitochondria and Chloroplasts
 
 ## 3.3: The Cytoskeleton
+- ### 3.3.1: The Cytoskeleton: Basic Components
+- ### 3.3.2: Centrioles, Flagella, and Cilia
+- ### 3.3.3: Cell Walls
 
 ## 3.4: The Plasma Membrane
+- ### 3.4.1: Plasma Membrane: The Extracellular Matrix
+- ### 3.4.2: The Plasma Membrane: The Fluid-Mosaic Model
+- ### 3.4.3: Proteins as the Mosaic of the Cell Membrane
+- ### 3.4.4: Animal Cell Junctions
 
 ## 3.5: Cell Transport
+- ### 3.5.1: Simple and Facilitated Diffusion
+- ### 3.5.2: Passive Transport: Osmosis
+- ### 3.5.3: Active Transport: Ion Pumps and Cotransport
+- ### 3.5.4: Active Transport: The Sodium-Potassium Pump
+- ### 3.5.5: Energy-Requiring Transport: En
 
 ## 3.6: Tools for Cell Biology
 
