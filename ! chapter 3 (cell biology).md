@@ -22,10 +22,39 @@
 	- 2 types of major cells:
 		- Eukaryotic: evolved after nucleus ([[eukaryote]]s)
 			- membrane-bound organelles
-			- 1-100 microns
+			- 1-100 microns in size
+		- Prokaryotic: evolved before nucleus, but has DNA
+			- [[microbe]]s: generic term for [[prokaryote]]
+			- no membrane-bound organelles
+			- DNA = 1 circular chromosome
+			- [[nucleoid]]: DNA concentration but no membrane
+			- 1-10 microns in size
 - ### 3.1.3: Plant and Animal Cell Overview: The Basics
+	- [[compartmentalism]]: process by which cells develop organelles/compartments for efficiency
+		- allows for specialization
+		- in *all* eukaryotic cells
+	- plants + animals' cells have plasma membranes
+		- surround + regulate materials going in/out of cells
+		- giant amoebas don't exist bc surface-area-to-volume ratios set limits on cell size (as cell grows large, it has less surface area available to exchange materials with environment)
 - ### 3.1.4: Membranes: Basic Structures
+	- membranes can separate cell from exterior, or organelles from the cell environment
+	- [[cytoplasm]]: all cell contents (w/o nucleus)
+		- [[cytosol]]: liquid part of cytoplasm
+	- [[microvilli]]: cytoplasmic extension of plasma membrane
+	- **Fluid Mosaic Model** (fluid pattern/basic membrane structure):
+		- phospholipid bilayer w/ floating proteins (bc of versatility)
+		- hydrophobic interior + hydrophilic exterior on both sides
+			- protein orientations: on surface, partially embedded in surface, through both layers, or entirely between both layers
+
 - ### 3.1.5: The Nuclear Envelope: The Initial Tour
+	- structure and function are related + there are some consistent structures in all eukaryotic cells
+	- the nucleus:
+		- contains genetic material
+		- membrane (nuclear envelope: doubled-up phospholipid bilayer surrounding nucleus
+			- pores surrounded by "pore complex" proteins (let materials in/out)
+	- [[nucleolus]]: assembles ribosomes (which can then leave through pores)
+	- [[nuclear lamina]]: proteins in nuclear envelope holding nucleus together + keepings its shape
+
 - ### 3.1.6: Nuclear Function: Who's in Charge?
 
 ## 3.2: Membrane-Bound Organelles
