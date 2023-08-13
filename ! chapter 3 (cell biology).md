@@ -56,6 +56,17 @@
 	- [[nuclear lamina]]: proteins in nuclear envelope holding nucleus together + keepings its shape
 
 - ### 3.1.6: Nuclear Function: Who's in Charge?
+	- ans: no one! cell functions *collectively*
+	- nuclear function:
+		- chromatic stores genetic material (DNA --> RNA)
+		- proteins: *very important*
+			- enzyme
+			- membranes
+			- catabolism: complex --> simple (breakdown)
+			- anabolism: simple --> complex (synthesis)
+		- *all code* for cell in DNA
+			- RNA carries messages
+			- Proteins carry out work
 
 ## 3.2: Membrane-Bound Organelles
 - ### 3.2.1: Cellular Function: Endoplasmic Reticulum
