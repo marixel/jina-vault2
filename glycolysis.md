@@ -32,7 +32,11 @@ first stage summary:
 - two ATP invested, glucose doubly phosphorylated, split into 2 parts, first of which splits into 3-carbon molecule
 
 #### phase 2:
--  
+-  produces 4 ATP, 2 NADH + H+, and 2 pyruvate molecules (profit of 2 ATP)
+- 6. glyceraldehyde phosphate = oxidized (NAD+ reduced) and phosphorylated by *triose phosphate dehydrogenase* to produce 1, 3-biphosphoglycerate and 2 molecules of NADH + H+
+- ![[Pasted image 20230813111159.png]]
+	- coupled reaction (redox --> phosphorylation)
+- 7. phosphate group removed from each 1, 3 biphosphoglycerate to make 2 ATP
 
 ## flashcards
 
