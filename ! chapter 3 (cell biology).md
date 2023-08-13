@@ -238,6 +238,18 @@
 			- cotransport: coupled passage of 2 materials across a membrane (ex. hydrogen "opens the door" to sucrose to enter the cell)
 
 - ### 3.5.4: Active Transport: The Sodium-Potassium Pump
+	- sodium potassium pump occurs in neutrons (nerve cells)
+		- at rest, neurons maintain polarization across cell membranes
+		- focus = ions
+			- equilibrium of potassium in cell
+		- after stimulus:
+			- 1. gated channels open and sodium ions rush in
+			- 2. to reestablish exterior positivity, sodium bonds w/ transport protein
+			- 3. ATP transfers phosphate group to protein
+			- 4. phosphorylation causes protein conformational change, sodium ions pushed outside
+			- 5. phosphate group released from protein as inorganic phosphate
+			- 6. protein receptive to potassium ions from outside cell + bring them into cell
+			- 7. protein returns to original conformation and is ready to accept sodium ions
 - ### 3.5.5: Energy-Requiring Transport: Endocytosis and Exocytosis
 
 ## 3.6: Tools for Cell Biology
