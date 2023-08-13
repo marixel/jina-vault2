@@ -120,10 +120,29 @@
 			- **theory of [[endosymbiosis]]** (process by which 2 organisms evolve to live inside each other) may apply to mitochondria
 
 - ### 3.2.6: The Origin of Mitochondria and Chloroplasts
-	- mitochondria and chloroplasts may have been introduced via phagocytosis (see 3)
+	- mitochondria and chloroplasts may have been introduced via phagocytosis (see 3.2.3)
+		- possible evidence that mitochondria's from prokaryotes:
+			- 1. similar sizes between mitochondria + prokaryotes
+			- 2. circular chromosomes
+			- 3. both lack histones in DNA
+			- 4. have prokaryotic ribosomes
+			- 5. high homology between DNA
+		- chloroplasts: high energy in plants
+			- ribosomal RNA homologous w/ prokaryotic RNA
+			- center for photosynthesis + chlorophyll storage
 
 ## 3.3: The Cytoskeleton
 - ### 3.3.1: The Cytoskeleton: Basic Components
+	- cytoskeleton: fibers and filaments that help maintain cell shape + permit cell movement
+		- 3 main components:
+			- 1. microfilaments (made of actin; responsible for shape + contraction)
+				- cleavage furrow forms during cell division)
+				- pseudopods form when microfilament contracts (when actin is removed, microfilament shortens and pulls *anchor points* together)
+				- structural support for microvilli
+			- 2. intermediate filaments (wider than microfilaments)
+				- may belong to keratin family
+			- 3. microtubules (tubulum dimers; proteins stack spirally to make hollow tube)
+				- allows for flexibility + ability to change size
 - ### 3.3.2: Centrioles, Flagella, and Cilia
 - ### 3.3.3: Cell Walls
 
