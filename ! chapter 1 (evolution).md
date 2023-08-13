@@ -8,18 +8,22 @@
 		- organism = "multicellular," but describes everything w/ life
 		- not all things w/ organization are alive
 	- #### 6 characteristics of life:
+	- name the six characteristics of life::order, reproduction, growth/development, energy use, response to environment/irritability, and homeostasis
 		1. order
 		2. reproduction
 			- ability to reproduce at the molecular level (like DNA, cells, etc.)
 			- sterile organisms can reproduce in this way
+			- when referring to reproduction as a characteristic of life, what level is the determinant?::the molecular level; reproduction doesn't just refer to sexual/asexual reproduction, but the ability to create and repair cells or molecules of life like DNA (so sterile organisms can reproduce)
 		3. growth and development
 			- doesn't just refer to expansion
 			- refers to creation of *new material*
+			- what does "growth and development" as a characteristic of life refer to? what does it mean in context?::refers to the creation of *new* material, not just expansion. some objects, like household sponges, can expand but can't create new material and are thus not alive.
 		4. energy use (will show up later in class)
 		5. response to environment
-			- also called [irritability]
+			- also called [[irritability]]
 			- doesn't refer to physical or chemical changes
-		6. homeostasis
+			- what does 'irritability' mean in reference to the 
+		1. homeostasis
 			- synthesizes previous points
 			- has to do w/ how life remains *balanced* to maintain a constant environment
 
