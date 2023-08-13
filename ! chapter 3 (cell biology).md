@@ -219,8 +219,24 @@
 
 - ### 3.5.2: Passive Transport: Osmosis
 	- osmosis: passage of water across a membrane from high -> low concentration
-	- hypertonic + hypo
+	- hypertonic + hypotonic (relative to each other):
+		- hypertonic: solute (yes solute)
+		- hypotonic: water (no solute)
+		- isotonic: same concentration
+	- osmosis in plants:
+		- hypotonic = turgid ($\ce{H2OE -> P}$)
+		- isotonic = flaccid ($\ce{H2OP = E}$)
+		- hypertonic = plasmolysis ($\ce{H2OP -> E}$)
+
 - ### 3.5.3: Active Transport: Ion Pumps and Cotransport
+	- equilibrium: no net movement on either side of reaction
+	- ATP is exergonic
+	- Active Transport: low -> high concentration
+		- element/molecule being sought out will be forcibly moved to attractor (ex. iodine in thyroid)
+		- electrogenic pump: protein actively transporting ions resulting in ionic + voltage gradient (which fuels other processes)
+			- aka ion pumps
+			- cotransport: coupled passage of 2 materials across a membrane (ex. hydrogen "opens the door" to sucrose to enter the cell)
+
 - ### 3.5.4: Active Transport: The Sodium-Potassium Pump
 - ### 3.5.5: Energy-Requiring Transport: Endocytosis and Exocytosis
 
