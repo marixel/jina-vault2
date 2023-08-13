@@ -121,10 +121,24 @@
 
 ## 2.5: Carbohydrates
 - ### 2.5.1: Carbohydrates: Monosaccharides
-
+	- [[carbohydrates]]: macromolecules w/ hydrogen, oxygen, and carbon involved in structure and energy storage
+		- [[monosaccharide]]: simple sugar
+			- [[triose sugar]]: 3-carbon sugar
+			- [[pentose]]: 5-carbon sugar
+			- [[hexose]]: 6-carbon sugar
+		- **always twice as much hydrogen as oxygen**
+		- sugars usually found in [[cyclic]] form in an organism
+		- multiple carbons in a chain = *numbered* for identification in bonding
 
 - ### 2.5.2: Dehydration Synthesis and Hydrolysis: Disaccarides
+	- [[disaccharide]]: 2 simple sugars
+	- [[glycosidic linkage]]: water removed in reaction between 2 simple sugars ([[dehydration synthesis]]); oxygen glycosidic linkage forms between both monosaccharides
+		- [[disaccharide]] forms
+
 - ### 2.5.3: Polysaccharides: Energy Storage Molecules
+	- [[polysaccharide]]: 3 or more simple sugars bonded together
+		- energy storage molecules
+		- chain of [[monosaccharide]]s w/ 1-4 [[glycosidic linkage]]s
 - ### 2.5.4: Polysaccharides: Structural Molecules
 
 ## 2.6: Lipids and Nucleic Acids
