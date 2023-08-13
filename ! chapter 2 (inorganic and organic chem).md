@@ -130,7 +130,7 @@
 		- sugars usually found in [[cyclic]] form in an organism
 		- multiple carbons in a chain = *numbered* for identification in bonding
 
-- ### 2.5.2: Dehydration Synthesis and Hydrolysis: Disaccarides
+- ### 2.5.2: Dehydration Synthesis and Hydrolysis: Disaccharides
 	- [[disaccharide]]: 2 simple sugars
 	- [[glycosidic linkage]]: water removed in reaction between 2 simple sugars ([[dehydration synthesis]]); oxygen glycosidic linkage forms between both monosaccharides
 		- [[disaccharide]] forms
@@ -153,9 +153,22 @@
 			- physical differences:
 				- starch: soluble; 1-4 glycosidic links; no [[tensile strength]]; digestible
 				- cellulose: insoluble; 1-4 glycosidic links; high [[tensile strength]]; not digestible
+			- chemical differences:
+			- ![[chemicaldiffs-cellulose-starch.png]]
+				- starch: OH positioned "downwards" (right)
+				- cellulose: OH positioned "upwards" (left)
+			- [[hemicellulose]] and [[pectin]]: hold fibers in plant cell walls
+			- [[chitin]]: found in exoskeletons of arthropods and fungi cell walls
+			- [[mucopolysaccharides]]: eye fluid, joint lube, skin glue, and umbilical cord
 
 ## 2.6: Lipids and Nucleic Acids
 - ### 2.6.1: Lipids: An Introduction
+	- [[lipid]]s: nonpolar molecules that's insoluble in water and can be used for energy storage
+	- 2 types of lipids:
+		- [[fats]]: solids at room temperature
+		- [[oils]]: liquids at room temperature
+	- triglycerides
+
 - ### 2.6.2: Saturated vs Unsaturated Fats
 - ### 2.6.3: Phospholipids, Waxes, and Steroids
 - ### 2.6.4: Nucleic Acids: An Introduction to Genetic Material
