@@ -8,7 +8,21 @@
 
 ## 3.1: An Introduction to Cell Biology
 - ### 3.1.1: The History of Cytology
+	- Robert Hooke: first person to observe cells w/ microscope
+		- tested w/ cork strip + cells only had air
+		- concluded: structure of cells determines function
+	- Lorenz Oken: all organic beings from [[vesicle]]s of cells
+		- similar to [[cell theory]]
+		- Lamarck had similar idea
+	- Schleiden + Schwann: [[Cell Theory]] (all living things have cells)
+		- Virchow: added on; "cells from from preexisting cells" ([[biogenesis]])
+			- "proven" soon after by Louis Pasteur
+
 - ### 3.1.2: Prokaryotes vs Eukaryotes
+	- 2 types of major cells:
+		- Eukaryotic: evolved after nucleus ([[eukaryote]]s)
+			- membrane-bound organelles
+			- 1-100 microns
 - ### 3.1.3: Plant and Animal Cell Overview: The Basics
 - ### 3.1.4: Membranes: Basic Structures
 - ### 3.1.5: The Nuclear Envelope: The Initial Tour
@@ -38,8 +52,12 @@
 - ### 3.5.2: Passive Transport: Osmosis
 - ### 3.5.3: Active Transport: Ion Pumps and Cotransport
 - ### 3.5.4: Active Transport: The Sodium-Potassium Pump
-- ### 3.5.5: Energy-Requiring Transport: En
+- ### 3.5.5: Energy-Requiring Transport: Endocytosis and Exocytosis
 
 ## 3.6: Tools for Cell Biology
+- ### 3.6.1: Tools of the Cytologist: Light and Fluorescent Microscopy
+- ### 3.6.2: Scanning and Transmission Electron Microscopes
+- ### 3.6.3: Freeze Fracture and Differential Centrifugation
 
 ## 3.7: The Evolution of Metabolic Functions
+- ### 3.7.1: Major Modes of Nutrition Among Organisms
