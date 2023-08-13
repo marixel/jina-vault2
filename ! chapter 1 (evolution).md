@@ -22,7 +22,7 @@
 		5. response to environment
 			- also called [[irritability]]
 			- doesn't refer to physical or chemical changes
-			- what does 'irritability' mean in reference to the 
+			- what does 'irritability' mean in reference to the main characteristics of life?::the organism's response to its environment, or its 'niche'
 		1. homeostasis
 			- synthesizes previous points
 			- has to do w/ how life remains *balanced* to maintain a constant environment
@@ -41,6 +41,7 @@
 	- these steps will come naturally in time
 	- #### science is about wonder and curiosity
 		- hypotheses aren't "proven," they're either rejected or not (there are very, *very* few constants in science)
+	- "forefather" of scientific thought; grandfather theorized natural selection (but wasn't paid any attention); naturalist on the HMS Beagle; published most popular theory of evolution::Charles Darwin
 	- [[Charles Darwin]]
 		- "forefather" of scientific thought
 		- grandfather theorized natural selection (but nobody listened)
@@ -49,6 +50,7 @@
 			- voyage went worldwide
 			- few had faith in Darwin, and he could only go bc his uncle (and *only* his uncle) permitted that he should go
 			- **Fitzroy**, captain of the [[HMS Beagle]], believed that Darwin was a divine intervention (because his trip's purpose was to disprove evolutionists/literally prove the Bible)
+			- explain why captain Fitzroy of the HMS Beagle helped Darwin develop his Theory of Evolution::Fitzroy = embarked on worldwide journey to literally prove the Bible's description of evolution to be correct; fiercely argued with Darwin over his theories, encouraging him to strengthen it
 - ### 1.2.3: Early Scientific Thought
 	- ![[Pasted image 20230812040038.png]]
 - ### 1.2.4: The Emerging Science of Geology
