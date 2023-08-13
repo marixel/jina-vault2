@@ -196,10 +196,17 @@
 		- DNA + RNA
 			- made of [[nucleotide]]s
 		- *Deoxyribo*nucleic acid: missing an oxygen in ribose
-			- nitrogeneous bases vary between [[nucleotide]]s (agenine, guanine, cytosine,)
+			- nitrogenous bases vary between [[nucleotide]]s (agenine, guanine, cytosine, or *thymine*)
+		- *ribo*nucleic acids:
+			- nitrogeneous bases also vary (adenine, guanine, cytosine, or *uracil*)
+		- purines: adenine and guanine; have 2 rings; *PUGA 2*
 
 ## 2.7: Proteins
 - ### 2.7.1: Proteins: Amino Acids and the Peptide Bond
+	- shape = conformation
+	- proteins = polymers of [[amino]] [[acid]]s
+	- amino acids: made up of amino group + carboxyl group
+		- *source of variation* = R
 - ### 2.7.2: Amino Acids: The R Group
 - ### 2.7.3: Primary and Secondary Structure
 - ### 2.7.4: Tertiary Structure
