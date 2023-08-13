@@ -46,7 +46,10 @@ review questions 2, 9, 18, 24, and 25 on chapter test for midterm/final (got wro
 		- example:
 			- ![[Pasted image 20230813081042.png]]
 			- water and CO2 result
-			- methane's carbon = 4 hydrogen atoms -->
+			- methane's carbon = 4 hydrogen atoms --> 2 oxygen atoms (oxygen = more electronegative than hydrogen)
+				- carbon will lose electrons when bonded to oxygen (bc oxygen pulling it away w/ stronger force than hydrogen did)
+				- carbon is then oxidized
+	- energy = product of redox reactions bc electrons go from low --> high electronegativity
 - ### 4.1.5: Energy Release from Sugar: A Demo
 - ### 4.1.6: Coenzymes: The Role of NAD+
 
