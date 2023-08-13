@@ -77,9 +77,26 @@
 			- 2 types:
 				- rough: covered in ribosomes (processes/alters proteins)
 					- lumen: cavity inside tubular part of an organ
-					- 
+				- smooth: lacking ribosomes (processes proteins + attached to rough ER)
+					- synthesis of phospholipids + steroids; detoxification
+					- excess can lead to too-quick detoxification or breakdown of necessary substances for cell
+
 - ### 3.2.2: Cellular Function: Golgi Apparatus
+	- The Golgi Apparatus: prepares proteins for other jobs in/out of cell
+		- the "post office" bc packages + prepares proteins
+		- [[cisternae]] (or "faces"): membrane "sacs" of Golgi apparatus
+			- cis: ER side
+				- membrane fusion: merging of membranes to move protein w/o letting it into cytosol
+			- trans: plasma membrane (controls secretion)
+		- steps:
+			- 1. formation of transport vesicle (protein "bag")
+			- 2. transport vesicle fuses w/ cis face of Golgi
+			- 3. protein travels from cisterna --> cisterna through vesicles
+			- 4. protein leaves trans face in vesicle ready for transport
+				- [[exocytosis]]: process of releasing materials through the plasma membrane
 - ### 3.2.3: Food Vacuole Formation: The Role of the Lysosomes
+	- lysosome: membrane-bound organelles w/ digestive/hydrolytic enzyme
+	- amoeba: eats via "phagocytosis" (engulfing extracellular particles by surrounding them w/ extensions of the plasma membrane )
 - ### 3.2.4: Still More Vacuoles and Peroxisomes
 - ### 3.2.5: Mitochondria: Welcome Guests
 - ### 3.2.6: The Origin of Mitochondria and Chloroplasts
