@@ -159,12 +159,32 @@
 			- so, structural material
 		- primary: allows expansion + cell wall formation after cell division
 			- hardened by pectin (which binds cellulose)
-		- secondary: 2-3 more layers between 
+		- secondary: 2-3 more layers between plasma membrane + primary + secondary (pectin) cell walls
+		- plasmodesmata: cytoplasmic channels running through adjacent plant cells
 
 ## 3.4: The Plasma Membrane
 - ### 3.4.1: Plasma Membrane: The Extracellular Matrix
+	- extracellular matrix: only in animals cells
+		- integrated network of collagen, carbs, and proteins provide cellular support
+		- components:
+			- 1. glycoproteins (like collagen; mostly protein)
+			- 2. proteoglycans (95% carbs)
+			- 3. fibronectins (anchors proteins w/ others)
+			- 4. plasma membrane (ex integrin; helps "lock" ECM + provides support with actin)
+
 - ### 3.4.2: The Plasma Membrane: The Fluid-Mosaic Model
+	- "Fluid Mosaic Model" bc protein molecules embedded in lipid bilayer
+		- cells live in watery environments, but lipids are hydrophobic
+		- selective permeability: ability to allow certain molecules to pass more easily than others
+			- hydrophilic molecules have trouble
+			- hydrophobic + fat-soluble molecules pass easily
+			- lipids: constantly flowing
+		- fluidity high bc bent tail adds space/minimizes Van der Waals interactions
+			- cholesterol increases fluidity, so cold-blooded organisms may have them (since it doesn't allow for easy solidification)
+
 - ### 3.4.3: Proteins as the Mosaic of the Cell Membrane
+	- how do polar molecules (aside from water) get through lipid bilayer?
+		- 
 - ### 3.4.4: Animal Cell Junctions
 
 ## 3.5: Cell Transport
