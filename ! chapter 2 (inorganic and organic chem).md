@@ -206,8 +206,15 @@
 	- shape = conformation
 	- proteins = polymers of [[amino]] [[acid]]s
 	- amino acids: made up of amino group + carboxyl group
+	- ![[amino_acid_structure.png]]
 		- *source of variation* = R
+	- [[peptide]] bond: covalent bond formed between amino acid units by dehydration synthesis
+	- w/ above structure, [[polypeptides]] can form
+
 - ### 2.7.2: Amino Acids: The R Group
+	- protein properties are determined by amino acid arrangements
+	- protein config determind by amino acid interactions
+	- electrically charge
 - ### 2.7.3: Primary and Secondary Structure
 - ### 2.7.4: Tertiary Structure
 - ### 2.7.5: Quaternary Structure
