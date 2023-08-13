@@ -64,6 +64,27 @@ review questions 2, 9, 18, 24, and 25 on chapter test for midterm/final (got wro
 
 ## 4.2: Glycolysis and Fermentation
 - ### 4.2.1: Glycolysis: The Initial Steps: Energy Input
+	- part 1: [[energy]]/[[ATP]] investment stage
+	1.  [[ATP]] to [[ADP]] when [[phosphate group]] invested
+		- [[hydrogen]] electrons transferred into phosphate with help of the [[enzyme]] ****[[hexokinase]]** (carbon-6 [[energy]] investment/[[glucose]])
+		- glucose —> glucose 6-phosphate
+	2. glucose 6-phosphate isomerized into [[fructose]] with [[enzyme]] **isomerase**
+		- fructose 6-phosphate forms
+	3. fructose 6-phosphate undergoes [[phosphorylation]] to form fructose 16-biphosphate (“bi” bc [[ATP]] invested again)
+	4. new [[ATP]] investment broken down into [[ADP]]; another phosphate group added with enzyme **phosphofructokinase** (having to do with high energy and [[phosphate group]]s)
+		- 6-carbon, biphosphorylated substance
+	5. fructose biphosphate broken down into two components:
+		- [[dehydroxyacetone phosphate]] (pretty useless for the cell when not converted)
+			- unconverted: 3-carbon substance (glyceraldehyde 3-phosphate)
+			- finishes glycolysis + respiration
+			- enzyme __ converts glyceraldehyde 3-phosphate into dehydroxyacetone phosphate, which can be used by cell
+			- state of [[equilibrium]] established
+				- when G3P put into rest of [[glycolysis]], [[dehydroxyacetone phosphate]] moves in direction of G3P until it’s all converted to G3P
+
+disorganized info: during [[glycolysis]], [[hydrogen]] is removed and (something else) is undergoing [[reduction]]
+
+first stage summary:
+- glucose doubly phosphorylated, split into 2 parts, first of which splits into 3-carbon molecule
 - ### 4.2.2: Glycolysis: The Energy Payoff
 - ### 4.2.3: [[Anaerobic]] [[Respiration]]: Fermentation of [[Pyruvate]]
 	**Review**: [[Glycolysis]] produces 2 [[ATP]], 2 NADH + H2, and 2 [[pyruvate]] molecules.
