@@ -117,7 +117,7 @@
 		- sulfhydryl (thiols/-SH): consist SH; in amino acids, form disulfide bridges (which strengthen protein structure)
 		- Phosphate (organic phosphates): derived from phosphoric acid (H3PO4)
 			- can be transferred to organic molecules (forming [[phosphorylated-intermediates]])
-			- how energy passes from molecule 
+			- how energy passes from molecule -> molecule in the cell
 
 ## 2.5: Carbohydrates
 - ### 2.5.1: Carbohydrates: Monosaccharides
