@@ -317,6 +317,18 @@
 		- catalysts
 		- complex proteins
 		- specific to shape
-	- 
+	- induced-fit hypothesis model: model of enzyme action where substrate induces a more complete fit of the enzymes [[active site]] (location in enzyme where [[substrate]] bonds) around it
+		- so it adjusts to comfortably integrate enzyme into the structure
+	- catalytic cycle:
+		- 1. enzyme active site + substrate -> both available
+		- 2. induced fit
+		- 3. bonds = broken by hydrolysis
+		- 4. products are released
+		- 5. enzyme is recycled
+		- enzyme + substrate -> enzyme-substrate complex -> products + enzymes
+	- enzymes stop working bc of denature (loss of protein's conformational shape and function)
+	- adding/removing hydrogen moves active site
+	- substances improve (cofactors) or lower (inhibitors) protein activity bc of change sin active site
 - ### 2.9.2: Enzyme Regulation: Allosteric Regulation
+	- regulation can 
 - ### 2.9.3: Feedback Inhibition and Cooperativity
