@@ -213,9 +213,41 @@
 
 - ### 2.7.2: Amino Acids: The R Group
 	- protein properties are determined by amino acid arrangements
-	- protein config determind by amino acid interactions
-	- electrically charge
+	- protein config determined by amino acid interactions
+	- electrically charged amino acids:
+	- ![[electrically_charged_amino_acids.png]]
+		- acidic:
+			- aspartic acid
+			- glutamic acid
+		- basic:
+			- lysine
+			- arganine
+	- polar/hydrophilic amino acids:
+	- ![[polar_amino_acids.png]]
+		- serine
+		- threonine
+		- cysteine
+		- tyrosine
+		- asparagine
+		- glutamine
+	- nonpolar/hydrophobic amino acids:
+	- ![[nonpolar_amino_acids.png]]
+		- glycine
+		- alanine
+		- valine
+		- leucine
+		- isoleucine
+		- methionine
+		- phenylalanine
+		- tryptophan
+		- proline
+
 - ### 2.7.3: Primary and Secondary Structure
+	- proteins do the work of the cell
+		- Primary structure 1: order/arrangement of amino acids in peptide
+			- RNA instructs order + arrangement of amino acids in a protein, determining its shape
+		- Secondary Structure 2: [[hydrogen]] bonds form between adjacents
+			- forming an [[alpha helix]]
 - ### 2.7.4: Tertiary Structure
 - ### 2.7.5: Quaternary Structure
 - ### 2.7.6: Nucleic Acids: An Introduction to Genetic Material
