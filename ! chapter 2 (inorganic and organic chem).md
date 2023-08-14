@@ -1,3 +1,64 @@
+### flashcards:
+	sulfur, phosphorus, oxygen, nitrogen, carbon, and hydrogenthese elements make up over 99% of the human body::which elements make up SPONCH, and why are they significant?
+
+orbitals consist of two electrons; orbitals combine to form electron shells; the first shell has only one orbital; every shell after the second has four orbitals; new shells cannot form until all existing shells are full; the valence shell is reactive if left unfilled; the further away an electron shell from the nucleus, the higher its potential energy::name the seven rules of chemistry (as seen in the lecture)
+
+lewis dot notation; shows only valence electrons; interactions/reactions take place at valence shells::would it be better to use lewis dot notation or draw a more detailed atomic model, like the bohr model, for usage in visualizing interactions between different atoms? why or why not?
+
+water is polar and attracted to positive/negative ends of other molecules; charged parts of water will surround individual atoms in molecules and break them apart::describe the process of ionization with any neutral particle and pure water (here, dissociation and ionization are interchangeable.)
+
+shells that form around charged particles dissolved in water; happens bc of dissociation (water surrounds particles and breaks them apart)::hydration shells
+
+hydroxyl/alcohols (-OH); carbonylaldehydes (H-C=O; end of chain); ketones (C=O; within chain); carboxylionized (O=C-O); non-ionized (OH-C=O⁻); aminoionized (NH3); non-ionized (NH2); sulfhydryl/thiols (-SH)phosphate (H3PO⁻4)::name the functional side groups and write their formulas
+
+Primary Structure: polypeptide chain where R groups are organized by RNASecondary Structure: Van der Waals Attractions form between adjacent sections, forming either an alpha helix or a beta pleated sheetTertiary Structure: Protein folds in on itself; water-rejecting components move towards center and condense very tightly, forming Van der Waals attractions. Likewise, water-attracted components move out (where some proteins stop developing)Polypeptide bonds interact with one another to determine the protein’s final conformation::name the four structures that form during the development of a protein, and briefly explain what changes they cause.
+
+DNA makes RNA makes Proteins::what is the central dogma of biology?
+
+glycosidic linkages = two glucose molecules joined togethertriglycerides = glycerol molecule and 3 fatty acidsglycerol = byproduct of breaking down fats; often converted to glucoseglycerol makes up triglyceride (a lipid); glycosidic linkages are often found in carbs::what are triglycerides, glycerol, and glycosidic linkages? how do they relate to one another?
+
+old equation: 6CO2+6H2O→C6H12O6+6O2new equation: 6CO2+12H2O→C6H12O6+6O2+H2Ochanged bc water splits during photosynthesis to give off O2, which wasn’t reflected in og equationwater is both a reactant and a product (dehydration synthesis)::write the original and improved equations demonstrating the process of photosynthesis. why was it changed? how did dehydration synthesis play a role?
+
+count the number of nitrogen::how do you determine the number of amino acids in a polypeptide when given the structural formula?
+
+physical: starch: soluble; 1-4 glycosidic linkages; no tensile strength; digestiblecellulose: insoluble; 1-4 glycosidic linkages; high tensile strength; not digestible  chemical: OH positioned “downwards” (view notes pg 5)OH positioned “upwards” (view notes pg 5)::compare the physical and chemical properties in cellulose and starches
+
+starch:stores energy/general name for amyloseOH positioned downwards, so relatively straight linkage throughoutstructure causes brittleness/no tensile strength, so starch is easily broken down and digestedsolublecellulose:surrounds cell wallsOH positioned upwards and downwards, so polysaccharide undergoes has a somewhat sinusoidal movement pattern (up-down)structure causes high tensile strength/resistance to tension, so cellulose isn’t broken down easily and cannot be digested by animalsinsoluble::both starch and cellulose are structural polysaccharides, the former being in plants and the latter in animals. how do their respective chemical compositions affect their physical properties and uses?
+
+amylose:enzyme in saliva that breaks glycosidic linkagesamylopectin:plant polysaccharides1-4 glycosidic linkages1-6 branch pointsglycogen:more branching than amylopectin, but otherwise similar structure1-6 glycosidic linkagesfound in animals::name the 3 different types of storage polysaccharides (3 or more simple sugars bonded together) and their defining features
+
+acidic:aspartic acidglutanic acidbasic:lysinearganine::name the acidic and basic amino acids (4 in total)
+
+polar amino acids:serinethreoninecysteinetyrosineasparagineglutamineexplanation:characterized by the presence of hydroxyl, amine, or sulfhydryl groups::name the polar/hydrophilic amino acids and explain why they are classified in such a way (6 in total)
+
+nonpolar amino acids:glycinealaninevalinelevcineisoleucinemethioninephenylalaninetryptophanprolineaside from methionine, every amino acid exclusively contains some variation of CH (CH, CH2, or CH3)methionine includes S, or sulfur, as well::name the nonpolar amino acids and explain their characteristics (10 in total)
+
+cysteine is a polar amino acid involving -SH (sulfhydryl group)disulfide bridges can only form between sulfhydryl::what are cysteines, and why can disulfide bridges form only between them?
+
+nonpolarto minimize interactions with water::in aqueous conditions, what kind of amino acids will gravitate towards the protein’s interior? why do they do this? (tertiary structure)
+
+they help to minimize interactions with water (as particles condense more tightly)::why do van der waals forces form between nonpolar particles in a protein’s interior?
+
+ionic:electrons are transferred between two atoms to fill valence shells“ionic” because ions are formed through the processcovalent:electrons shared between two atoms’ valence shellsforms moleculecan be polar or nonpolarhydrogen:formed between a hydrogen atom and an atom of some other element, most often oxygen or carbonweak bondsmake up hydrocarbonsvan der waals forcesnonpolar molecules attracted to each other when in close proximityatoms in a nonpolar covalent bond become reactive in very specific conditions, and when around other reactive atoms will form very weak bonds::describe ionic, covalent, hydrogen, and van der waals forces/bonds. why do they happen? (review phrasing; van der waals may be incorrect)
+
+::name the different R-groups and draw their structural formulas (can be found in notes)
+
+nothingenzymes have very specific uses::If an enzyme that breaks down carbohydrates is placed in a solution of proteins, what will happen?
+
+abcd-aseenzyme reactions are reversible::If abcd-ase is the enzyme used to catalyze the reaction A + B → C + D, what enzyme would catalyze the reaction C + D → A + B?
+
+stabilization of an enzyme in its inactive formachieved when a molecule bonds to the enzyme outside of its active site (allosteric site) and conformation will be unable to support substrate::allosteric inhibition involves:
+
+the binding of substrate to one subunit of an enzyme enhances the other subunit’s ability to bind to substratein other words, the substrates help each other (or cooperate)::define cooperation
+
+thyroxininhibitor to TSH, which in turn decreases thyroxin levels::what serves as the feedback inhibitor in the provided system?
+
+electronegativities of SPONCH:sulfur:phosphorus:oxygen: 3.5nitrogen:carbon: 2.5hydrogenelements with similar electronegativities are more likely to form covalent bonds, while those with a large difference will likely form ionic ones.::list the electronegativities of each element in SPONCH. what do their - differences mean in terms of how they will bond with each other?
+
+high: will likely be negative because accepts electronslow: will likely be positive because donates electrons::how does electronegativity generally relate to the type of ion that will form in bonding? (think high and low electronegativities)
+
+cell membranes::Phospholipids are major components of _____.
+
 ## 2.1: An Introduction to Atoms
 - ### 2.1.1: Atomic Structure: SPONCH and the Atom
 	- we can't define life, only describe it
@@ -345,3 +406,4 @@
 		- if D inhibits enzyme x, it can conserve enzyme (feedback)
 			- can also be negative (view TW notes)
 		- [[cooperativity]]: substrate itself activates (and regulates) enzyme
+		-
