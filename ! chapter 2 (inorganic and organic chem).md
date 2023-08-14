@@ -25,13 +25,13 @@ physical: starch: soluble; 1-4 glycosidic linkages; no tensile strength; digesti
 
 starch: stores energy/general name for amylose; OH positioned downwards, so relatively straight linkage throughout; structure causes brittleness/no tensile strength, so starch is easily broken down and digested; soluble; cellulose: surrounds cell walls; OH positioned upwards and downwards, so polysaccharide undergoes has a somewhat sinusoidal movement pattern (up-down)structure causes high tensile strength/resistance to tension, so cellulose isn’t broken down easily and cannot be digested by animals; insoluble::both starch and cellulose are structural polysaccharides, both being present in plant cells. how do their respective chemical compositions affect their physical properties and uses?
 
-amylose: enzyme in saliva that breaks glycosidic linkages; amylopectin: plant polysaccharides1-4 glycosidic linkages1-6 branch points; glycogen: more branching than amylopectin, but otherwise similar structure; 1-6 glycosidic linkages found in animals::name the 3 different types of storage polysaccharides (3 or more simple sugars bonded together) and their defining features
+amylose: enzyme in saliva that breaks glycosidic linkages; amylopectin: plant polysaccharides w/ 1-4 branch points; glycosidic linkages: 1-6 branch points; glycogen: more branching than amylopectin, but otherwise similar structure; 1-6 glycosidic linkages found in animals::name the 3 different types of storage polysaccharides (3 or more simple sugars bonded together) and their defining features
 
-acidic:aspartic acidglutanic acidbasic:lysinearganine::name the acidic and basic amino acids (4 in total)
+acidic: aspartic acid, glutanic acid; basic: lysine, arganine::name the acidic and basic amino acids (4 in total)
 
-polar amino acids:serinethreoninecysteinetyrosineasparagineglutamineexplanation:characterized by the presence of hydroxyl, amine, or sulfhydryl groups::name the polar/hydrophilic amino acids and explain why they are classified in such a way (6 in total)
+polar amino acids: serine; threonine; cysteine; tyrosine; asparagine; glutamine; explanation: characterized by the presence of hydroxyl, amine, or sulfhydryl groups::name the polar/hydrophilic amino acids and explain why they are classified in such a way (6 in total)
 
-nonpolar amino acids:glycinealaninevalinelevcineisoleucinemethioninephenylalaninetryptophanprolineaside from methionine, every amino acid exclusively contains some variation of CH (CH, CH2, or CH3)methionine includes S, or sulfur, as well::name the nonpolar amino acids and explain their characteristics (10 in total)
+nonpolar amino acids: glycine; alanine; valine; levcine; isoleucine; methionine; phenylalanine; tryptophan; proline; aside from methionine, every amino acid *exclusively contains some variation of CH (CH, CH2, or CH3); methionine includes S, or sulfur, as well::name the nonpolar amino acids and explain their characteristics (10 in total)
 
 cysteine is a polar amino acid involving -SH (sulfhydryl group)disulfide bridges can only form between sulfhydryl::what are cysteines, and why can disulfide bridges form only between them?
 
