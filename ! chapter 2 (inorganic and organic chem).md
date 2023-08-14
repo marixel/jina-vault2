@@ -31,15 +31,15 @@ acidic: aspartic acid, glutanic acid; basic: lysine, arganine::name the acidic a
 
 polar amino acids: serine; threonine; cysteine; tyrosine; asparagine; glutamine; explanation: characterized by the presence of hydroxyl, amine, or sulfhydryl groups::name the polar/hydrophilic amino acids and explain why they are classified in such a way (6 in total)
 
-nonpolar amino acids: glycine; alanine; valine; levcine; isoleucine; methionine; phenylalanine; tryptophan; proline; aside from methionine, every amino acid *exclusively contains some variation of CH (CH, CH2, or CH3); methionine includes S, or sulfur, as well::name the nonpolar amino acids and explain their characteristics (10 in total)
+nonpolar amino acids: glycine; alanine; valine; levcine; isoleucine; methionine; phenylalanine; tryptophan; proline; aside from methionine, every amino acid *exclusively* contains some variation of CH (CH, CH2, or CH3); methionine includes S, or sulfur, as well::name the nonpolar amino acids and explain their characteristics (10 in total)
 
-cysteine is a polar amino acid involving -SH (sulfhydryl group)disulfide bridges can only form between sulfhydryl::what are cysteines, and why can disulfide bridges form only between them?
+cysteine is a polar amino acid involving -SH (sulfhydryl groups); disulfide bridges can only form between sulfhydryl::what are cysteines, and why can disulfide bridges form only between them?
 
-nonpolarto minimize interactions with water::in aqueous conditions, what kind of amino acids will gravitate towards the protein’s interior? why do they do this? (tertiary structure)
+nonpolar to minimize interactions with water::in aqueous conditions, what kind of amino acids will gravitate towards the protein’s interior? why do they do this? (tertiary structure)
 
 they help to minimize interactions with water (as particles condense more tightly)::why do van der waals forces form between nonpolar particles in a protein’s interior?
 
-ionic:electrons are transferred between two atoms to fill valence shells“ionic” because ions are formed through the processcovalent:electrons shared between two atoms’ valence shellsforms moleculecan be polar or nonpolarhydrogen:formed between a hydrogen atom and an atom of some other element, most often oxygen or carbonweak bondsmake up hydrocarbonsvan der waals forcesnonpolar molecules attracted to each other when in close proximityatoms in a nonpolar covalent bond become reactive in very specific conditions, and when around other reactive atoms will form very weak bonds::describe ionic, covalent, hydrogen, and van der waals forces/bonds. why do they happen? (review phrasing; van der waals may be incorrect)
+ionic: electrons are transferred between two atoms to fill valence shells, “ionic” because ions are formed through the process; covalent: electrons shared between two atoms’ valence shells, forms molecule, can be polar or nonpolar; hydrogen: formed between a hydrogen atom and an atom of some other element, most often oxygen or carbon, weak bonds make up hydrocarbons; van der waals forces: nonpolar molecules attracted to each other when in close proximity, atoms in a nonpolar covalent bond become reactive in very specific conditions, and when around other reactive atoms will form very weak bonds::describe ionic, covalent, hydrogen, and van der waals forces/bonds. why do they happen?
 
 ::name the different R-groups and draw their structural formulas (can be found in notes)
 
