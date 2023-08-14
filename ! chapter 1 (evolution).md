@@ -91,12 +91,14 @@ TARGET DECK: HS-BIO
 		- 2-name system of naming
 		- 8-system animal kingdom
 		- system allows for more in-depth analysis of life forms
+		- developed the binomial system of nomenclature (genus + species), allowing for more in-depth analysis of life forms::Linnaeus
 	- Georges Buffon: "A Natural History of Animals"
 		- animal anatomy
 		- naturalist
 		- while researching, **noticed**:
 			- [[homologous]] structures: similar constructs between animals w/ varying structures derived from a common ancestor
-			- vestigial structures: constructs w/o apparent use
+			- [[vestigial]] structures: constructs w/o apparent use
+				- constructs w/o apparent use::vestigial structures
 	- Jean Baptiste de Lamarck: **first evolution theory**
 		1. use or disuse
 			- like weight training (more use = adapts to meet needs within lifetime; likewise, with less use the structure decays)
