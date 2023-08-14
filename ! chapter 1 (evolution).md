@@ -11,24 +11,24 @@ TARGET DECK: HS-BIO
 		- not all things w/ organization are alive
 	- #### 6 characteristics of life:
 	- name the six characteristics of life::order, reproduction, growth/development, energy use, response to environment/irritability, and homeostasis
-<!--ID: 1691954589980-->
+<!--- ID: 1691954589980-->
 		1. order
 		2. reproduction
 			- ability to reproduce at the molecular level (like DNA, cells, etc.)
 			- sterile organisms can reproduce in this way
 			- when referring to reproduction as a characteristic of life, what level is the determinant?::the molecular level; reproduction doesn't just refer to sexual/asexual reproduction, but the ability to create and repair cells or molecules of life like DNA (so sterile organisms can reproduce)
-<!--ID: 1691954590009-->
+<!--- ID: 1691954590009-->
 		3. growth and development
 			- doesn't just refer to expansion
 			- refers to creation of *new material*
 			- what does "growth and development" as a characteristic of life refer to? what does it mean in context?::refers to the creation of *new* material, not just expansion. some objects, like household sponges, can expand but can't create new material and are thus not alive.
-<!--ID: 1691954590020-->
+<!--- ID: 1691954590020-->
 		4. energy use (will show up later in class)
 		5. response to environment
 			- also called [[irritability]]
 			- doesn't refer to physical or chemical changes
 			- what does 'irritability' mean in reference to the main characteristics of life?::the organism's response to its environment, or its 'niche'
-<!--ID: 1691954590033-->
+<!--- ID: 1691954590033-->
 		1. homeostasis
 			- synthesizes previous points
 			- has to do w/ how life remains *balanced* to maintain a constant environment
@@ -48,7 +48,6 @@ TARGET DECK: HS-BIO
 	- #### science is about wonder and curiosity
 		- hypotheses aren't "proven," they're either rejected or not (there are very, *very* few constants in science)
 	- "forefather" of scientific thought; grandfather theorized natural selection (but wasn't paid any attention); naturalist on the HMS Beagle; published most popular theory of evolution::Charles Darwin
-<!--ID: 1691954590044-->
 	- [[Charles Darwin]]
 		- "forefather" of scientific thought
 		- grandfather theorized natural selection (but nobody listened)
@@ -58,13 +57,9 @@ TARGET DECK: HS-BIO
 			- few had faith in Darwin, and he could only go bc his uncle (and *only* his uncle) permitted that he should go
 			- **Fitzroy**, captain of the [[HMS Beagle]], believed that Darwin was a divine intervention (because his trip's purpose was to disprove evolutionists/literally prove the Bible)
 			- explain why captain Fitzroy of the HMS Beagle helped Darwin develop his Theory of Evolution::Fitzroy = embarked on worldwide journey to literally prove the Bible's description of evolution to be correct; fiercely argued with Darwin over his theories, encouraging him to strengthen it
-<!--ID: 1691954590056-->
 - ### 1.2.3: Early Scientific Thought
-<!--ID: 1691954590066-->
 	- who were Roger and Francis Bacon?::Roger (1200s) - reject dogma; Francis (1500s) - don't accept anything without testing it first (advocated for experimentation -- mostly in regards to religion)
-<!--ID: 1691954590076-->
 	- what was thomas aquinas and albertus magnus' philosophies, and how did they shape the future of science?::natural vs revealed truths; this came right after age of theology (when very little scientific progress was made), so by clearly discerning the two from each other more discoveries could be made public
-<!--ID: 1691954590086-->
 
 	- ![[Pasted image 20230812040038.png]]
 - ### 1.2.4: The Emerging Science of Geology
@@ -79,7 +74,6 @@ TARGET DECK: HS-BIO
 		- [[gradualism]]: earth is shaped over time by geological process (slow, continuous change)
 	- Charles Lyell (1797-1875)
 		- compare and contrast gradualism and uniformitarianism. why did lyell feel the need to discern between the two?::gradualism = earth shaped over time by slow, continuous geological processes; uniformitarianism = earth shaped over time like in gradualism, but these processes have remained the same throughout earth's history; by differentiating the two, scientists of the time were able to infer that, when applying lyell's idea, that the earth had to be over 6,000 years old and few catastrophes (as defined by cuvier) had actually occurred
-<!--ID: 1691954590109-->
 		- [[uniformitarianism]]: forces involved in gradualism have not changed through Earth's history
 			- so: few catastrophes and earth is >6000 years old
 	- **opened doors** and **changed minds**
@@ -90,6 +84,8 @@ TARGET DECK: HS-BIO
 		- 8-system animal kingdom
 		- system allows for more in-depth analysis of life forms
 		- developed the binomial system of nomenclature (genus + species), allowing for more in-depth analysis of life forms::Linnaeus
+- - ID: 1692021577383
+
 	- Georges Buffon: "A Natural History of Animals"
 		- animal anatomy
 		- naturalist
@@ -97,6 +93,8 @@ TARGET DECK: HS-BIO
 			- [[homologous]] structures: similar constructs between animals w/ varying structures derived from a common ancestor
 			- [[vestigial]] structures: constructs w/o apparent use
 				- constructs w/o apparent use::vestigial structures
+- ID: 1692021577402
+
 	- Jean Baptiste de Lamarck: **first evolution theory**
 		1. use or disuse
 			- like weight training (more use = adapts to meet needs within lifetime; likewise, with less use the structure decays)
@@ -452,95 +450,188 @@ TARGET DECK: HS-BIO
 
 
 organization::the key to life is:
+- - ID: 1692021577413
+
 
 somewhere between molecules, organelles, and cells::at what approximate point in the hierarchical structure of biological organization does life happen?
+- - ID: 1692021577423
+
 
 cell::the smallest unit capable of displaying the characteristics of life
+- - ID: 1692021577435
+
 
 homeostasis::one of the 6 characteristics of life; synthesizes all other characteristics listed; how life remains balanced internally to maintain a constant environment
+- - ID: 1692021577445
+
 
 evolutionary adaptation::the idea that life changes over time (with generations); theme of biology
+- - ID: 1692021577454
+
 
 fire, air, earth, and water (in that order)::aristotle’s four elements
+- ID: 1692021577464
+
 
 natural: from nature revealed: from theology::natural vs revealed truth
+- ID: 1692021577476
+
 
 roger bacon::the 13th century man who told the public to avoid taking things blindly (or ‘reject dogma’)
+- ID: 1692021577486
+
 
 francis bacon::the 16th century man who told the public that they shouldn’t accept anything as truth without experimentation; introduced experimentalism
+- ID: 1692021577497
+
 
 galileo galilei::an astronomer who was punished for supporting copernicus’ theory that the earth was round and revolved around the sun; forced to reject theory to save his life
+- ID: 1692021577507
+
 
 archbishop james usher::the man who proposed the idea that life on earth (and the planet as a whole) began in 4004 BC
+- ID: 1692021577518
+
 
 john ray::the man who introduced the idea that fossils are the remains of life
+- ID: 1692021577530
+
 
 catastrophism::the idea that earth’s geologic formations (specifically layers of fossils) were formed as the result of catastrophic events which marked the beginning and end of each layer; proposed by George Cuvier
+- ID: 1692021577540
+
 
 gradualism::the idea that earth’s geologic formations (specifically layers of fossils) were formed because of slow, continuous change in its geologic processes;  opposes catastrophism
+- ID: 1692021577552
+
 
 uniformitarianism::built on gradualism; the idea that earth’s geologic processes have not undergone any change throughout Earth’s history
+- ID: 1692021577563
+
 
 few catastrophes have occurred on the planetthe earth is over 6000 years old::the two primary conclusions drawn from uniformitarianism
+- ID: 1692021577573
+
 
 stratification::the formation and structure of rock layers
+- ID: 1692021577585
+
 
 variation = caused by catastrophic events::briefly describe george cuvier’s theory converning the differences he observed between layers of rock
+- ID: 1692021577596
+
 
 two name system (in latin; genus + species)8-system animal kingdom::describe linnaeus’ binamial system of nomenclature
+- ID: 1692021577608
+
 
 homologous structures::contain similar constructs between animals with varying structures (think human arm vs whale fin)
+- ID: 1692021577618
+
 
 vestigial structures::structures present on an organism’s body yet lacking any apparent use
+- ID: 1692021577628
+
 
 use or disuse(organisms undergo change during their lifetimes in order to adapt to their environments)inheritance of acquired characteristics(organisms then pass these changes on to their offspring)::name the two principles associated with lamarck’s first evolution theory
+- ID: 1692021577638
+
 
 biogeography::the idea that biology and geography are closely related
+- ID: 1692021577649
+
 
 answer may be something along these lines: bc it showed that animals may have migrated across the continents (which were separate at the time of discovery)raised questions as to why they were extinct::why was darwin’s discovery of quadroped fossils in argentina so important to the development of biogeography? (what did their presence imply?)
+- ID: 1692021577659
+
 
 niche::the role that an organism plays in its community; may be shared between similar types of species
+- ID: 1692021577670
+
 
 answer may look something like this: there were no english rabbits in south americain patagonia, there was the patagonian hare; looked very different from rabbits or hares, but shared the same role, or niche, in its community as the rabbits back in englandthis helped darwin to determine that similar species on different continents may have developed separately yet descended from a common ancestor::why is darwin’s line, “where are the rabbits,” so importanta? how does this statement relate to an organism’s “niche?”
+- ID: 1692021577681
+
 
 there were a variety of finches, iguanas, and tortoises in paticularsince the island was so far off of the coast of south america, there was no way for them to swim or fly overbiogeography present; varieties had to adapt differently in order to survive::how did darwin’s observations in the galapagos islands further contribute to his further theory of evolution?
+- ID: 1692021577692
+
 
 humans would overpopulate the planet if not for disease, war, and famine::briefly describe the main points of Thomas Malthus’ An Essay on the Principles of Population
+- ID: 1692021577704
+
 
 species change over a long period of time (gradualism)the number of species increasesspecies descend from a common ancestornatural selection causes survivors to emerge::list darwin’s first theory of evolution (not the principles; mainly summarizes his observations while away on the beagle)
+- ID: 1692021577714
+
 
 overpopulation, variety, and competition::the conditions for natural selection
+- ID: 1692021577725
+
 
 those who best match their environment (by luck) are more likely to survive and reproduce::‘the survival of the fittest’ is a phrase that refers to what when it comes to evolution
+- ID: 1692021577736
+
 
 he was a renowned biologist thanks to his observations, but he feared that his theory would cause controversywhile finally writing his theory to publish, he received a message from A. R. Wallace who wanted to ask for advice concerning similar observations::why did darwin wait so long to publish his theory, despite having completed and presented it a mere two years after descending from the beagle? name two primary reasons
+- ID: 1692021577747
+
 
 OoS: 1859 OoM: 1871::in what years did darwin publish ‘the origin of species’ and ‘the origin of man’, respectfully?
+- ID: 1692021577759
+
 
 overpopulationvariation within a populationcompetition in a populationsurvival of the fittestreproduction::name the five principles of darwin’s theory of natural selection
+- ID: 1692021577770
+
 
 lamarck: adaptations devlop during lifetime and are passed on to offspring darwin: members of a population born with desirable features are more likely to survive and reproduce, passing their desirable traits on to their offspring::c/c lamarcks’ and darwin’s theories concerning evolution
+- ID: 1692021577782
+
 
 what is the source of variation within a species?::what major question (begins with “why) did both evolution theories fail to answer?
+- ID: 1692021577795
+
 
 selective pressure::when an outside force affects the composition of a population by favoring certain traits over others
+- ID: 1692021577806
+
 
 water covers a dy environment, killing the organisms withinover time, layers of sediment cover the organisms in the waterwith enough sediment, the water driesthe organisms’ remains are mineralized or leave imprints within the sediment::how do fossils form in sediment? (4 steps)
+- ID: 1692021577817
+
 
 relative (indexing)::this method of dating fossils involves observing how deeply the fossils are in the soil, since fossils increase in age the farther into the earth ou go
+- ID: 1692021577829
+
 
 absoute (radioactive)::this method of dating fossils involves radioactive decay, often with C14 or U-235. because these elements decay exponentially, with the amount of atoms decreasing by half the current amount every half-life, scientists are able to determine how long ago the fossil formed by determining how many atoms of that specific element are left within it. (they go by today’s standards)
+- ID: 1692021577840
+
 
 cambrian::in which period before the cretaceous period was there an ‘explosion’ of diversity?
+- ID: 1692021577851
+
 
 five::how many mass extinctions have taken place in the past three billion years?
+- ID: 1692021577861
+
 
 true; some ancient whales were descended from four-legged land creatures::true or false: marine animals can develop from land animals
+- ID: 1692021577871
+
 
 transitional fossils::fossils that demonstrate gradual change as a species adapts to a new environment
+- ID: 1692021577884
+
 
 cladogenesis::the pattern of branching in evolutionary tree showing the emergence of new a new species
+- ID: 1692021577894
+
 
 ordovician, devoniam, permian, trassic, and cretaceous::during which periods did the five mass extinctions occur, in order?
+- ID: 1692021577905
+
 
 glaciers (changing water temperatures and sea levels)collision of continentsvolcanic activity and cold land environmentmeteormeteor (plants failed to undergo photosynthesis due to ash clouds from volcanoes, so the food chain weakened::what is believed to have caused the five mass extinctions, in chronological order?
+- ID: 1692021577917
