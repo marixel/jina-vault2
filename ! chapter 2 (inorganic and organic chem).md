@@ -41,17 +41,15 @@ they help to minimize interactions with water (as particles condense more tightl
 
 ionic: electrons are transferred between two atoms to fill valence shells, “ionic” because ions are formed through the process; covalent: electrons shared between two atoms’ valence shells, forms molecule, can be polar or nonpolar; hydrogen: formed between a hydrogen atom and an atom of some other element, most often oxygen or carbon, weak bonds make up hydrocarbons; van der waals forces: nonpolar molecules attracted to each other when in close proximity, atoms in a nonpolar covalent bond become reactive in very specific conditions, and when around other reactive atoms will form very weak bonds::describe ionic, covalent, hydrogen, and van der waals forces/bonds. why do they happen?
 
-::name the different R-groups and draw their structural formulas (can be found in notes)
+nothing; enzymes have very specific uses::If an enzyme that breaks down carbohydrates is placed in a solution of proteins, what will happen?
 
-nothingenzymes have very specific uses::If an enzyme that breaks down carbohydrates is placed in a solution of proteins, what will happen?
+abcd-ase; enzyme reactions are reversible::If abcd-ase is the enzyme used to catalyze the reaction A + B → C + D, what enzyme would catalyze the reaction C + D → A + B?
 
-abcd-aseenzyme reactions are reversible::If abcd-ase is the enzyme used to catalyze the reaction A + B → C + D, what enzyme would catalyze the reaction C + D → A + B?
+stabilization of an enzyme in its inactive form; achieved when a molecule bonds to the enzyme outside of its active site (allosteric site) and conformation will be unable to support substrate::allosteric inhibition involves:
 
-stabilization of an enzyme in its inactive formachieved when a molecule bonds to the enzyme outside of its active site (allosteric site) and conformation will be unable to support substrate::allosteric inhibition involves:
+the binding of substrate to one subunit of an enzyme enhances the other subunit’s ability to bind to substrate; in other words, the substrates help each other (or cooperate)::define cooperation
 
-the binding of substrate to one subunit of an enzyme enhances the other subunit’s ability to bind to substratein other words, the substrates help each other (or cooperate)::define cooperation
-
-thyroxininhibitor to TSH, which in turn decreases thyroxin levels::what serves as the feedback inhibitor in the provided system?
+thyroxin; inhibitor to TSH, which in turn decreases thyroxin levels::what serves as the feedback inhibitor in the provided system?
 
 electronegativities of SPONCH:sulfur:phosphorus:oxygen: 3.5nitrogen:carbon: 2.5hydrogenelements with similar electronegativities are more likely to form covalent bonds, while those with a large difference will likely form ionic ones.::list the electronegativities of each element in SPONCH. what do their - differences mean in terms of how they will bond with each other?
 
