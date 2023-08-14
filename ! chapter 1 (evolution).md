@@ -60,7 +60,6 @@ TARGET DECK: HS-BIO
 			- explain why captain Fitzroy of the HMS Beagle helped Darwin develop his Theory of Evolution::Fitzroy = embarked on worldwide journey to literally prove the Bible's description of evolution to be correct; fiercely argued with Darwin over his theories, encouraging him to strengthen it
 <!--ID: 1691954590056-->
 - ### 1.2.3: Early Scientific Thought
-	- what major scientific discoveries were made around 1600 AD, all of which had some form of influence on Darwin's much later Theory of Evolution?::Galileo - openly supported Copernicus' theory (Earth was round and revolved around sun); John Ray - found that fossils were remains of living things (which couldn't be easily supported by theology); Newton - calculus and principles of physics (ex. Newton's laws); James Usher: believed that world began in 4004 B.C.
 <!--ID: 1691954590066-->
 	- who were Roger and Francis Bacon?::Roger (1200s) - reject dogma; Francis (1500s) - don't accept anything without testing it first (advocated for experimentation -- mostly in regards to religion)
 <!--ID: 1691954590076-->
@@ -71,7 +70,6 @@ TARGET DECK: HS-BIO
 - ### 1.2.4: The Emerging Science of Geology
 	- John Ray started w/ fossil theory
 	- who was george cuvier, and how did his theory of catastrophism pave the way for future ideas?::a geologist who noticed that the layers in rock changed over time; from this, he determined that these changes must have been caused by relatively frequent mass-extinctions. not long afterwards, other scientists began to present opposition to this idea (james hutton w/ gradualism), allowing for more progress to be made (as these ideas keep building on each other)
-<!--ID: 1691954590096-->
 	- George Cuvier (geologist; 1769-1832)
 		- studied stratification (formation/structure of rock layers)
 		- noticed that layers changed over time
@@ -450,3 +448,99 @@ TARGET DECK: HS-BIO
 				- common branching point
 			- [[domain]]: highest [[taxonomic]] category (above kingdom!)
 		- evolution and scientific knowledge are **always growing**
+
+
+
+organization::the key to life is:
+
+somewhere between molecules, organelles, and cells::at what approximate point in the hierarchical structure of biological organization does life happen?
+
+cell::the smallest unit capable of displaying the characteristics of life
+
+homeostasis::one of the 6 characteristics of life; synthesizes all other characteristics listed; how life remains balanced internally to maintain a constant environment
+
+evolutionary adaptation::the idea that life changes over time (with generations); theme of biology
+
+fire, air, earth, and water (in that order)::aristotle’s four elements
+
+natural: from nature revealed: from theology::natural vs revealed truth
+
+roger bacon::the 13th century man who told the public to avoid taking things blindly (or ‘reject dogma’)
+
+francis bacon::the 16th century man who told the public that they shouldn’t accept anything as truth without experimentation; introduced experimentalism
+
+galileo galilei::an astronomer who was punished for supporting copernicus’ theory that the earth was round and revolved around the sun; forced to reject theory to save his life
+
+archbishop james usher::the man who proposed the idea that life on earth (and the planet as a whole) began in 4004 BC
+
+john ray::the man who introduced the idea that fossils are the remains of life
+
+catastrophism::the idea that earth’s geologic formations (specifically layers of fossils) were formed as the result of catastrophic events which marked the beginning and end of each layer; proposed by George Cuvier
+
+gradualism::the idea that earth’s geologic formations (specifically layers of fossils) were formed because of slow, continuous change in its geologic processes;  opposes catastrophism
+
+uniformitarianism::built on gradualism; the idea that earth’s geologic processes have not undergone any change throughout Earth’s history
+
+few catastrophes have occurred on the planetthe earth is over 6000 years old::the two primary conclusions drawn from uniformitarianism
+
+stratification::the formation and structure of rock layers
+
+variation = caused by catastrophic events::briefly describe george cuvier’s theory converning the differences he observed between layers of rock
+
+two name system (in latin; genus + species)8-system animal kingdom::describe linnaeus’ binamial system of nomenclature
+
+homologous structures::contain similar constructs between animals with varying structures (think human arm vs whale fin)
+
+vestigial structures::structures present on an organism’s body yet lacking any apparent use
+
+use or disuse(organisms undergo change during their lifetimes in order to adapt to their environments)inheritance of acquired characteristics(organisms then pass these changes on to their offspring)::name the two principles associated with lamarck’s first evolution theory
+
+biogeography::the idea that biology and geography are closely related
+
+answer may be something along these lines: bc it showed that animals may have migrated across the continents (which were separate at the time of discovery)raised questions as to why they were extinct::why was darwin’s discovery of quadroped fossils in argentina so important to the development of biogeography? (what did their presence imply?)
+
+niche::the role that an organism plays in its community; may be shared between similar types of species
+
+answer may look something like this: there were no english rabbits in south americain patagonia, there was the patagonian hare; looked very different from rabbits or hares, but shared the same role, or niche, in its community as the rabbits back in englandthis helped darwin to determine that similar species on different continents may have developed separately yet descended from a common ancestor::why is darwin’s line, “where are the rabbits,” so importanta? how does this statement relate to an organism’s “niche?”
+
+there were a variety of finches, iguanas, and tortoises in paticularsince the island was so far off of the coast of south america, there was no way for them to swim or fly overbiogeography present; varieties had to adapt differently in order to survive::how did darwin’s observations in the galapagos islands further contribute to his further theory of evolution?
+
+humans would overpopulate the planet if not for disease, war, and famine::briefly describe the main points of Thomas Malthus’ An Essay on the Principles of Population
+
+species change over a long period of time (gradualism)the number of species increasesspecies descend from a common ancestornatural selection causes survivors to emerge::list darwin’s first theory of evolution (not the principles; mainly summarizes his observations while away on the beagle)
+
+overpopulation, variety, and competition::the conditions for natural selection
+
+those who best match their environment (by luck) are more likely to survive and reproduce::‘the survival of the fittest’ is a phrase that refers to what when it comes to evolution
+
+he was a renowned biologist thanks to his observations, but he feared that his theory would cause controversywhile finally writing his theory to publish, he received a message from A. R. Wallace who wanted to ask for advice concerning similar observations::why did darwin wait so long to publish his theory, despite having completed and presented it a mere two years after descending from the beagle? name two primary reasons
+
+OoS: 1859 OoM: 1871::in what years did darwin publish ‘the origin of species’ and ‘the origin of man’, respectfully?
+
+overpopulationvariation within a populationcompetition in a populationsurvival of the fittestreproduction::name the five principles of darwin’s theory of natural selection
+
+lamarck: adaptations devlop during lifetime and are passed on to offspring darwin: members of a population born with desirable features are more likely to survive and reproduce, passing their desirable traits on to their offspring::c/c lamarcks’ and darwin’s theories concerning evolution
+
+what is the source of variation within a species?::what major question (begins with “why) did both evolution theories fail to answer?
+
+selective pressure::when an outside force affects the composition of a population by favoring certain traits over others
+
+water covers a dy environment, killing the organisms withinover time, layers of sediment cover the organisms in the waterwith enough sediment, the water driesthe organisms’ remains are mineralized or leave imprints within the sediment::how do fossils form in sediment? (4 steps)
+
+relative (indexing)::this method of dating fossils involves observing how deeply the fossils are in the soil, since fossils increase in age the farther into the earth ou go
+
+absoute (radioactive)::this method of dating fossils involves radioactive decay, often with C14 or U-235. because these elements decay exponentially, with the amount of atoms decreasing by half the current amount every half-life, scientists are able to determine how long ago the fossil formed by determining how many atoms of that specific element are left within it. (they go by today’s standards)
+
+cambrian::in which period before the cretaceous period was there an ‘explosion’ of diversity?
+
+five::how many mass extinctions have taken place in the past three billion years?
+
+true; some ancient whales were descended from four-legged land creatures::true or false: marine animals can develop from land animals
+
+transitional fossils::fossils that demonstrate gradual change as a species adapts to a new environment
+
+cladogenesis::the pattern of branching in evolutionary tree showing the emergence of new a new species
+
+ordovician, devoniam, permian, trassic, and cretaceous::during which periods did the five mass extinctions occur, in order?
+
+glaciers (changing water temperatures and sea levels)collision of continentsvolcanic activity and cold land environmentmeteormeteor (plants failed to undergo photosynthesis due to ash clouds from volcanoes, so the food chain weakened::what is believed to have caused the five mass extinctions, in chronological order?
