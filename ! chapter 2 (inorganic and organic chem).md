@@ -1,61 +1,121 @@
+TARGET DECK: HS-BIO
+
 ### flashcards:
-	sulfur, phosphorus, oxygen, nitrogen, carbon, and hydrogenthese elements make up over 99% of the human body::which elements make up SPONCH, and why are they significant?
+sulfur, phosphorus, oxygen, nitrogen, carbon, and hydrogenthese elements make up over 99% of the human body::which elements make up SPONCH, and why are they significant?
+ID: 1692023805070
+
 
 orbitals consist of two electrons; orbitals combine to form electron shells; the first shell has only one orbital; every shell after the second has four orbitals; new shells cannot form until all existing shells are full; the valence shell is reactive if left unfilled; the further away an electron shell from the nucleus, the higher its potential energy::name the seven rules of chemistry (as seen in the lecture)
+ID: 1692023805084
+
 
 lewis dot notation; shows only valence electrons; interactions/reactions take place at valence shells::would it be better to use lewis dot notation or draw a more detailed atomic model, like the bohr model, for usage in visualizing interactions between different atoms? why or why not?
+ID: 1692023805094
+
 
 water is polar and attracted to positive/negative ends of other molecules; charged parts of water will surround individual atoms in molecules and break them apart::describe the process of ionization with any neutral particle and pure water (here, dissociation and ionization are interchangeable.)
+ID: 1692023805104
+
 
 shells that form around charged particles dissolved in water; happens bc of dissociation (water surrounds particles and breaks them apart)::hydration shells
+ID: 1692023805115
+
 
 hydroxyl/alcohols (-OH); carbonylaldehydes (H-C=O; end of chain); ketones (C=O; within chain); carboxylionized (O=C-O); non-ionized (OH-C=O⁻); aminoionized (NH3); non-ionized (NH2); sulfhydryl/thiols (-SH); phosphate (H3PO⁻4)::name the functional side groups and write their formulas
+ID: 1692023805125
+
 
 Primary Structure: polypeptide chain where R groups are organized by RNA; Secondary Structure: Van der Waals Attractions form between adjacent sections, forming either an alpha helix or a beta pleated sheet; Tertiary Structure: Protein folds in on itself; water-rejecting components move towards center and condense very tightly, forming Van der Waals attractions. Likewise, water-attracted components move out (where some proteins stop developing); Polypeptide bonds interact with one another to determine the protein’s final conformation::name the four structures that form during the development of a protein, and briefly explain what changes they cause.
+ID: 1692023805137
+
 
 DNA makes RNA makes Proteins::what is the central dogma of biology?
+ID: 1692023805147
+
 
 glycosidic linkages = two glucose molecules joined together; triglycerides = glycerol molecule and 3 fatty acids; glycerol = byproduct of breaking down fats, often converted to glucose; glycerol makes up triglyceride (a lipid); glycosidic linkages are often found in carbs::what are triglycerides, glycerol, and glycosidic linkages? how do they relate to one another?
+ID: 1692023805158
+
 
 old equation: 6CO2+6H2O→C6H12O6+6O2; new equation: 6CO2+12H2O→C6H12O6+6O2+H2O; changed bc water splits during photosynthesis to give off O2, which wasn’t reflected in og equation; water is both a reactant and a product (dehydration synthesis)::write the original and improved equations demonstrating the process of photosynthesis. why was it changed? how did dehydration synthesis play a role?
+ID: 1692023805169
+
 
 count the number of nitrogen::how do you determine the number of amino acids in a polypeptide when given the structural formula?
+ID: 1692023805180
+
 
 physical: starch: soluble; 1-4 glycosidic linkages; no tensile strength; digestible; cellulose: insoluble; 1-4 glycosidic linkages; high tensile strength; not digestible  chemical: OH positioned “downwards” (view notes pg 5)OH positioned “upwards” (view notes pg 5)::compare the physical and chemical properties in cellulose and starches
+ID: 1692023805192
+
 
 starch: stores energy/general name for amylose; OH positioned downwards, so relatively straight linkage throughout; structure causes brittleness/no tensile strength, so starch is easily broken down and digested; soluble; cellulose: surrounds cell walls; OH positioned upwards and downwards, so polysaccharide undergoes has a somewhat sinusoidal movement pattern (up-down)structure causes high tensile strength/resistance to tension, so cellulose isn’t broken down easily and cannot be digested by animals; insoluble::both starch and cellulose are structural polysaccharides, both being present in plant cells. how do their respective chemical compositions affect their physical properties and uses?
+ID: 1692023805203
+
 
 amylose: enzyme in saliva that breaks glycosidic linkages; amylopectin: plant polysaccharides w/ 1-4 branch points; glycosidic linkages: 1-6 branch points; glycogen: more branching than amylopectin, but otherwise similar structure; 1-6 glycosidic linkages found in animals::name the 3 different types of storage polysaccharides (3 or more simple sugars bonded together) and their defining features
+ID: 1692023805214
+
 
 acidic: aspartic acid, glutanic acid; basic: lysine, arganine::name the acidic and basic amino acids (4 in total)
+ID: 1692023805225
+
 
 polar amino acids: serine; threonine; cysteine; tyrosine; asparagine; glutamine; explanation: characterized by the presence of hydroxyl, amine, or sulfhydryl groups::name the polar/hydrophilic amino acids and explain why they are classified in such a way (6 in total)
+ID: 1692023805236
+
 
 nonpolar amino acids: glycine; alanine; valine; levcine; isoleucine; methionine; phenylalanine; tryptophan; proline; aside from methionine, every amino acid *exclusively* contains some variation of CH (CH, CH2, or CH3); methionine includes S, or sulfur, as well::name the nonpolar amino acids and explain their characteristics (10 in total)
+ID: 1692023805247
+
 
 cysteine is a polar amino acid involving -SH (sulfhydryl groups); disulfide bridges can only form between sulfhydryl::what are cysteines, and why can disulfide bridges form only between them?
+ID: 1692023805259
+
 
 nonpolar to minimize interactions with water::in aqueous conditions, what kind of amino acids will gravitate towards the protein’s interior? why do they do this? (tertiary structure)
+ID: 1692023805271
+
 
 they help to minimize interactions with water (as particles condense more tightly)::why do van der waals forces form between nonpolar particles in a protein’s interior?
+ID: 1692023805281
+
 
 ionic: electrons are transferred between two atoms to fill valence shells, “ionic” because ions are formed through the process; covalent: electrons shared between two atoms’ valence shells, forms molecule, can be polar or nonpolar; hydrogen: formed between a hydrogen atom and an atom of some other element, most often oxygen or carbon, weak bonds make up hydrocarbons; van der waals forces: nonpolar molecules attracted to each other when in close proximity, atoms in a nonpolar covalent bond become reactive in very specific conditions, and when around other reactive atoms will form very weak bonds::describe ionic, covalent, hydrogen, and van der waals forces/bonds. why do they happen?
+ID: 1692023805291
+
 
 nothing; enzymes have very specific uses::If an enzyme that breaks down carbohydrates is placed in a solution of proteins, what will happen?
+ID: 1692023805301
+
 
 abcd-ase; enzyme reactions are reversible::If abcd-ase is the enzyme used to catalyze the reaction A + B → C + D, what enzyme would catalyze the reaction C + D → A + B?
+ID: 1692023805312
+
 
 stabilization of an enzyme in its inactive form; achieved when a molecule bonds to the enzyme outside of its active site (allosteric site) and conformation will be unable to support substrate::allosteric inhibition involves:
+ID: 1692023805322
+
 
 the binding of substrate to one subunit of an enzyme enhances the other subunit’s ability to bind to substrate; in other words, the substrates help each other (or cooperate)::define cooperation
+ID: 1692023805333
+
 
 thyroxin; inhibitor to TSH, which in turn decreases thyroxin levels::what serves as the feedback inhibitor in the provided system?
+ID: 1692023805346
 
-electronegativities of SPONCH:sulfur:phosphorus:oxygen: 3.5nitrogen:carbon: 2.5hydrogenelements with similar electronegativities are more likely to form covalent bonds, while those with a large difference will likely form ionic ones.::list the electronegativities of each element in SPONCH. what do their - differences mean in terms of how they will bond with each other?
 
-high: will likely be negative because accepts electronslow: will likely be positive because donates electrons::how does electronegativity generally relate to the type of ion that will form in bonding? (think high and low electronegativities)
+electronegativities of SPONCH: sulfur: 2.6; phosphorus: 2.2; oxygen: 3.5; nitrogen: 3; carbon: 2.5; hydrogen: 2.2; elements with similar electronegativities are more likely to form covalent bonds, while those with a large difference will likely form ionic ones.::list the electronegativities of each element in SPONCH. what do their - differences mean in terms of how they will bond with each other?
+ID: 1692023805356
 
-cell membranes::Phospholipids are major components of _____.
+
+high: will likely be negative because accepts electron; slow: will likely be positive because donates electrons::how does electronegativity generally relate to the type of ion that will form in bonding? (think high and low electronegativities)
+ID: 1692023805366
+
+
+cell membranes::phospholipids are major components of:
+ID: 1692023805376
+
 
 ## 2.1: An Introduction to Atoms
 - ### 2.1.1: Atomic Structure: SPONCH and the Atom
