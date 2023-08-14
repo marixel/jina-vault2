@@ -1,3 +1,5 @@
+
+
 ## 1.1: Unity and Diversity of Life on Earth
 - ### 1.1.1: Properties of Life
 	- *Why are the worms alive?*
@@ -38,10 +40,10 @@
 - ### 1.2.2: The Nature of Science: The Story of Darwin
 	- #### Scientific Method
 		1. observe
-		2. hypothesize
-		3. experiment
-		4. collect data
-		5. conclude
+		3. hypothesize
+		4. experiment
+		5. collect data
+		6. conclude
 	- these steps will come naturally in time
 	- #### science is about wonder and curiosity
 		- hypotheses aren't "proven," they're either rejected or not (there are very, *very* few constants in science)
