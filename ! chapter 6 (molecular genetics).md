@@ -36,21 +36,20 @@
 
 ## 6.7: Protein Synthesis Review
 - ### 6.7.1: Polypeptide Destinations: Signal Peptides and ER Ribosomes
-- ### 6.7.2: Protein Synthesis: An Overvi
+- ### 6.7.2: Protein Synthesis: An Overview
 
-## 6.8: The *lac* Operation
-- ### 6.8.1:
-- ### 6.8.2:
-- ### 6.8.3:
+## 6.8: The *lac* Operon
+- ### 6.8.1: Control Mechanisms: Lactose Metabolism in *E. Coli*
+- ### 6.8.2: Jacob and Monod's Model: The *lac* Operon
+- ### 6.8.3: lac Operon: The Summary
 
 ## 6.9: Eukaryotic Genomic Organization
-- ### 6.9.1:
-- ### 6.9.2:
-- ### 6.9.3:
-- ### 6.9.4:
+- ### 6.9.1: The Eukaryotic Genome: DNA Packing
+- ### 6.9.2: Eukaryotic Genomic Organization: Repetitive DNA
+- ### 6.9.3: Eukaryotic Genomic Organization: Gene Families
+- ### 6.9.4: Eukaryotic Genomic Organization: Transposons and Amplified Genes
 
 ## 6.10: Controlling Protein Synthesis in Eukaryotes
-- ### 6.10.1:
-- ### 6.10.2:
-- ### 6.10.3:
-- ### 6.10.4:
+- ### 6.10.1: Eukaryotic Gene Control: Transcriptional Controls
+- ### 6.10.2: Eukaryotic Control Mechanisms: Posttranscriptional and Posttranslational Controls
+- ### 6.10.3: Prokaryotes vs. Eukaryotes: Protein-making Machinery
