@@ -11,8 +11,7 @@
 			- concluded that plants use water and light to build plant material + give off oxygen
 	- *photosynthesis involves the conversion of light energy and water to produce plant/organic materials and oxygen (and we figured this out from the experiments above)
 	- autotrophs and heterotrophs
-- ### 5.1.2: Twe
-- ntieth-Century Breakthroughs
+- ### 5.1.2: Twentieth-Century Breakthroughs
 	- experiments by CB Van Neil and Ruben and Kamen led to clearer understanding (we already knew what it was, but not as well as we do today. by this point, we only knew the fundamentals)
 		- van Neil's hydrogen sulfide experiment: origianlly believed that bacteria could take in CO2, split it, and combine the carbon with H2S (hydrogen sulfide) to make CH2S-type compound and O2 gas
 			-  instead, H2S was being split and CO2 combining w/ H to make [[carbohydrates]]; elemental sulfur given off
@@ -33,54 +32,6 @@
 	- after Hill, Arnon found that chloroplasts without $\ce{CO2}$ could make $\ce{[[[[ATP]]]], NADPH + H+, and O2}$ (but *no* glucose!) in light![[Pasted image 20230810035908.png]]
 	- there are no carbons to *be* converted into [[carbohydrates]] 
 	- **water** is oxidized, **CO2** is reduced
-
-- flashcards:
-	**Discovering Photosynthesis::Process of plants making food using light, water, and carbon dioxide**
-<!--ID: 1691690140840-->
-
-	
-	**Historical Perspective::Steps to understand and unravel photosynthesis over time**
-<!--ID: 1691690140850-->
-
-	
-	**Van Helmont Experiment::Willow tree experiment revealing water's role in plant conversion**
-<!--ID: 1691690140861-->
-
-	
-	**Priestley Experiment::Mice experiment proving plants produce oxygen**
-<!--ID: 1691690140871-->
-
-	
-	**Ingenhousz Experiment::Experiment showing oxygen release in light, some CO2 in dark**
-<!--ID: 1691690140879-->
-
-	
-	**Twentieth-Century Breakthroughs::Key advancements in photosynthesis understanding**
-<!--ID: 1691690140888-->
-
-	
-	**Van Neil's Hydrogen Sulfide Experiment::Study revealing water, not CO2, splits in photosynthesis**
-<!--ID: 1691690140902-->
-
-	
-	**Ruben and Kamen's Isotopic Experiment::Experiment confirming water's role with isotopes**
-<!--ID: 1691690140916-->
-
-	
-	**Photosynthesis - The Final Picture::Overall process: photolysis (O2) and carbon fixation (carbs)**
-<!--ID: 1691690140928-->
-
-	
-	**Photolysis::Splitting water using light, releasing oxygen and electrons**
-<!--ID: 1691690140940-->
-
-	
-	**Carbon Fixation::Incorporating CO2 into carbohydrates using light energy**
-<!--ID: 1691690140954-->
-
-	
-	**NADP+ and Arnon's Findings::NADP+ electron acceptance, Arnon's CO2-free [[[[ATP]]]], NADPH + H+**
-<!--ID: 1691690140965-->
 
 ## 5.2: Adaptations for [[Photosynthesis]]
 - ### 5.2.1: The Leaf: Adaptations for Photosynthesis
@@ -151,68 +102,6 @@
 				- excited electron from *chlorophyll a* in reaction center passed onto protein acceptor, *reducing* the acceptor (more negative)
 				- proteins arranged within thylakoid membrane to accept + pass energized electrons through a series of redox reactions, giving off energy at each step (which is then used to create [[ATP]]!)
 
-
-- flashcards:
-	Upper epidermis::Thin cell layer on leaf's upper surface, covered by a waterproof cuticle 
-	<!--ID: 1691690470161-->
-	
-	Mesophyll::Middle leaf cells with veins containing chloroplasts 
-	<!--ID: 1691690470182-->
-	
-	Lower epidermis::Bottom layer of cells housing stomata 
-	<!--ID: 1691690470195-->
-	
-	Stomata::Openings formed by guard cells, allowing CO2 in, water out
-	<!--ID: 1691690470206-->
-	
-	Chloroplasts::Organelles in mesophyll cells for photosynthesis 
-	<!--ID: 1691690470219-->
-	
-	Chloroplast structure::Double-membrane with grana and thylakoids Grana::Stacks of thylakoids containing chlorophyll 
-	<!--ID: 1691690470229-->
-	
-	Thylakoids::Membrane structures with chlorophyll and proteins 
-	<!--ID: 1691690470240-->
-	
-	Chlorophyll::Green pigment in thylakoid membrane for light absorption, contains porphyrin ring
-	<!--ID: 1691690470256-->
-	
-	Pigment::Substance absorbing light 
-	<!--ID: 1691690470266-->
-	
-	Photosynthetic pigments (e.g., chlorophyll)::Absorb light for carb building 
-	<!--ID: 1691690470277-->
-	
-	Chlorophyll a::Directly involved in photosynthesis' light reactions 
-	<!--ID: 1691690470291-->
-	
-	Chlorophyll b, Carotenoids::Other pigments complementing absorption
-	<!--ID: 1691690470301-->
-	
-	Light properties::Waves and particles (photons)
-	<!--ID: 1691690470312-->
-	
-	Photoelectric effect::Light excites electrons to higher energy levels 
-	<!--ID: 1691690470322-->
-	
-	Chlorophyll response to light::Excited electrons falling back to ground state
-	<!--ID: 1691690470333-->
-	
-	Photoexcitation::Pigment absorbs photons, electron gains energy 
-	<!--ID: 1691690470344-->
-	
-	Electron movement::Passed to protein receiver, transferred through pigments 
-	<!--ID: 1691690470354-->
-	
-	Photosystems::Light-harvesting complexes in thylakoid membrane 
-	<!--ID: 1691690470365-->
-	
-	Reaction center::Photosystem area where light-driven reactions start 
-	<!--ID: 1691690484170-->
-	
-	
-	Redox reactions::Series of electron transfers creating energy for [[ATP]]
-	<!--ID: 1691690470376-->
 ## 5.3: The Light Reactions
 - ### 5.3.1: The Light Reactions: An Introduction
 	- #### thylakoid = enclosed membrane within [[chloroplasts]] where the light-dependent reactions of photosynthesis happen/take place
@@ -263,8 +152,6 @@
 		  
 		  
 	
-
-- flashcards
 
 ## 5.4: The Dark Reactions
 - ### 5.4.1: The Calvin Cycle
@@ -317,10 +204,6 @@
 			- protons pumped into lumen of thylakoid + allowe dto diffuse back into stroma of chloroplast through [[ATP]] synthase (which produces ATP in the process)
 	- 
 
-- flashcards:
-
-- flashcards
-
 ## 5.5: Photorespiration
 - ### 5.5.1: Photorespiration
 	- photorespiration: process by which oxygen (O2) is consumed by rubisco + added into Calvin cycle instead of CO2 (process produces no ATP)
@@ -361,5 +244,3 @@
 			- ![[Pasted image 20230810124357.png]]
 				- currently exploited by purple sulfur bacteria, first used by cyanobacteria (unit 1 review)
 
-
-- flashcards:
