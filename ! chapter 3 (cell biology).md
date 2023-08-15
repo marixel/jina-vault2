@@ -1,5 +1,5 @@
 
-1. Cytosol :: Gel-like fluid that makes up the intracellular space within the cell. It is the liquid component of the cytoplasm and where many cellular processes occur, such as protein synthesis and metabolism.
+1. Cytosol :: Gel-like fluid that makes up the intracellular space within the cell; liquid component of the cytoplasm and where many cellular processes occur, such as protein synthesis and metabolism
 <!--ID: 1691317922760-->
 
 
@@ -8,22 +8,22 @@
 
 ## 3.1: An Introduction to Cell Biology
 - ### 3.1.1: The History of Cytology
-	- Robert Hooke: first person to observe cells w/ microscope
+	- **Robert Hooke**: first person to observe cells w/ microscope
 		- tested w/ cork strip + cells only had air
 		- concluded: structure of cells determines function
-	- Lorenz Oken: all organic beings from [[vesicle]]s of cells
+	- **Lorenz Oken**: all organic beings from [[vesicle]]s of cells
 		- similar to [[cell theory]]
 		- Lamarck had similar idea
-	- Schleiden + Schwann: [[Cell Theory]] (all living things have cells)
+	- **Schleiden + Schwann**: [[Cell Theory]] (all living things have cells)
 		- Virchow: added on; "cells from from preexisting cells" ([[biogenesis]])
 			- "proven" soon after by Louis Pasteur
 
 - ### 3.1.2: Prokaryotes vs Eukaryotes
 	- 2 types of major cells:
-		- Eukaryotic: evolved after nucleus ([[eukaryote]]s)
+		- *Eukaryotic*: evolved after nucleus ([[eukaryote]]s)
 			- membrane-bound organelles
 			- 1-100 microns in size
-		- Prokaryotic: evolved before nucleus, but has DNA
+		- *Prokaryotic*: evolved before nucleus, but has DNA
 			- [[microbe]]s: generic term for [[prokaryote]]
 			- no membrane-bound organelles
 			- DNA = 1 circular chromosome
