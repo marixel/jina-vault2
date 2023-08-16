@@ -21,7 +21,19 @@
 		- during this time, most scientists thought that [[protein]] (not [[DNA]]) was genetic material (even w/ evidence)
 
 - ### 6.1.2: Continuing to Link Genes to Chemicals: Muller, Beadle, and Tatum
-	- 
+	- in 1920s: Hermann Muller and Thomas Hunt Morgan furthered genetics field
+		- Muller: could increase mutation rate in fruit flies by subjecting them to x-rays
+		- ![[Pasted image 20230816082422.png]]
+			- 10C increase in temp = doubled mutation rate
+	- George Beadle and Edward Tatum: subject red bread mold to x-rays, **greatly increasing mutation rate**
+	- ![[Pasted image 20230816082431.png]]
+		- normally mold can synthesize almost all of the organic compounds it needs + can be grown on [[minimal medium]] containing a few minerals, 1 vitamin, and an energy src
+		- work:
+			- 1. spores subjected to x-rays; placed on enriched media containing amino acids and allowed to grow until they produce spores that're collected
+			- 2. spores crown on [[minimal media]]; if they can't, then a mutation has occurred bc of x-rays
+			- 3. pieces of mutant mold = put in tubes containing minimal media +1 amino acid each; mutant strain can only grow when amino acid [[alanine]] present in tube
+			- result indicated that mutation could be linked to defect in specific enzyme
+
 - ### 6.1.3: Griffith and Transformation
 - ### 6.1.4: Avery, MacLeod, and McCarty/Hershey and Chase: DNA Wins!
 - ### 6.1.5: Chargaff and Franklin and Wilkins: The DNA Story Begins
