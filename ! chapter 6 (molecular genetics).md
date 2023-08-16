@@ -86,9 +86,19 @@
 					- molecule ~2nm wide
 					- prob ties into chargaff's rules
 				- 3. shape of molecule: based on [[diffraction]] pattern, DNA molecule appeared helical in shape
-			- based on 3 sets of dat
+			- based on 3 sets of data, proposed that **DNA was a double-stranded helix, each strand consisting of a series of [[nucleotide]]s**
+				- data showed that the 2 strands = *exactly* 2 nm apart (a)
+				- ![[Pasted image 20230816123911.png]]
+				- (b) shows that each strand consists of nucleotide subunits of *a sugar, a phosphate, and a base*; these units are 0.34 nm apart
+				- ![[Pasted image 20230816123927.png]]
+					- sugar + phosphate form backbone of strand, and base available for hydrogen bonding with base on other strand
+				- to remain consistent w/ width data, necessary for a [[pyrimidine]] (1-ring structure) to **always** pair w/ a [[purine]] (2-ring structure)
+					- adenine (A) must bond *only* with thymine (T) and guanine (G) only with cytosine (C)
+						- specific bonding between adenine and thymine + between guanine and cytosine *fits Chargaff's results!*
 		- [[Linus Pauling]]: contemporary of watson + crick; proposed that DNA consisted of 3 nucleotide strands (incorrect; watson and crick's version proved to be correct)
+
 - ### 6.2.2: Watson and Crick: The Double Helix
+	- 
 ## 6.3: Introduction to DNA Replication
 - ### 6.3.1: Replication: Meselson and Stahl
 - ### 6.3.2: DNA: Polymerization with Triphosphate Nucleotides
