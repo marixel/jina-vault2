@@ -36,15 +36,25 @@
 
 - ### 6.1.3: Griffith and Transformation
 	- 1928: [[Frederick Griffith]] performed series of experiments w/ 2 strains of *Pneumococcus* bacteria
+	- ![[Pasted image 20230816083107.png]]
 		- smooth (S) strain: known to be [[virulent]] (deadly)
 			- smooth colony type; mice die when injected
 			- when heated/killed + injected, mice live (causes chemical change)
+			- ![[Pasted image 20230816083059.png]]
 		- rough (R) strain: [[avirulent]] (not deadly)
 			- produced colonies w/ rough surface + type; mice live when injected
-		- when heat-killed smooth *and* normal rough strains are both injected, mice die
-			- conclusion: substance present in heat-killed smooth transformed living (rough) strain into smooth bacteria
-			- transforming substance: then thought to be genetic material, but not yet identified
+		- when heat-killed smooth *and* normal rough strai
+		- ![[Pasted image 20230816083042.png]]ns are both injected, mice die
+			- **conclusion: substance present in heat-killed smooth transformed living (rough) strain into smooth bacteria**
+				- transforming substance: then thought to be genetic material, but not yet identified
+
 - ### 6.1.4: Avery, MacLeod, and McCarty/Hershey and Chase: DNA Wins!
+	- 1944: [[oswald avery]], [[colin macleod]], and [[maclyn mccarty]] showed that *nucleic acids isolated from heat-killed deadly (S) strain of a [[bacteriophage]]* responsible for *transforming harmless (R) strain deadly*
+		- thus, **DNA, not protein, is genetic material**
+	- 1952: [[alfred hershey]] and [[martha chase]]: series of experiments involving reproduction of [[bacteriophage]]s, (viruses that infect bacteria)
+		- hershey and chase capitalized on fact that *viruses are simple structures w/ 2 basic molecules: a protein coat and DNA*
+			- one **had** to be genetic material, capable of using bacteria to produce more viruses
+			- sulfur in [[bacteriophage]]: 35S; phosphorus in [[bacteriophage]]: 32P
 - ### 6.1.5: Chargaff and Franklin and Wilkins: The DNA Story Begins
 
 
