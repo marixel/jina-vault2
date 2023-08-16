@@ -79,6 +79,9 @@
 - ### 6.2.1: Watson and Crick: The Clues
 	- [[James Watson]] and [[Francis Crick]] = first to *accurately* describe [[DNA]] structure
 		- constructed hypothetical model that incorporated the Erwin Chargaff's findings + findings of [[Rosalind Franklin]] and [[Maurice Wilkins]]
+			- 3 sets of data:
+				- 1. chargaff's rules: erwin chargaff found that the amt of adenine and thymine are equal (and the amount of guanine and cytosine) are equal within a species
+				- 2. 
 		- [[Linus Pauling]]: contemporary of watson + crick; proposed that DNA consisted of 3 nucleotide strands (incorrect; watson and crick's version proved to be correct)
 - ### 6.2.2: Watson and Crick: The Double Helix
 
