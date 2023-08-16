@@ -65,6 +65,16 @@
 		- structure must allow 4 basic functions of genetic material (see 6.1.1) which include storage of **large quantities of information**
 			- achieved by 4 nucleotide subunits (illustrated below)
 			- ![[Pasted image 20230816084015.png]]
+				- 2 subuntis: [[purine bases]] (adenine and guanine)
+				- other 2 subunits: [[pyrimidine bases]] (thymine and cytosine)
+	- 1950: Erwin Chargaff found that **total amount of DNA: SPECIES-SPECIFIC**
+		- within a given species amt of adenine relative to thymine = equal, as was amt of cytosine relative to guanine
+	- Rosalind Franklin + Maurice Wilkins: used x-ray diffraction to study DNA structure
+	- ![[Pasted image 20230816084340.png]]
+		- technique involves striking DNA crystals w/ x-rays and photographing resulting diffraction pattern
+		- **crisscross pattern provides evidence that DNA = helical in shape**
+			- other scientists then used these measurements to furhter their understanding of DNA structure + function
+
 ## 6.2: DNA Structure Revealed
 - ### 6.2.1: Watson and Crick: The Clues
 - ### 6.2.2: Watson and Crick: The Double Helix
