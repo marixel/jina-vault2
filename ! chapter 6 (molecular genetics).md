@@ -78,7 +78,8 @@
 ## 6.2: DNA Structure Revealed
 - ### 6.2.1: Watson and Crick: The Clues
 	- [[James Watson]] and [[Francis Crick]] = first to *accurately* describe [[DNA]] structure
-		- constructed hypothetical model that incorporated the Erwin Chargaff's
+		- constructed hypothetical model that incorporated the Erwin Chargaff's findings + findings of [[Rosalind Franklin]] and [[Maurice Wilkins]]
+		- [[Linus Pauling]]: contemporary of watson + crick; proposed that DNA consisted of 3 nucleotide strands (incorrect; watson and crick's version proved to be correct)
 - ### 6.2.2: Watson and Crick: The Double Helix
 
 ## 6.3: Introduction to DNA Replication
