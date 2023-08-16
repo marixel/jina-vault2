@@ -81,10 +81,14 @@
 		- constructed hypothetical model that incorporated the Erwin Chargaff's findings + findings of [[Rosalind Franklin]] and [[Maurice Wilkins]]
 			- 3 sets of data:
 				- 1. chargaff's rules: erwin chargaff found that the amt of adenine and thymine are equal (and the amount of guanine and cytosine) are equal within a species
-				- 2. 
+				- 2. repetitive amt ratios: franklin & wilkins' data showed that some element repeated every 0.34 nm and another repeated every 3.4 nm
+				- ![[Pasted image 20230816123533.png]]
+					- molecule ~2nm wide
+					- prob ties into chargaff's rules
+				- 3. shape of molecule: based on [[diffraction]] pattern, DNA molecule appeared helical in shape
+			- based on 3 sets of dat
 		- [[Linus Pauling]]: contemporary of watson + crick; proposed that DNA consisted of 3 nucleotide strands (incorrect; watson and crick's version proved to be correct)
 - ### 6.2.2: Watson and Crick: The Double Helix
-
 ## 6.3: Introduction to DNA Replication
 - ### 6.3.1: Replication: Meselson and Stahl
 - ### 6.3.2: DNA: Polymerization with Triphosphate Nucleotides
