@@ -32,9 +32,18 @@
 			- 1. spores subjected to x-rays; placed on enriched media containing amino acids and allowed to grow until they produce spores that're collected
 			- 2. spores crown on [[minimal media]]; if they can't, then a mutation has occurred bc of x-rays
 			- 3. pieces of mutant mold = put in tubes containing minimal media +1 amino acid each; mutant strain can only grow when amino acid [[alanine]] present in tube
-			- result indicated that mutation could be linked to defect in specific enzyme
+			- result indicated that mutation could be linked to defect in specific enzyme (genes + enzymes linked); "one gene one enzyme"
 
 - ### 6.1.3: Griffith and Transformation
+	- 1928: [[Frederick Griffith]] performed series of experiments w/ 2 strains of *Pneumococcus* bacteria
+		- smooth (S) strain: known to be [[virulent]] (deadly)
+			- smooth colony type; mice die when injected
+			- when heated/killed + injected, mice live (causes chemical change)
+		- rough (R) strain: [[avirulent]] (not deadly)
+			- produced colonies w/ rough surface + type; mice live when injected
+		- when heat-killed smooth *and* normal rough strains are both injected, mice die
+			- conclusion: substance present in heat-killed smooth transformed living (rough) strain into smooth bacteria
+			- transforming substance: then thought to be genetic material, but not yet identified
 - ### 6.1.4: Avery, MacLeod, and McCarty/Hershey and Chase: DNA Wins!
 - ### 6.1.5: Chargaff and Franklin and Wilkins: The DNA Story Begins
 
