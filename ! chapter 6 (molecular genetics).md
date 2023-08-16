@@ -3,10 +3,11 @@
 	- [[Gregor Mendel]]: described factors that were responsible for passing traits on; didn't know what the factors were
 	- coordinated scientific effort to identity genetic material = mid-1800s to mid-1900s
 		- at beginning, researchers formalized qualities that the unknown genetic material must possess; 4 qualities:
-			- 1. ability to store information
-			- 2. ability to replicate, or copy, self
-			- 3. ability to communicate w/ cell, "[[cell communication]]"
-			- 4. ability to change, or produce "new cell products"
+			- 1. information
+				- must store relatively large amt of info, enough to produce cell's [[proteins]] and other structures (bc DNA makes RNA makes proteins)
+			- 2. replication
+			- 3. communication
+			- 4. change
 		- **these 4 qualities make up the "brain" of the cell**
 	- during 1800s and early 1900s, [[Friedrich Miescher]], [[Robert Feulgen]], and [[Archibald Edward Garrod]] contributed to understanding of the genetic material
 		- during this time, most scientists thought that [[protein]] (not [[DNA]]) was genetic material 
