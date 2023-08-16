@@ -52,12 +52,19 @@
 	- 1944: [[oswald avery]], [[colin macleod]], and [[maclyn mccarty]] showed that *nucleic acids isolated from heat-killed deadly (S) strain of a [[bacteriophage]]* responsible for *transforming harmless (R) strain deadly*
 		- thus, **DNA, not protein, is genetic material**
 	- 1952: [[alfred hershey]] and [[martha chase]]: series of experiments involving reproduction of [[bacteriophage]]s, (viruses that infect bacteria)
+	- ![[Pasted image 20230816083554.png]]
 		- hershey and chase capitalized on fact that *viruses are simple structures w/ 2 basic molecules: a protein coat and DNA*
 			- one **had** to be genetic material, capable of using bacteria to produce more viruses
 			- sulfur in [[bacteriophage]]: 35S; phosphorus in [[bacteriophage]]: 32P
+		- during viral reproduction, protein coats *remained on the outside of the bacterial cells + could be separated w/o affecting viral replication*
+			- new viruses produced in bacterial cells = radioactive DNA
+		- **demonstrated that DNA is the genetic material**!!!
+
 - ### 6.1.5: Chargaff and Franklin and Wilkins: The DNA Story Begins
-
-
+	- DNA established as genetic material, so scientists insensified efforts to *characterize DNA's molecular structure*
+		- structure must allow 4 basic functions of genetic material (see 6.1.1) which include storage of **large quantities of information**
+			- achieved by 4 nucleotide subunits (illustrated below)
+			- ![[Pasted image 20230816084015.png]]
 ## 6.2: DNA Structure Revealed
 - ### 6.2.1: Watson and Crick: The Clues
 - ### 6.2.2: Watson and Crick: The Double Helix
