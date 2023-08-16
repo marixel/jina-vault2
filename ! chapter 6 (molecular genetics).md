@@ -77,6 +77,8 @@
 
 ## 6.2: DNA Structure Revealed
 - ### 6.2.1: Watson and Crick: The Clues
+	- [[James Watson]] and [[Francis Crick]] = first to *accurately* describe [[DNA]] structure
+		- constructed hypothetical model that incorporated the Erwin Chargaff's
 - ### 6.2.2: Watson and Crick: The Double Helix
 
 ## 6.3: Introduction to DNA Replication
