@@ -1,9 +1,9 @@
 ## 6.1: Discovering DNA
-- ### 6.1.1:
-- ### 6.1.2:
-- ### 6.1.3:
-- ### 6.1.4:
-- ### 6.1.5:
+- ### 6.1.1: Molecular Genetics: the Protein vs. DNA Debate
+- ### 6.1.2: Continuing to Link Genes to Chemicals: Muller, Beadle, and Tatum
+- ### 6.1.3: Griffith and Transformation
+- ### 6.1.4: Avery, MacLeod, and McCarty/Hershey and Chase: DNA Wins!
+- ### 6.1.5: Chargaff and Franklin and Wilkins: The DNA Story Begins
 
 
 ## 6.2: DNA Structure Revealed
