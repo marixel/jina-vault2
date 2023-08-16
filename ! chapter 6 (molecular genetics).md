@@ -7,7 +7,8 @@
 			- 2. ability to replicate, or copy, self
 			- 3. ability to communicate w/ cell, "[[cell communication]]"
 			- 4. ability to change, or produce "new cell products"
-	- during 1800s and early 1900s, [[Friedrich Miescher]], [[Robert Feulgen]], and
+	- during 1800s and early 1900s, [[Friedrich Miescher]], [[Robert Feulgen]], and [[Archibald Edward Garrod]] contributed to understanding of the genetic material
+		- during this time, most scientists thought that [[protein]] (not [[DNA]]) was genetic material 
 - ### 6.1.2: Continuing to Link Genes to Chemicals: Muller, Beadle, and Tatum
 - ### 6.1.3: Griffith and Transformation
 - ### 6.1.4: Avery, MacLeod, and McCarty/Hershey and Chase: DNA Wins!
