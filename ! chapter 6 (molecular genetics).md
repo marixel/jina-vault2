@@ -1,5 +1,13 @@
 ## 6.1: Discovering DNA
 - ### 6.1.1: Molecular Genetics: the Protein vs. DNA Debate
+	- [[Gregor Mendel]]: described factors that were responsible for passing traits on; didn't know what the factors were
+	- coordinated scientific effort to identity genetic material = mid-1800s to mid-1900s
+		- at beginning, researchers formalized qualities that the unknown genetic material must possess; 4 qualities:
+			- 1. ability to store information
+			- 2. ability to replicate, or copy, self
+			- 3. ability to communicate w/ cell, "[[cell communication]]"
+			- 4. ability to change, or produce "new cell products"
+	- during 1800s and early 1900s, [[Friedrich Miescher]], [[Robert Feulgen]], and
 - ### 6.1.2: Continuing to Link Genes to Chemicals: Muller, Beadle, and Tatum
 - ### 6.1.3: Griffith and Transformation
 - ### 6.1.4: Avery, MacLeod, and McCarty/Hershey and Chase: DNA Wins!
