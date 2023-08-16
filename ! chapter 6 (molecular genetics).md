@@ -14,7 +14,10 @@
 			- #### type of [[nucleic acid]] found in chromosomes of all [[eukaryotic]] cells: [[DNA]]
 			- later, was determined that [[nucleic acid]]s are made up of 4 [[nucleotide]]s: adenine, guanine, cytosine, and thymine
 			- ![[Pasted image 20230816080801.png]]
-		- during this time, most scientists thought that [[protein]] (not [[DNA]]) was genetic material 
+		- [[Robert Feulgen]]: developed staining technique that could *quantify* DNA; the more DNA present in the nuclei, the darker the stain
+			- w/ this, researchers found that **DNA levels are species-specific**
+			- across all species, sex cells consistently contained *half* the amount of DNA that the [[autosomal]]/unrelated to sex cells did
+		- during this time, most scientists thought that [[protein]] (not [[DNA]]) was genetic material (even w/ evidence)
 - ### 6.1.2: Continuing to Link Genes to Chemicals: Muller, Beadle, and Tatum
 - ### 6.1.3: Griffith and Transformation
 - ### 6.1.4: Avery, MacLeod, and McCarty/Hershey and Chase: DNA Wins!
