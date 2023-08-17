@@ -83,4 +83,11 @@ nella vanished after the publication of her second novel, supposedly moving, tak
 				- [[teaching]]
 				- [[working-class]]
 		- (pg. 11): "[Helga] clutched at the lot [paraphernalia] and then flung them *violently*, *scornfully* toward the wastebacket."
-		- (pg. 11): "The girl [Helga] smiled ironically, seeing in the mess *a simile of her own earnest endeavor to inculcate* (instil)"
+		- (pg. 11): "The girl [Helga] smiled ironically, seeing in the mess *a simile of her own earnest endeavor to inculcate* (instill) knowledge into her *indifferent* classes"
+			- [[self-esteem]]
+			- [[teaching]]
+			- [[womanhood]]
+		- (pg. 11): "this great community [Naxos] was no longer a school. it had grown into a machine... a showplace in the black belt, exemplification of the white man's *magnanimity* (generosity), *refutation* of the black man's inefficiency."
+			- [[white society]]
+			- [[white supremacy]]
+			- [[the Black experience]]
