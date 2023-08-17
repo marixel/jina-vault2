@@ -30,12 +30,12 @@ nella vanished after the publication of her second novel, supposedly moving, tak
 		- still, in the end, she reluctantly embraces her fate with a smile as part of her routine before going to bed, her room messy (though it usually isn't! she's undergoing a change in her character)
 	- ##### quotes:
 		- (pg. 6): "(after the hard classes) in which she gave willing and unsparingly of herself with no apparent return."
-			- [[femininity]]
+			- [[womanhood]]
 			- [[working-class]]
 			- [[20th century USA]]
 			- [[stress]]
 		- (pg. 7): "(she was)-- to use a [[hackneyed]] word-- attractive."
-			- [[femininity]]
+			- [[womanhood]]
 			- [[societal roles]]
 			- [[marriage]]
 		- (pg. 8): "She wanted forgetfulness, *complete mental relaxation*, rest from ought of any kind."
@@ -64,4 +64,16 @@ nella vanished after the publication of her second novel, supposedly moving, tak
 			- [[US history]]
 			- [[Christianity]]
 			- [[white supremacy]]
-		- (pg. 9): "[sitting there in her room], 
+		- (pg. 9): "[long hours after, helga again felt] a *surge of anger* and *seething resentment*. And again it subsided... memory of considerable applause which had greeted the speaker just before he had asked his God's blessing upon them."
+			- [[Christianity]]
+			- [[20th century USA]]
+			- [[religion]]
+			- [[US history]]
+			- [[the Black experience]]
+		- (pg. 10; environment): "Somewhere in the room a little clock ticked time away. Somewhere outside a whippoorwill wailed. Evening died. A sweet smell of early Southern flowers rushed in on a newly risen breeze which suddenly parted the thin silk curtains at the opened windows. A slender, frail glass vase fell from the sill with a tingling crash, but Helga Crane did not shift her position. And the night grew cooler, and older."
+			- [[the Black experience]]
+			- [[womanhood]]
+		- (pg. 10): [she stirred, uncertainly,] but with an overpowering desire for action of some sort. *A second she hesitated,* then rose **abruptly** and pressed the electric switch... flooding suddenly the *shadowy* room with a white glare of light"
+			- [[freedom]]
+			- [[womanhood]]
+			- [[the Black experience]]
