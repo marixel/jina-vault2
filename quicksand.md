@@ -1,5 +1,7 @@
 Nella Larsen
 
+**takes place in harlem
+
 ### main ideas (as seen in introduction):
 - the relations between the [[black community]] and the [[white society]]
 - the assimilation/survival of a black individual in an almost entirely white society
@@ -17,7 +19,7 @@ what was the [[harlem]] renaissance?
 	- even in this age, black women were often sexualized and media involving them portrayed them as such (affairs, wedlock, [[mulattoes]] and [[quadrooons]])
 [[human tragedies]] vs [[sociological tragedies]]
 note the similarities between Nella’s (introduction) and Helga’s (novel) experiences as black women in a white-focused world; in what ways are they similar? what differences are there?
-- if helga’s experiences closely mirror nella’s, how do they give otherwise unrecognized insight as to what black women had to endure both in the usa and throughout much of the world?
+- **if helga’s experiences closely mirror nella’s, how do they give otherwise unrecognized insight as to what black women had to endure both in the usa and throughout much of the world?**
 nella vanished after the publication of her second novel, supposedly moving, taking back up her old career, and dying quietly. (bc of a controversy involving one of her stories and claims of plagiarism)
 
 - #### chapter 1
@@ -25,3 +27,10 @@ nella vanished after the publication of her second novel, supposedly moving, tak
 	- white preacher said that ‘good taste’ among black people is equivalent to them ‘staying in their places’
 		- helga dislikes this preacher and his ‘patronizing, insulting’ remarks
 	- she ‘resents’ where she is in life right now, physically and otherwise. in her time away from work, she isolates herself in a dark room and reads, trying to take her mind away from the burdens of the day; still, she wants to get away
+		- still, in the end, she reluctantly embraces her fate with a smile as part of her routine before going to bed, her room messy (though it usually isn't! she's undergoing a change in her character)
+	- ##### quotes:
+		- (pg. 7): "(after the hard classes) in which she gave willing and unsparingly of herself with no apparent return."
+			- [[femininity]]
+			- [[working-class]]
+			- [[20th century]]
+			- 
