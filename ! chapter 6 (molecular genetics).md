@@ -103,9 +103,14 @@
 	- DNA = described as a double helix bc composed of 2 [[nucleotide]] strands wound around each other
 	- ![[Pasted image 20230817024531.png]]
 		- (a): single nucleotide subunit
+			- phosphate group, deoxyribose sugar, and 1 of 4 nitrogenous bases
+			- carbons of sugar = numbers 1-5
+			- each DNA strand made up of [[polynucleotide]] chain
 		- (b): DNA molecule: double helix of polynucleotide chains
 			- 2 strands = 2 nm apart
 			- within strand, nucleotides .34 nm apart
+			- 10 nucleotides in each turn of helix, so each turn occurs at 3.4 nm
+			- repetition!
 		- overall shape of molecular = comparable to twisted ladder
 ## 6.3: Introduction to DNA Replication
 - ### 6.3.1: Replication: Meselson and Stahl
