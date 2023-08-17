@@ -77,3 +77,10 @@ nella vanished after the publication of her second novel, supposedly moving, tak
 			- [[freedom]]
 			- [[womanhood]]
 			- [[the Black experience]]
+			- [[justice]]
+		- (pg. 10; vocab): *paraphernalia*: misc. articles/things, especially those needed for a particular activity
+			- context: "[Helga] paused a moment before the old bowlegged secretary that held with almost articulate protest her schoolteacher **paraphernalia** of drab books and papers."
+				- [[teaching]]
+				- [[working-class]]
+		- (pg. 11): "[Helga] clutched at the lot [paraphernalia] and then flung them *violently*, *scornfully* toward the wastebacket."
+		- (pg. 11): "The girl [Helga] smiled ironically, seeing in the mess *a simile of her own earnest endeavor to inculcate* (instil)"
