@@ -29,20 +29,20 @@ nella vanished after the publication of her second novel, supposedly moving, tak
 	- she ‘resents’ where she is in life right now, physically and otherwise. in her time away from work, she isolates herself in a dark room and reads, trying to take her mind away from the burdens of the day; still, she wants to get away
 		- still, in the end, she reluctantly embraces her fate with a smile as part of her routine before going to bed, her room messy (though it usually isn't! she's undergoing a change in her character)
 	- ##### quotes:
-		- (pg. 7): "(after the hard classes) in which she gave willing and unsparingly of herself with no apparent return."
+		- (pg. 6): "(after the hard classes) in which she gave willing and unsparingly of herself with no apparent return."
 			- [[femininity]]
 			- [[working-class]]
 			- [[20th century USA]]
 			- [[stress]]
-		- (pg. 8): "(she was)-- to use a [[hackneyed]] word-- attractive."
+		- (pg. 7): "(she was)-- to use a [[hackneyed]] word-- attractive."
 			- [[femininity]]
 			- [[societal roles]]
 			- [[marriage]]
-		- (pg. 9): "She wanted forgetfulness, *complete mental relaxation*, rest from ought of any kind."
+		- (pg. 8): "She wanted forgetfulness, *complete mental relaxation*, rest from ought of any kind."
 			- [[working-class]]
 			- [[stress]]
 			- [[societal roles]]
-		- (pg. 10): "(herded into the sun-baked chapter to listen to) the [[banal]], the patronizing, and the even *insulting* remarks of one of the **renowned white preachers** of the state"
+		- (pg. 8): "(herded into the sun-baked chapter to listen to) the [[banal]], the patronizing, and the even *insulting* remarks of one of the **renowned white preachers** of the state"
 			- [[stress]]
 			- [[religion]]
 			- [[Christianity]]
@@ -57,3 +57,11 @@ nella vanished after the publication of her second novel, supposedly moving, tak
 				- [[white supremacy]]
 				- [[20th century USA]]
 				- [[US history]]
+		- (pg. 9): "[he had spoken of contentment], *embellishing* his words with scriptural quotations and pointing out to them that *it was their duty to be satisfied* in the estate to which they had been called, [[hewers]] of wood and drawers of water."
+			- [[religion]]
+			- [[the Black experience]]
+			- [[20th century USA]]
+			- [[US history]]
+			- [[Christianity]]
+			- [[white supremacy]]
+		- (pg. 9): "[sitting there in her room], 
