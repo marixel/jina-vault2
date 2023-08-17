@@ -32,14 +32,28 @@ nella vanished after the publication of her second novel, supposedly moving, tak
 		- (pg. 7): "(after the hard classes) in which she gave willing and unsparingly of herself with no apparent return."
 			- [[femininity]]
 			- [[working-class]]
-			- [[20th century]]
+			- [[20th century USA]]
 			- [[stress]]
 		- (pg. 8): "(she was)-- to use a [[hackneyed]] word-- attractive."
 			- [[femininity]]
 			- [[societal roles]]
 			- [[marriage]]
-		- (pg. 9): "She wanted forgetfulness, *complete mental relaxation*, rest from thought of any kind."
+		- (pg. 9): "She wanted forgetfulness, *complete mental relaxation*, rest from ought of any kind."
 			- [[working-class]]
 			- [[stress]]
 			- [[societal roles]]
-		- (pg. 10): "(herded into the sun-baked chapter to listen to) the [[banal]], the patronizing, and the even *insulting* remarks of one of the **r
+		- (pg. 10): "(herded into the sun-baked chapter to listen to) the [[banal]], the patronizing, and the even *insulting* remarks of one of the **renowned white preachers** of the state"
+			- [[stress]]
+			- [[religion]]
+			- [[Christianity]]
+			- [[the Black experience]]
+			- later on same pg: "[shuddered] as she recalled some of the statements made by that **holy white man of God** to the black folk sitting so respectfully before him."
+				- [[the Black experience]]
+				- [[20th century USA]]
+				- [[religion]]
+				- [[white supremacy]]
+			- later on same pg: [he had said with] *obvious [[sectional pride]]*
+				- [[the Black experience]]
+				- [[white supremacy]]
+				- [[20th century USA]]
+				- [[US history]]
