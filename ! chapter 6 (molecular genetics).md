@@ -98,7 +98,15 @@
 		- [[Linus Pauling]]: contemporary of watson + crick; proposed that DNA consisted of 3 nucleotide strands (incorrect; watson and crick's version proved to be correct)
 
 - ### 6.2.2: Watson and Crick: The Double Helix
-	- 
+	- 4/25/1953: Watson and Crick's article "The Molecular Structure of Nucleic Acids: A Structure for DNA" appeared in journal *Nature*
+		- understanding DNA structure enabled scientists to start untanglingg *process of how DNA serves as genetic material for cells*
+	- DNA = described as a double helix bc composed of 2 [[nucleotide]] strands wound around each other
+	- ![[Pasted image 20230817024531.png]]
+		- (a): single nucleotide subunit
+		- (b): DNA molecule: double helix of polynucleotide chains
+			- 2 strands = 2 nm apart
+			- within strand, nucleotides .34 nm apart
+		- overall shape of molecular = comparable to twisted ladder
 ## 6.3: Introduction to DNA Replication
 - ### 6.3.1: Replication: Meselson and Stahl
 - ### 6.3.2: DNA: Polymerization with Triphosphate Nucleotides
