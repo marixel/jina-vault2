@@ -33,4 +33,13 @@ nella vanished after the publication of her second novel, supposedly moving, tak
 			- [[femininity]]
 			- [[working-class]]
 			- [[20th century]]
-			- 
+			- [[stress]]
+		- (pg. 8): "(she was)-- to use a [[hackneyed]] word-- attractive."
+			- [[femininity]]
+			- [[societal roles]]
+			- [[marriage]]
+		- (pg. 9): "She wanted forgetfulness, *complete mental relaxation*, rest from thought of any kind."
+			- [[working-class]]
+			- [[stress]]
+			- [[societal roles]]
+		- (pg. 10): "(herded into the sun-baked chapter to listen to) the [[banal]], the patronizing, and the even *insulting* remarks of one of the **r
