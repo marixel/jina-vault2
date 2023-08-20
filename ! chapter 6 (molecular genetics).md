@@ -129,7 +129,14 @@
 - ### 6.3.2: DNA: Polymerization with Triphosphate Nucleotides
 	- when a cell *divides* via [[semiconservative replication]], each new cell gets one original [[parental strand]] that serves as a template for the synthesis of a new [[complementary strand]]
 		- this synthesis = DNA [[polymerization]]
-			- []
+			- [[polymerization]]: [[endergonic]] process, requiring expenditure of [[ATP]]
+	- [[nucleotide triphosphate]]: contains energy in bonds that link 2nd and 3rd phosphate groups (which is then used to join the nucleotide to the [[growing strand]])
+		- as part of new strand, [[nucleotide]] only has one phosphate group; nucleotides joined together by 3', 5' [[phosphodiester]] linkages
+			- 3' and 5' designations refer to 3' and 5' carbons of the sugar molecule
+			- ![[Pasted image 20230820131942.png]]
+		- overall direction ([[orientation]]) of new synthesized strand = denoted by *its top and bottom nucleotides*, respectively
+			- outer ends: not involved in phospho-diester linkage, resulting in empty 5' and 3' carbon
+			- orientation of new strand said to be 5'-3' (orientation of [[complementary strand]] opposite of the [[parental strand]], meaning that they're [[antiparallel]])
 
 
 ## 6.4: Events of DNA Replication
