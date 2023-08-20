@@ -163,6 +163,7 @@
 				- ![[Pasted image 20230820132955.png]]
 					- strand growing towards replication fork grows continuously + called [[leading strand]] (which is [[antiparallel]] to the [[parental strand]] that served as its template)
 - ### 6.4.2: Events at the Leading Strand, Part II
+	- 
 - ### 6.4.3: Events at the Replication Fork: The Lagging Strand
 - ### 6.4.4: Proofreading, End Replication, and [[Telomeres]]
 - ### 6.4.5: DNA Replication: A Summary
