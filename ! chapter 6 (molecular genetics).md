@@ -153,7 +153,15 @@
 			- replication occurs at sites on molecule called [[replication bubbles]]; both strands replicated simultaneously at [[replication fork]]
 				- ![[Pasted image 20230820132604.png]]
 			- **overall events by which both strands are replicated**:
-			- 
+				- 1. strands separated and unwound by DNA [[helicase]]
+				- 2. strands prevented from coming together by [[helix-destabilizing proteins]]
+				- 3. enzymes that catalyze [[synthesis]] of new [[complementary strand]]s = [[DNA polymerases]]
+					- can only add nucldeotides to the 3' end of [[growing strand]]
+				- 4. [[RNA primer]] initiates synthesis of either new strand to provide first 3' end that enzyme requires
+					- RNA primer = layer removed and substituted w/ DNA
+				- synthesis of both complementary strands occurs in 5' to 3' direction
+				- ![[Pasted image 20230820132955.png]]
+					- strand growing towards replication fork grows continuously + called [[leading strand]] (which is [[antiparallel]] to the [[parental strand]] that served as its template)
 - ### 6.4.2: Events at the Leading Strand, Part II
 - ### 6.4.3: Events at the Replication Fork: The Lagging Strand
 - ### 6.4.4: Proofreading, End Replication, and [[Telomeres]]
