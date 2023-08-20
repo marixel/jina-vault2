@@ -114,12 +114,11 @@
 		- overall shape of molecular = comparable to twisted ladder
 ## 6.3: Introduction to DNA Replication
 - ### 6.3.1: Replication: Meselson and Stahl
-- 1958: mathew meselson and franklin stahl = experimentes that tested the way that DNA replicates itself
-	- bacteria = grown in heavy-nitrogen (15N) medium for many generations
+- 1958: Mathew Meselson and Franklin Stahl = experiments that tested the way  DNA replicates itself
+	- bacteria = grown in heavy-nitrogen (15MN) medium for many generations
 		cells then transferred to light-nitrogen (14N) medium and allowed to replicate for either one or two generations in light medium; process of *density gradient centrifugation* used 		to analyze weights of all 3 types of cells
 	- Watson + Crick's model of double-stranded DNA molecule suggested that ***pair of nucleotide strands would separate and each would serve as template for new strand***
-			mechanism: *semiconservative replication*
-
+		- mechanism: [[semiconservative replication]]
 	- competing w/ semiconservative model were *conservative* and *dispersive replication*
 		- hypotheses of all 3: predicted diff weights for first/2nd gen cells
 			cells subjected 2 one round of replication = bands intermediate in density, so DNA molecules consisted of 1 parental (heavy) and one new (light) strand
@@ -128,6 +127,10 @@
 		- conservative: 2 parent strands wouldn't separate, replucation results in DNA molecular w/ 2 new strands
 		- dispersive: parts of both parental strands separate + act as templates 4 new strand synthesis
 - ### 6.3.2: DNA: Polymerization with Triphosphate Nucleotides
+	- when a cell *divides* via [[semiconservative replication]], each new cell gets one original [[parental strand]] that serves as a template for the synthesis of a new [[complementary strand]]
+		- this synthesis = DNA [[polymerization]]
+			- []
+
 
 ## 6.4: Events of DNA Replication
 - ### 6.4.1: Events at the Replication Fork: The Leading Strand
