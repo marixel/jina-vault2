@@ -137,10 +137,23 @@
 		- overall direction ([[orientation]]) of new synthesized strand = denoted by *its top and bottom nucleotides*, respectively
 			- outer ends: not involved in phospho-diester linkage, resulting in empty 5' and 3' carbon
 			- orientation of new strand said to be 5'-3' (orientation of [[complementary strand]] opposite of the [[parental strand]], meaning that they're [[antiparallel]])
+			- ![[Pasted image 20230820132141.png]]
 
 
 ## 6.4: Events of DNA Replication
 - ### 6.4.1: Events at the Replication Fork: The Leading Strand
+	- [[prokaryotic]] cell = polymerizes 500 [[nucleotide]]s/sec
+		- chromosome: circular, so replication occurs **efficiently**
+	- [[eukaryotic]] cell = *synthesizes* 50 [[nucleotide]]s/sec
+		- contains between 4-5 billion nucleotides(!)
+		- use multiple [[replication bubble]]s, which greatly speed up replication
+			- each [[replication bubble]] = two y-shaped [[replication fork]]s
+	- DNA replication = *continuous* in one strand and *discontinuous* in the other
+		- events basic to DNA process replication + specific to [[leading strand]]:
+			- replication occurs at sites on molecule called [[replication bubbles]]; both strands replicated simultaneously at [[replication fork]]
+				- ![[Pasted image 20230820132604.png]]
+			- **overall events by which both strands are replicated**:
+			- 
 - ### 6.4.2: Events at the Leading Strand, Part II
 - ### 6.4.3: Events at the Replication Fork: The Lagging Strand
 - ### 6.4.4: Proofreading, End Replication, and [[Telomeres]]
