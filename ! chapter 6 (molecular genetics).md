@@ -166,6 +166,7 @@
 	- [[replication bubble]]: occurs at *origin of replication* and consists of 2 [[replication fork]]s
 		- [[replication]] happens in opposite directions along each of replication forks (bubble enables DNA replication to occur in 2 directions)
 			- [[DNA polymerases]] attaches to each replication fork
+				- can **only** build new strands in the 5' to 3' direction (see img) so new strands synthesized in opposite directions
 		- DNA strands = antiparallel (5' to 3' orientation runs in opp. directions)
 			- [[leading strand]]: grows continuously toward replication fork
 	- at each replication fork, og DNA strands = unwound (seen in img) in overall direction of unwinding and replication
