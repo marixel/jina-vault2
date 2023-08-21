@@ -167,7 +167,11 @@
 		- [[replication]] happens in opposite directions along each of replication forks (bubble enables DNA replication to occur in 2 directions)
 			- [[DNA polymerases]] attaches to each replication fork
 				- can **only** build new strands in the 5' to 3' direction (see img) so new strands synthesized in opposite directions
-				- requires open 3' OH group to attach a new nucleotide; when just starting, that OH group is provided by 3' end of [[RNA primer]] strand that had been added y
+				- requires open 3' OH group to attach a new nucleotide; when just starting, that OH group is provided by 3' end of [[RNA primer]] strand that had been added by [[primase]]
+					- first DNA nucleotide = added to open 3' OH group
+					- nucleotides coming after = added to first DNA nucleotide
+					- illustration shows new nucleotide that'll join strand; orientation of new strand opp. of orientation of [[parental strand]], so strands are [[antiparallel]]
+						- ![[Pasted image 20230821121814.png]]
 		- DNA strands = antiparallel (5' to 3' orientation runs in opp. directions)
 			- [[leading strand]]: grows/synthesized continuously toward replication fork
 			- [[lagging strand]]: grows/synthesized opp. of direction of replication fork
