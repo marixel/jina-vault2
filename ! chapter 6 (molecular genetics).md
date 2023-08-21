@@ -168,7 +168,8 @@
 			- [[DNA polymerases]] attaches to each replication fork
 				- can **only** build new strands in the 5' to 3' direction (see img) so new strands synthesized in opposite directions
 		- DNA strands = antiparallel (5' to 3' orientation runs in opp. directions)
-			- [[leading strand]]: grows continuously toward replication fork
+			- [[leading strand]]: grows/synthesized continuously toward replication fork
+			- [[lagging strand]]: grows/synthesized opp. of direction of replication fork
 	- at each replication fork, og DNA strands = unwound (seen in img) in overall direction of unwinding and replication
 		- img demonstrates [[antiparallel]] nature of [[DNA]] strands
 		- ![[Pasted image 20230821115643.png]]
