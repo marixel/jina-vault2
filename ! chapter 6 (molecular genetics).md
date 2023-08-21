@@ -203,7 +203,12 @@
 		- works in conjunction w/ [[ligase]] to excise + replace incorrectly matched base pairs
 	- DNA in a [[eukaryotic]] cell = rod-shaped, presenting a *problem* in DNA replication
 		- [[telomeres]] come into play here
-
+	- when growing [[lagging strand]] reaches end of molecule, last few DNA molecules can't be added
+		- after RNA primer = removed, [[DNA polymerases]] can't fill gap w/ DNA bc DNA polymerase has no 3' OH end to attach to
+		- DNA molecules shorten after each round of replication
+			- ![[Pasted image 20230821143722.png]]
+		- to avoid loss of genetic material, ends of DNA consist of long, repeating nucleotide strands called [[telomeres]] that don't code for cell products
+			- typical repeated unit in human DNA = TTAGGG
 
 - ### 6.4.5: DNA Replication: A Summary
 
