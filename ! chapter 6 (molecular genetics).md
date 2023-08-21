@@ -186,7 +186,14 @@
 		- discovery attributed to [[Reiji Okazaki]]
 		- as the [[replication fork]] opens, [[leading strand]] comprises a continuous strand of new nucleotides growing in opening fork's direction
 		- grows away from opening fork
-		- ![[Pasted image 20230821123233.png]]
+			- ![[Pasted image 20230821123233.png]]
+		- the two strands grow in opp. direction bc [[DNA polymerases]] can *only* add nucleotides to the 3' end of a strand
+			- ![[Pasted image 20230821142926.png]]
+			- as fork unwinds, [[lagging strand]] synthesized in 100-1000 nucleotide pieces called [[Okazaki fragment]]s
+				- each [[Okazaki fragment]] = needs [[RNA primer]] to initiate synthesis
+				- primers removed, [[DNA polymerases]] fills in gap w/ DNA nucleotides
+				- fragments then joined together by [[ligase]]
+		- each
 - ### 6.4.4: Proofreading, End Replication, and [[Telomeres]]
 - ### 6.4.5: DNA Replication: A Summary
 
