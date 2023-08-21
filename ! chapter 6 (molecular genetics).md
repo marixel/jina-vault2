@@ -179,6 +179,9 @@
 		- img demonstrates [[antiparallel]] nature of [[DNA]] strands
 		- ![[Pasted image 20230821115643.png]]
 - ### 6.4.3: Events at the Replication Fork: The Lagging Strand
+	- [[DNA polymerases]] add [[nucleotide]]s to the 3' end of a [[growing strand]], so only one of the new [[complementary strand]]s can grow continuously in the direction of the moving [[replication fork]]
+		- [[leading strand]]: grows continuously
+		- [[lagging strand]]: grows away from replication fork
 - ### 6.4.4: Proofreading, End Replication, and [[Telomeres]]
 - ### 6.4.5: DNA Replication: A Summary
 
