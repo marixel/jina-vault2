@@ -209,6 +209,7 @@
 			- ![[Pasted image 20230821143722.png]]
 		- to avoid loss of genetic material, ends of DNA consist of long, repeating nucleotide strands called [[telomeres]] that don't code for cell products
 			- typical repeated unit in human DNA = TTAGGG
+			- ![[Pasted image 20230821144029.png]]
 
 - ### 6.4.5: DNA Replication: A Summary
 
