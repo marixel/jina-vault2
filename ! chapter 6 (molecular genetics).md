@@ -163,7 +163,10 @@
 				- ![[Pasted image 20230820132955.png]]
 					- strand growing towards replication fork grows continuously + called [[leading strand]] (which is [[antiparallel]] to the [[parental strand]] that served as its template)
 - ### 6.4.2: Events at the Leading Strand, Part II
-	- 
+	- [[replication bubble]]: occurs at *origin of replication* and consists of 2 [[replication fork]]
+		- [[replication]] happens in opposite directions along each of replication forks (bubble enables DNA replication to occur in 2 directions)
+		- DNA strands = antiparallel (5' to 3' orientation runs in opp. directions)
+			- [[leading strand]]: grows continuously toward replication fork
 - ### 6.4.3: Events at the Replication Fork: The Lagging Strand
 - ### 6.4.4: Proofreading, End Replication, and [[Telomeres]]
 - ### 6.4.5: DNA Replication: A Summary
