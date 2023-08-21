@@ -182,6 +182,11 @@
 	- [[DNA polymerases]] add [[nucleotide]]s to the 3' end of a [[growing strand]], so only one of the new [[complementary strand]]s can grow continuously in the direction of the moving [[replication fork]]
 		- [[leading strand]]: grows continuously
 		- [[lagging strand]]: grows away from replication fork
+	- the [[lagging strand]]:
+		- discovery attributed to [[Reiji Okazaki]]
+		- as the [[replication fork]] opens, [[leading strand]] comprises a continuous strand of new nucleotides growing in opening fork's direction
+		- grows away from opening fork
+		- ![[Pasted image 20230821123233.png]]
 - ### 6.4.4: Proofreading, End Replication, and [[Telomeres]]
 - ### 6.4.5: DNA Replication: A Summary
 
