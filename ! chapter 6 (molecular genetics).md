@@ -193,8 +193,18 @@
 				- each [[Okazaki fragment]] = needs [[RNA primer]] to initiate synthesis
 				- primers removed, [[DNA polymerases]] fills in gap w/ DNA nucleotides
 				- fragments then joined together by [[ligase]]
-		- each
+		- *each of the [[parental strand]]s* serves as **template** for synthesis of a new [[complementary strand]]
+		- #### end product of [[DNA replication]] is two *identical* DNA molecules
+		- ![[Pasted image 20230821143108.png]]
+			- question: is the final product 'flipped' bc of [[antiparallel]] strands?
 - ### 6.4.4: Proofreading, End Replication, and [[Telomeres]]
+	- DNA polymerase = synthesizes new nucleotides w/ great accuracy (ex. human genome is very, very complex, but roughly only *one nucleotide in a billion* is paired incorrectly)
+	- [[DNA polymerases]]: responsible for [[genetic proofreading]]
+		- works in conjunction w/ [[ligase]] to excise + replace incorrectly matched base pairs
+	- DNA in a [[eukaryotic]] cell = rod-shaped, presenting a *problem* in DNA replication
+		- [[telomeres]] come into play here
+
+
 - ### 6.4.5: DNA Replication: A Summary
 
 ## 6.5: Transcription
