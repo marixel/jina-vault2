@@ -221,13 +221,18 @@
 - ### 6.4.5: DNA Replication: A Summary
 	- [[DNA]] consists of double helix of nucleotide strands (nucleotide subunit composed of sugar, phosphate, and either a purine or pyrimidine base)
 		- within a strand, [[phosphodiester]] bonds join the nucleotides
-			- sugars and phosphates form srand backbone
+			- sugars and phosphates form strand backbone
+			- ![[Pasted image 20230822091134.png]]
 		- between strands, specific [[base pairing]] occurs
+		- ![[Pasted image 20230822091114.png]]
 			- adenine and guanine = [[pyrimidine]]s (purines bond w/ pyrimidines)
 			- adenine only bonds with thymine, and guanine bonds only with cytosine through hydrogen bonding
-			- specificity = strands are *complementary*
-			- 
-	- initiation of replication happens when bonds between strands break; new strands synthesized in opp. directions of each other + called [[leading strand]] and [[lagging strand]]
+			- specificity = strands are *complementary* (see [[complementary strand]])
+			- adenine, guanine, cytosine, and thymine are the nucleotides purine or pyrimidine base
+	- initiation of replication happens when [[hydrogen]] bonds between strands break
+	- ![[Pasted image 20230822090946.png]]
+		- new strands synthesized in opp. directions of each other + called [[leading strand]] and [[lagging strand]]
+		- molecule replicates via [[semiconservative replication]], w/ each strand acting as a template for the synthesis of a new [[complementary strand]]
 
 ## 6.5: Transcription
 - ### 6.5.1: Transcription and Translation: An Overview
