@@ -255,9 +255,17 @@
 - ### 6.5.2: Transcription: RNA Formation from the DNA Template
 	- RNA as nucleic acid polymer = made up of nucleotide subunits
 		- has ribose as sugar, DNA had deoxyribose
+		- ![[Pasted image 20230822101950.png]]
+			- ribose: two hydroxyl groups
+			- deoxyribose: one hydroxyl group
 		- had nitrogenous base [[uracil]] while DNA has [[thymine]]
 	- during [[transcription]], growing mRNA synthesized w/ help of enzyme ([[RNA polymerase]]) which links the ribonucleotides together
-		- both prokaryotic and eukaryotic DNA have a [[promoter]], or a specific nucleotide sequence binding 
+		- begins when [[RNA polymerase]] recognizes [[promoter]] (defined below)
+			- **enzyme begins synthesizing mRNA in 5' to 3' direction; mRNA strand = [[antiparallel]] to DNA template**
+		- both prokaryotic and eukaryotic DNA have a [[promoter]], or a specific nucleotide sequence binding RNA polymerase and showing where RNA transcription will begin
+			- eukaryotes: TATA box (serves as recognition site for proteins that aid RNA polymerase binding) usually present in promoter, consisting of nucleotide sequences like TATAAA
+				- collection of proteins ([[transcription factors]]) help RNA polymerase to recognize + bind to promoter
+			- prokaryotes: RNA polymerase *specifically* recognizes and binds **directly** to the [[promoter]]
 - ### 6.5.3: Transcription: Termination and RNA Protection
 - ### 6.5.4: Posttranscriptional Modification/RNA Splicing
 
