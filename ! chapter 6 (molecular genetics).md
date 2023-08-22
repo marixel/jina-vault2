@@ -236,6 +236,11 @@
 
 ## 6.5: Transcription
 - ### 6.5.1: Transcription and Translation: An Overview
+	- *central dogma of molecular genetics as formulated by* (Francis Crick):
+		- **information flows from DNA to RNA to protein**.
+		- no longer considered dogma; was given substance/built upon
+	- transcription + translation: *describe* molecular processes by which info flows from DNA to RNA to protein (Crick's dogma)
+		- [[transcription]]: enzymatic process by which genetic info in one strand of DNA is used to direct synthesis of a *complementary sequence of bases* of [[messenger RNA]] (mRNA)
 - ### 6.5.2: Transcription: RNA Formation from the DNA Template
 - ### 6.5.3: Transcription: Termination and RNA Protection
 - ### 6.5.4: Posttranscriptional Modification/RNA Splicing
