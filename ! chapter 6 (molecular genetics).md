@@ -243,12 +243,21 @@
 		- [[transcription]]: enzymatic process by which genetic info in one strand of DNA is used to direct synthesis of a *complementary sequence of bases* of [[messenger RNA]] (mRNA)
 			- during process, mRNA = like a scribe "transcribing" or making a new version of the master text (transcribes DNA info); new vers. then translated into protein
 			- in prokaryotes, mRNA synthesized along [[template strand]] of DNA (since [[prokaryotic]] cells lack nuclei, mRNA produced is immediately translated into amino acid chain)
+				- ![[Pasted image 20230822101521.png]]
 			- in eukaryotes, takes place in nucleus; during process, mRNA synthesized along template DNA strand
+				- ![[Pasted image 20230822101539.png]]
+				- mRNA then moves from nucleus to cytoplasm via [[nuclear pores]]
 		- [[translation]]: synthesis of [[polypeptides]] (singular) using genetic info in messenger RNA
-			- in eukaryotic cells, takes place in cytoplasm
+			- in eukaryotic cells, takes place in cytoplasm, more specifically in the [[ribosome]]s
+				- transfer RNA molecules = bring *specific* amino acids to growing polypeptide strand; sequence dictated by sequence of bases along mRNA strand
 	- DNA = contains all info for protein synthesis + can be compared to the "master copy" of the info
 		- for [[eukaryotic]] cells, DNA protected in nucleus
 - ### 6.5.2: Transcription: RNA Formation from the DNA Template
+	- RNA as nucleic acid polymer = made up of nucleotide subunits
+		- has ribose as sugar, DNA had deoxyribose
+		- had nitrogenous base [[uracil]] while DNA has [[thymine]]
+	- during [[transcription]], growing mRNA synthesized w/ help of enzyme ([[RNA polymerase]]) which links the ribonucleotides together
+		- both prokaryotic and eukaryotic DNA have a [[promoter]], or a specific nucleotide sequence binding 
 - ### 6.5.3: Transcription: Termination and RNA Protection
 - ### 6.5.4: Posttranscriptional Modification/RNA Splicing
 
