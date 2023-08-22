@@ -213,6 +213,8 @@
 			- after many rounds of replication + shortening of the ends, noncoding sequences disappear
 			- important coding sequences will be degraded
 			- **certain cell lines possess enzyme called** ***telomerase*** **that can polymerize telomere sequences**
+			- ![[Pasted image 20230822082414.png]]
+				- cells that replicate many times, like [[germ cells]], have [[telomerase]]
 			- typical repeated unit in human DNA = TTAGGG
 			- ![[Pasted image 20230821144029.png]]
 
