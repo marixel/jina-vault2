@@ -210,6 +210,9 @@
 		- to avoid loss of genetic material, ends of DNA consist of long, repeating nucleotide strands called [[telomeres]] that don't code for cell products
 		- [[telomeres]]: 
 			- protect coding sequences of DNA
+			- after many rounds of replication + shortening of the ends, noncoding sequences disappear
+			- important coding sequences will be degraded
+			- **certain cell lines possess enzyme called** ***telomerase*** **that can polymerize telomere sequences**
 			- typical repeated unit in human DNA = TTAGGG
 			- ![[Pasted image 20230821144029.png]]
 
