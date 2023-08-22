@@ -260,7 +260,12 @@
 			- deoxyribose: one hydroxyl group
 		- had nitrogenous base [[uracil]] while DNA has [[thymine]]
 	- during [[transcription]], growing mRNA synthesized w/ help of enzyme ([[RNA polymerase]]) which links the ribonucleotides together
+		- [[transcription initiation complex]] = consists of RNA polymerase and [[protein]] transcription factors bound to DNA double helix (which then unwinds, causing RNA synthesis to begin at the start point of template strand)
+			- ![[Pasted image 20230822102631.png]]
+		- [[messenger RNA]]: [[RNA polymerase]] directs synthesis of nucleotides that're complementary to DNA template; like DNA, enzyme adds nucleotides to 3' OH group of existing strand, so new messenger RNA strand grows in 5' to 3' direction
+			- ![[Pasted image 20230822102608.png]]
 		- begins when [[RNA polymerase]] recognizes [[promoter]] (defined below)
+			- ![[Pasted image 20230822102659.png]]
 			- **enzyme begins synthesizing mRNA in 5' to 3' direction; mRNA strand = [[antiparallel]] to DNA template**
 		- both prokaryotic and eukaryotic DNA have a [[promoter]], or a specific nucleotide sequence binding RNA polymerase and showing where RNA transcription will begin
 			- eukaryotes: TATA box (serves as recognition site for proteins that aid RNA polymerase binding) usually present in promoter, consisting of nucleotide sequences like TATAAA
