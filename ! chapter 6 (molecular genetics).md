@@ -241,6 +241,13 @@
 		- no longer considered dogma; was given substance/built upon
 	- transcription + translation: *describe* molecular processes by which info flows from DNA to RNA to protein (Crick's dogma)
 		- [[transcription]]: enzymatic process by which genetic info in one strand of DNA is used to direct synthesis of a *complementary sequence of bases* of [[messenger RNA]] (mRNA)
+			- during process, mRNA = like a scribe "transcribing" or making a new version of the master text (transcribes DNA info); new vers. then translated into protein
+			- in prokaryotes, mRNA synthesized along [[template strand]] of DNA (since [[prokaryotic]] cells lack nuclei, mRNA produced is immediately translated into amino acid chain)
+			- in eukaryotes, takes place in nucleus; during process, mRNA synthesized along template DNA strand
+		- [[translation]]: synthesis of [[polypeptides]] (singular) using genetic info in messenger RNA
+			- in eukaryotic cells, takes place in cytoplasm
+	- DNA = contains all info for protein synthesis + can be compared to the "master copy" of the info
+		- for [[eukaryotic]] cells, DNA protected in nucleus
 - ### 6.5.2: Transcription: RNA Formation from the DNA Template
 - ### 6.5.3: Transcription: Termination and RNA Protection
 - ### 6.5.4: Posttranscriptional Modification/RNA Splicing
