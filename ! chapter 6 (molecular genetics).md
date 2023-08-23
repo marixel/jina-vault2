@@ -272,6 +272,8 @@
 				- collection of proteins ([[transcription factors]]) help RNA polymerase to recognize + bind to promoter
 			- prokaryotes: RNA polymerase *specifically* recognizes and binds **directly** to the [[promoter]]
 - ### 6.5.3: Transcription: Termination and RNA Protection
+	- [[terminator sequence]]: sequenc eof nucleotides on the DNA strand signaling the end of [[transcription]]
+	- after transcription, 
 - ### 6.5.4: Posttranscriptional Modification/RNA Splicing
 
 ## 6.6: Translation
