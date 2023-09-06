@@ -327,9 +327,64 @@
 		- exists as 2 subunits (see illustration)
 			- ![[2_subunit_ribosome.png]]
 - ### 6.6.2: The Role of Transfer RNA: Charging a tRNA Molecule
-	- during [[translation]], [[tRNA]] [[anticodon]] binds to an [[]]
+	- during [[translation]], [[tRNA]] [[anticodon]] binds to an [[mRNA codon]], specifying for a particular amino acid (important; helps provide correct amino acid for growing [[polypeptide]] strand)
+		- structure of tRNA enables molecule to translate 2 languages of cellular activity: [[nucleotide]]s and [[proteins]]
+			- structure enables tRNA to recognize correct [[mRNA codon]] specifying for a particular amino acid
+		- ![[2D_tRNA_binding.png]]
+		- illustration (a): 2D representation of tRNA
+		- amino acid attaches at 3' end of molecule
+		- anticodon = contains complementary sequences to 3 bases on mRNA strand
+		- mistake could lead to defective protein (so problems in cell function)
+	- process of *charging* a [[tRNA]] molecule involves bonding a tRNA molecule w/ a specific amino acid
+		- ![[Pasted image 20230906151101.png]]
+		- process by which [[aminoacyl-tRNA synthetase]] joins specific amino acid to a [[tRNA]] molecule
+			- 1. active site of enzyme binds amino acid and an atp molecule
+			- 2. atp loses 2 phosphate groups and attaches to amino acid as [[adenosine monophosphate]] (AMP)
+			- 3. specific tRNA binds to amino acid + AMP drops off
+			- enzyme releases aminoacyl tRNA complex or charged amino acid
+		- occurs with help of enzyme: [[aminoacyl-tRNA synthetase]]
+		- [[endergonic]] process
 - ### 6.6.3: Translation: Initiation Events
+	- 1961: [[Marshall Nirenberg]] cracked [[genetic code]], discovering that 3 mRNA nucleotides translated into one amino acid
+		- experiments involves synthesis of artificial mRNA strands containing a known base sequence
+		- e.g. strand of repeating uracil bases translated into a repeating strand of phenylalanine
+		- conclusion: **the mRNA base pairs of UUU translated into phenylalanine***
+	- [[codon]]: three nucleotide base-pairs of DNA or mRNA that codes for a specific amino acid or termination signal
+		- - three-base code provides for 64 diff. amino acids (more than adequate!)
+		- [[Marshall Nirenberg]]'s experiments verified: flow of info from gene to protein based on triplet code
+		- ![[codon_img.png]]
+		- unit of genetic code
+			- more than 1 codon may specify for a particular amino acid
+			- [[degeneracy]]: relative unimportance 3rd nucleotide plays in specifying for given amino acid (bc first 2 determine amino acid)
+			- no [[ambiguity]], either (individual types of codons can only translate into one amino acid, but amino acids can form from different codons)
+			- ![[codons_not_specific.png]]
+		- [[mRNA codon]]s read from 5' end of strand to the 3' end of strand
+	- 3 stages of [[translation]]:
+		- [[initiation]]
+			- ![[initiation_major_events.png]]
+			- events include formation of a [[translation initiation complex]] (consists of large + small subunits of ribosome, mRNA, and tRNA)
+			- energy expended in form of [[GTP]]
+			- during initiation:
+				- 5' cap on mRNA strand signals attachment of small ribosome unit
+				- mRNA strand, tRNA molecule specifying for first amino acid, and both subunits of ribosome come together
+				- small subunit bind sto both mRNA and tRNA
+				- AUG sequence on mRNA signals translation
+				- large subunits binds forming [[translation initiation complex]]
+				- first tRNA (carries amino acid methionine) moves from A site to P site of large subunit
+		- [[elongation]]
+		- [[termination]]
 - ### 6.6.4: Translation/Elongation: The Initiation of Elongation
+	- during [[elongation]]:
+		- amino acids added one by one to form polypeptide chain
+		- elongation occurs through codon recognition, [[peptide]] bond formation, and [[translocation]]
+			- addition of each amino acid involves aid of protein elongation factors
+		- *major events*:
+			- 1. codon recognition: img shows incoming aminoacyl tRNA bearing anticodon sequence "UUU"; binds to mRNA codon containing sequence "AAA"; occurs in A site of large ribosomal subunit
+				- ![[translation_codon_recognition.png]]
+			- 2. peptide-bond formation: img shows new amino acid being joined to existing polypeptide strand w/ help of RNA [[ribozymes]] (singular); [[peptide]] bond forms between the 2 amino acids; rRNA molecule of large ribosomal subunit (functioning as a [[ribozymes]]) catalyzes formation of peptide bond
+				- ![[translation_peptidebond_formation.png]]
+			- 3. translocation: after [[peptide]] bond forms, entire polypeptide strand moved to the [[tRNA]] in the A site; during this stage, tRNA in A site moves to the P site; tRNA in the P site moves into E site and is released from [[ribosome]]
+				- ![[translation_translocation.png]]
 - ### 6.6.5: Elongation Continued and Termination
 
 ## 6.7: Protein Synthesis Review
