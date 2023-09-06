@@ -1,0 +1,3 @@
+- small nuclear ribonucleoproteins
+- recognize splice sites
+- during [[RNA splicing]] (specifically [[messenger RNA]] splicing), [[RNA]] present functions as [[catalyst]]

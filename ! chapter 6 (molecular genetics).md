@@ -285,10 +285,49 @@
 			- 3' end modified before transcript leaves nucleus
 				- [[poly(A) tail]]: 30-200 [[adenine]] nucleotides (tail protects mRNA from degradation, like the cap of the 5' end, and assists it in export/leaving from the nucleus)
 - ### 6.5.4: Posttranscriptional Modification/RNA Splicing
-
+	- in [[eukaryote]]s: avg length of new [[messenger RNA]] transcript = abt 8000 nucleotides
+		- only takes 1200 nucleotides to code for avg-sized protein of 400 amino acids
+		- mRNA transcript + [[DNA]] template used to synthesize it = long, untranslated segments
+			- most of these sequences occur between coding segments, so sequence codes for [[polypeptide]] = not continuous
+	-  [[posttranscriptional modification]] = describes how newly synthesizes mRNA strands is processed
+			- refers to addition of a 5' cap and a [[poly(A) tail]] to transcript
+			- includes [[RNA splicing]]
+			1. 5' cap and [[poly(A) tail]] added to newly transcribed mRNA molecule (cap and tail protect transcript from hydrolysis, signal ribosome attachment, and help export molecule from nucleus)
+				- ![[posttrans_mods_step_1.png]]
+			2. involves [[RNA splicing]]; mRNA transcript has long sequences that don't code for proteins called [[introns]]
+				- ![[posttrans_mods_step_2.png]]
+				- sequences that code for proteins = [[exons]]
+				- introns found between exons
+				- before transcript is translated into protein, [[introns]] removed (see illustration; short nucleotide sequences at ends of introns provide signal to identify splice sites)
+					- splice sites then recognized by substances consisting of RNA and protein molecules called [[snRNPs]] (snurps)
+						- ![[snRNPs_and_splice_sites.png]]
+					- in mRNA splicing: RNA present in [[snRNPs]] functions as catalyst, role generally taken on by proteins of cell
+						- idea of catalytic role for [[snRNPs]] arose from discovery of [[ribozymes]] (RNA molecules that function as enzymes)
+	- on new mRNA strand, noncoding portions between coding portions = intervening sequences, otherwise known as [[introns]]
+		- during mRNA splicing, [[introns]] removed and [[exons]] pasted together
+		- splicing takes place before mRNA transcript leaves [[nucleus]]
+		- several [[snRNPs]] join w/ additional [[proteins]] to form large complex called [[spliceosome]] (see illustration below)![[spliceosome_diagram.png]]
+			- splices out intron and joins adjacent exons together
+			- when introns removed + exons jointed together, modified mRNA molecules exported from nucleus into cytosol
 ## 6.6: Translation
 - ### 6.6.1: Translation: Ribosomal and Transfer RNA
+	- [[translation]]: synthesis of [[polypeptide]] strand using genetic info present in [[messenger RNA]] molecule; nucleotide language translated into [[amino]] acids
+	- [[tRNA]] (transfer RNA) molecule functions as translator from nucleotide into amino acid language
+		- ![[tRNA_diagram.png]]
+		- img: 2D representation of tRNA
+			- 5' and 3' ends of strand now adjacent due to folding
+			- 3' end: site for amino acid attachment
+			- middle loop contains [[anticodon]] sequences unique to each RNA transfer type
+		- single, ~80 nucleotide-long RNA strand that folds back on itself to form  3D shape (which is maintained by [[hydrogen]] bonding between complementary [[nucleotide]]s in the strand)
+		- specific [[anticodon]] on one end and an amino acid on the other end
+		- [[anticodon]] sequence complementary to given sequence on mRNA strand (each sequence of mRNA translates into specific amino acid)
+	- [[ribosome]]: cell organelle constructed in [[nucleolus]]
+		- functions as site for [[protein]] [[synthesis]] in the [[cytoplasm]]
+		- made up of 60% ribosomal [[RNA]] and 40% [[protein]]
+		- exists as 2 subunits (see illustration)
+			- ![[2_subunit_ribosome.png]]
 - ### 6.6.2: The Role of Transfer RNA: Charging a tRNA Molecule
+	- during [[translation]], [[tRNA]] [[anticodon]] binds to an [[]]
 - ### 6.6.3: Translation: Initiation Events
 - ### 6.6.4: Translation/Elongation: The Initiation of Elongation
 - ### 6.6.5: Elongation Continued and Termination
