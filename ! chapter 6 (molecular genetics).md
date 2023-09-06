@@ -272,9 +272,18 @@
 				- collection of proteins ([[transcription factors]]) help RNA polymerase to recognize + bind to promoter
 			- prokaryotes: RNA polymerase *specifically* recognizes and binds **directly** to the [[promoter]]
 - ### 6.5.3: Transcription: Termination and RNA Protection
-	- [[terminator sequence]]: sequenc eof nucleotides on the DNA strand signaling the end of [[transcription]]
+	- [[terminator sequence]]: sequence of nucleotides on the DNA strand signaling the end of [[transcription]]
+		- ![[transcriptionend_termsequence.png]]
+		- contains high concentration of [[adenine]] (a [[base]])
+		- [[uracil]] in RNA pairs w/ adenine in RNA to form (relatively) weak [[hydrogen]] bonds between [[DNA]] and [[messenger RNA]] strands
+			- bonds enable RNA strand to easily break away from template
 	- after transcription, a series of [[enzymes]] in [[nucleus]] modify [[messenger RNA]] transcript before it undergoes translation in [[cytoplasm]]
 		- during [[mRNA processing]], ends of transcript altered, sections of [[molecule]] removed, and remaining parts sewn back together
+		- ![[mRNA_protection_and_processing.png]]
+			- 5' end capped w/ methylated [[guanine]] [[nucleotide]] (cap protects [[messenger RNA]] from degradation by *hydrolytic* enzymes as it travels through cytoplasm before translation)
+				- later, cap serves as signal for [[ribosome]] attachment
+			- 3' end modified before transcript leaves nucleus
+				- [[poly(A) tail]]: 30-200 [[adenine]] nucleotides (tail protects mRNA from degradation, like the cap of the 5' end, and assists it in export/leaving from the nucleus)
 - ### 6.5.4: Posttranscriptional Modification/RNA Splicing
 
 ## 6.6: Translation
