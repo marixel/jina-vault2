@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"caafa82afe08cfa6","x":-400,"y":60,"width":373,"height":250,"type":"file","file":"atp-structure-and-function.md"},
+		{"id":"0f118e81bd7b8a0c","x":-60,"y":-360,"width":400,"height":400,"type":"file","file":"major-modes-of-nutrition-among-organisms.md"},
+		{"id":"4f3a16dcb20ade78","x":-400,"y":-220,"width":320,"height":240,"type":"file","file":"phosphorylated-intermediates.md"}
+	],
+	"edges":[]
+}

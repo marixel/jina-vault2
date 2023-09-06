@@ -1,0 +1,4 @@
+- composed of [[microtubules]]
+- very similar to [[cilia]] in terms of structure, function, and movement
+- shaped like large propellers
+- composed of 9+2 array of [[microtubules]]

@@ -1,0 +1,1 @@
+the transportation of a substance against a [[concentration]] gradient (ex. potassium diffuses easily across membranes of dead paramecium, despite concentration gradient guiding them in an alt. direction)
