@@ -95,22 +95,14 @@ TARGET DECK: HS-BIO
 				- constructs w/o apparent use::vestigial structures
 - ID: 1692021577402
 
-<<<<<<< HEAD
-	- Jean Baptiste de [[Lamarck]]: **first evolution hypothesis**
-=======
 	- Jean Baptiste de Lamarck: **first evolution theory**
->>>>>>> 1978d94e80f076e6f0e9bff7991eafcc424ea269
 		1. use or disuse
 			- like weight training (more use = adapts to meet needs within lifetime; likewise, with less use the structure decays)
 		2. inheritance of acquired characteristics
 			- organisms pass on their traits from use/disuse to offspring
 			- rarely true (think: two absolutely jacked , olympic-gold-medalist-in-lifting level parents would still have a fat, normally sized baby)
 - ### 1.3.2: Darwin: The Voyage Continues
-<<<<<<< HEAD
-	- onboard, he read "Principles of Geology" by Lyell ([[uniformitarianism]] guy)
-=======
 	- onboard, he read "Principles of Geology" by Lyell (uniformitarianism guy)
->>>>>>> 1978d94e80f076e6f0e9bff7991eafcc424ea269
 		- loved it and read second volume
 	- first stopped at Cape Verde and found shell fossils **on a cliff** (far away from the water!)
 	- found quadroped fossils in Argentina
