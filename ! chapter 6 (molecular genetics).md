@@ -387,9 +387,62 @@
 				- ![[translation_translocation.png]]
 - ### 6.6.5: Elongation Continued and Termination
 	- during elongation stage of translation, new polypeptide synthesized by linking amino acids w/ [[peptide]] bonds
+		- peptide bonds: link amino acids in polypeptide chain
+			- formed by dehydration reactions and link the [[carboxyl]] group of one amino acid to the amino group of the next
+			- water = byproduct of dehydration reaction
+			- ![[peptide_bonds_elongation.png]]
+	- [[termination]] of translation (elongation, specifically) occurs when a [[stop codon]] reaches A site of ribosome
+	- ![[termination_of_elongation.png]]
+		- [[protein release factor]] binds to [[stop codon]] and hydrolyzes bond between tRNA in the P site and the last amino acid of the polypeptide chain
+			- 1. protein release factor's binding causes addition of a water molecule instead of an amino acid to polypeptide chain
+			- 2. release factor hydrolyzes bond between tRNA in P site and last amino acid of polypeptide chain, and polypeptide is released from the ribosome
+			- 3. complex of mRNA, tRNA, and ribosomal subunits dissociate + molecules can be recycled by cell to construct more proteins
+		- polypeptide then released
 ## 6.7: Protein Synthesis Review
 - ### 6.7.1: Polypeptide Destinations: Signal Peptides and ER Ribosomes
+	- takes less than a minute to produce avg-sized polypeptide (hundreds of amino acids long!)
+		- usually, a single [[messenger RNA]] strand used to make several copies of polypeptide at the same time (simultaneously), increasing the speed of polypeptide production
+	- [[polyribosome]]: [[aggregation]] of several ribosomes attached to one mRNA molecule, increasing efficiency of polypeptide synthesis
+		- ![[polyribosomes.png]]
+		- (a): transmission electron micrograph of [[polyribosome]]s
+		- (b): schematic representation of [[polyribosome]]s
+			- during translation, first ribosome attaches to 5' initiation sequence of mRNA molecule
+			- as ribosome moves in the 3' direction, a new incoming ribosome attaches to the 5' site
+			- result: string of ribosomes in various stages of polypeptide synthesis
+	- [[signal peptides]]: sequences of amino acids on polypeptides that target a protein to the ER ([[endoplasmic reticulum]])
+		- polypeptides of proteins destined for [[endomembrane system]] marked by signal peptides
+		- entire polypeptide-ribosome complex becomes embedded into ER membrane
+		- once synthesis = done, polypeptide may be exported from cell (if it a [[secretory protein]]) or remain partially embedded in the ER membrane (if it is a [[membrane protein]])
+	- ![[polypeptides_cytosol.png]]
+		- synthesis of *all* proteins begins in cytosol where free ribosomes translate mRNA molecules
+			- after translation, some proteins are bound to the [[cytosol]] whereas some will enter [[endomembrane system]]
+	
+		- ribosomes that carry ER-bound proteins bind to a receptor site of the ER and become [[ER ribosomes]]
+		- polypeptide moves through ER membrane + enters ER compartment
 - ### 6.7.2: Protein Synthesis: An Overview
+	- [[translation]] involves the synthesis of a polypeptide as dictated by a mRNA nucleotide sequence
+		- during translation, a messenger RNA strand, tRNA molecules, and ribosomal subunits come together
+		- nucleotide codons on mRNA strand specify tRNA anticodons
+		- tRNA molecules donate specific amino acids
+		- ribosomal subunits provide physical site where translation occurs
+		- **product**: newly synthesized polypeptide strand (which then undergoes protein synthesis)
+	- translation takes place in 3 stages:
+		- [[initiation]]
+		- [[elongation]]
+		- [[termination]]
+	- during translation nucleotide codons on mRNA strand converted into amino acids
+		- amino acids are bonded together to form a polypeptide strand
+		- proteins = polypeptide strands in a 3D form
+		- so, events of translation enable [[protein synthesis]]
+	- steps:
+		- 1. mRNA strand reading 5' AUGGAUCAACGUUAA 3' used to translate new polypeptide strand
+			- ![[translation_step1.png]]
+		- 2. specific type of tRNA molecule possesses anticodon 3' UAC 5' and the amino acid [[methionine]]; tRNA moves into the A site of ribosome and bonds w/ 5' AUG 3' on mRNA
+			- ![[translation_step2.png]]
+		- 3. w/ each new incoming tRNA, the complex of molecules shifts, and the result is that the ribosomal subunits move toward 3' end of mRNA strand
+			- ![[translation_step3.png]]
+		- 4. second tRNA molecule comes in and has the anticodon 3' CUA 5' and the amino acid [[aspartine]]; moves into the A site and binds w/ mRNA codon 5' GAU 3'; first tRNA molecule moves into P site; peptide bond forms between the two amino acids
+			- ![[translation_step4.png]]
 
 ## 6.8: The *lac* Operon
 - ### 6.8.1: Control Mechanisms: Lactose Metabolism in *E. Coli*
