@@ -443,7 +443,12 @@
 			- ![[translation_step3.png]]
 		- 4. second tRNA molecule comes in and has the anticodon 3' CUA 5' and the amino acid [[aspartine]]; moves into the A site and binds w/ mRNA codon 5' GAU 3'; first tRNA molecule moves into P site; peptide bond forms between the two amino acids
 			- ![[translation_step4.png]]
-
+		- 5. third tRNA molecule attaches to A site bearing the anticodon 3' GUU 5' and the amino acid valine; it binds w/ the mRNA codon 5' CAA 3'; first and second tRNA molecules move into the E and A sites, respectively; growing polypeptide now three amino acids long
+			- ![[translation_step5.png]]
+		- 6. fourth tRNA molecule attaches to the A site carrying the anticodon 3' GCA 5' and the amino acid [[arginine]]; it binds w/ the mRNA codon 5' CGU 3'; the second and third tRNA molecules move into the E and A sites, respectively; chain is now four amino acids long
+			- ![[translation_step6.png]]
+		- 7. fifth tRNA molecule moves to the A site; has anticodon 3' AUU 5' and doesn't carry amino acid; looking at genetic dictionary, corresponding mRNA codon, 5' AUU 3' is a [[stop codon]]; tRNA exits via the E site
+			- ![[translation_step7.png]]
 ## 6.8: The *lac* Operon
 - ### 6.8.1: Control Mechanisms: Lactose Metabolism in *E. Coli*
 - ### 6.8.2: Jacob and Monod's Model: The *lac* Operon
