@@ -386,7 +386,7 @@
 			- 3. translocation: after [[peptide]] bond forms, entire polypeptide strand moved to the [[tRNA]] in the A site; during this stage, tRNA in A site moves to the P site; tRNA in the P site moves into E site and is released from [[ribosome]]
 				- ![[translation_translocation.png]]
 - ### 6.6.5: Elongation Continued and Termination
-
+	- during elongation stage of translation, new polypeptide synthesized by linking amino acids w/ [[peptide]] bonds
 ## 6.7: Protein Synthesis Review
 - ### 6.7.1: Polypeptide Destinations: Signal Peptides and ER Ribosomes
 - ### 6.7.2: Protein Synthesis: An Overview
