@@ -451,11 +451,75 @@
 			- ![[translation_step7.png]]
 ## 6.8: The *lac* Operon
 - ### 6.8.1: Control Mechanisms: Lactose Metabolism in *E. Coli*
-- ### 6.8.2: Jacob and Monod's Model: The *lac* Operon
-- ### 6.8.3: lac Operon: The Summary
+	- both [[prokaryotic]] and [[eukaryotic]] cells have mechanisms to regulate DNA and RNA
+		- process prevents cells from expending energy on unnecessary metabolic processes
+		- one such mechanism found in [[E. coli]] (species of bacteria that inhabits our digestive tract)
+			- bacteria employ a regulatory process to control the synthesis of three enzymes responsible for lactose metabolism
+			- the [[lac operon]] is a regulatory unit on E. coli DNA that serves to control the synthesis of three enzymes responsible for metabolizing lactose
+				- ![[gene_regulation.png]]
+				- these enzymes:
+					- ![[lactose_active_genes.png]]
+					- [[B-galactosidase]]
+						- breaks down lactose
+					- [[permease]]
+						- membrane protein that transports lactose into the cell
+					- [[transacetylase]]
+						- role unclear, but present nonetheless
+				- in absence of lactose, these enzymes aren't produced
+					- ![[lactose_genes_without_lactose.png]]
+					- these enzymes (as proteins) are synthesized through the processes of transcription and translation + require an expenditure of cellular energy ([[endergonic]] reaction)
+					- by regulating enzyme synthesis, cells conserve energy
 
+- ### 6.8.2: Jacob and Monod's Model: The *lac* Operon
+	- in prokaryotes, mRNA transcription requires a [[promoter]]
+		- promoter serves as a recognition site for [[RNA polymerase]] (which binds to the promoter and proceeds to direct transcription of the [[messenger RNA]] molecule)
+	- experiments conducted by [[Francois Jacob]] and [[Jacques Monod]] determined mechanisms underlying the [[lac operon]] (which regulates mRNA transcription of enzymes responsible for digesting lactose)
+		- identified [[operator site]] (sequence of bases that's located between genes and promoter)
+			- ![[prokaryotic_gene_regulation.png]]
+			- *hypothesized* that when a specific protein occupies operator site, RNA polymerase unable to bind to the promoter (thus, transcription wouldn't occur)
+			- since protein prevents transcription, it's called a [[repressor protein]]
+				- in absence of lactose, repressor protein binds to operator and thus transcription of lactose-digesting enzymes is prevented
+		- as lactose enters cell, it's converted into allolactose (prevents the repressor protein from binding to the operator)
+			- RNA polymerase binds to the promoter and transcription of the three enzymes occurs
+			- [[lac operon]] is an [[inducible operon]] (meaning that it's stimulated when a specific molecule interacts w/ a regulatory protein)
+			- ![[lac_operon_inducible.png]]
+		- basic components of [[lac operon]]: ![[lac_operon_basic_components.png]]
+		- **single stretch of DNA regulates and synthesizes lactose-digesting enzymes**
+		- 3 enzymes responsible for digesting lactose:
+			- [[B-galactosidase]] (beta galactosidase)
+			- [[permease]]
+			- [[transacetylase]]
+			- gene coding for them found adjacent to one another on DNA strand and are called lacZ, lacY, and lacA, respectively
+	
+- ### 6.8.3: lac Operon: The Summary
+	- an [[operon]] is a unit of function consisting of regulated clusters of genes
+		- provides control of a sequence of genes that're related in metabolic activity
+		- [[lac operon]] = [[inducible operon]] that controls the transcription of 3 enzymes that metabolize lactose
+		- ![[lac_operon_summary.png]]
+			- wrap-up:
+				- 1. looking at img, you can see that gene sequences coding for the 3 enzymes occur adjacent to each other on the DNA strand. the sequences are labeled lacZ, lacY, and lacA on the illustration
+				- 2. [[promoter]] sequence = to the left of the sequences, enabling RNA polymerase to synthesizes mRNA in a 5' to 3' direction
+				- 3. genetic sequence to the left of the promoter, called the lacI gene, codes for the [[repressor protein]]
+				- 4. when lactose is absent, repressor protein binds to the [[operator site]], which lies in between the promoter and the gene sequences of the enzymes
+				- 5. location of the operator enables [[repressor protein]] to act as a physical block, preventing RNA polymerase from binding to the promoter
+				- 6. when lactose is present, the repressor protein = inhibited and [[transcription]] of the enzyme lactase begins
 ## 6.9: Eukaryotic Genomic Organization
 - ### 6.9.1: The Eukaryotic Genome: DNA Packing
+	- both prokaryotic and eukaryotic cells must organize + control genetic material
+		- prokaryotic genomes = millions of nucleotides
+		- eukaryotic [[genome]] = in orders of magnitude *larger*
+	- [[chromosomes]]: highly compacted forms of DNA and associated proteins
+		- human cell contains 46 chromosomes
+		- each chromosome has approximately 2 * 108 nucleotides!!!
+		- if chromosomes in one [[diploid]] human cell were stretched out, the strand would be abt 2.8 meters long!!!
+			- much of this DNA isn't active and doesn't code for proteins, but must still be copied during cell division
+		- eukaryotic cells package their chromosomal DNA into [[chromatin]]
+			- during [[interphase]], the chromatin exists as a diffuse mass
+			- during [[mitosis]] and/or [[meiosis]] of the cell cycle, a cel's chromatin is condensed to form recognizable bodies of chromosomes that can be viewed under a light microscope
+		- levels of DNA packing:
+			- 1. [[nucleosome]]: consists of DNA wrapped around a core of proteins called [[histone]]s; each protein core is composed of eight histones, two of each: H2A, H2B, H3, and H4
+			- 2. string of nucleosomes coils together w/ help of histone H1 to form a 30-nm [[chromatin]] fiber
+				- ![[30nm_chromatin_fiber.png]]
 - ### 6.9.2: Eukaryotic Genomic Organization: Repetitive DNA
 - ### 6.9.3: Eukaryotic Genomic Organization: Gene Families
 - ### 6.9.4: Eukaryotic Genomic Organization: Transposons and Amplified Genes
