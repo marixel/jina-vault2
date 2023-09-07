@@ -641,6 +641,7 @@
 - ### 6.10.3: Prokaryotes vs. Eukaryotes: Protein-making Machinery
 	- prokaryotes + eukaryotes have many physiological differences that lead to differences in protein synthesis, including:
 		- presence or absence of a nucleus
+			- ![[nucleus and nucleoid.png]]
 			- eukaryotic cells = double-membrane nucleus that encloses chromosomes, and they have membrane-bound organelles
 			- prokaryotes don't have a nucleus or membrane-bound organelles; instead, they have a region called the [[nucleoid]], where the chromosome is found
 		- chromosomal differences
@@ -649,9 +650,11 @@
 				- in general, prokaryotes have less DNA than eukaryotes
 		- promoter recognition
 			- RNA polymerase depends on transcription factors to recognize the promoter (eukaryotic cell)
+				- ![[eukaryotic promoter recognition.png]]
 			- prokaryotic RNA polymerase recognizes promoter w/o aid of transcription factors
 		- method of transcription termination
 			- eukaryotes: transcription proceeds through stop sequence and ends abt 10-35 nucleotides later
+				- ![[eukaryotic transcription terminate.png]]
 				- as seen in img above, mRNA that results from eukaryotic transcription extends past termination signal, an AU-rich region
 			- prokaryotes: transcription stops at the end of the stop sequence
 		- ribosome size
