@@ -585,5 +585,82 @@
 
 ## 6.10: Controlling Protein Synthesis in Eukaryotes
 - ### 6.10.1: Eukaryotic Gene Control: Transcriptional Controls
+	- gene = distinct unit of hereditary info composed of a specific nucleotide sequence in DNA
+		- all of the cells of an organism contain the same genes, but don't necessarily *use* the same genes
+		- eukaryotic cells employ a number of control mechanisms to ensure that genes are expressed *only* when they're needed
+		- several control points during gene expression:
+			- pretranscriptional (involving physical availability of genes):
+				- [[DNA methylation]]: addition of methyl groups (-CH3) to an intact DNA strand, typically to the [[cytosine]] bases; results in inactivation of DNA
+				- [[histone acetylation]]: attachment of acetyl groups (-COCH3) to specific amino acids of histones
+					- acetylation changes histone's conformation and loosens its grip on DNA
+					- acetylated DNA is more readily transcribed
+				- transcriptional controls involve [[transcription factors]], which are necessary in order for transcription to occur
+					- ![[transcription factor review.png]]
+					- review: promoter = sequence of DNA near gene that regulates eukaryotic gene transcription
+						- RNA polymerase requires presence of transcription factors in order to bind to the promoter; one transcription factor recognizes the TATA box within the promoter while the other transcription factors recognize proteins (including each other and RNA polymerase)
+						- transcription only proceeds when [[transcription initiation complex]] is formed
+					- have DNA-binding domain, which is part of its 3D structure and allows it to bind to DNA
+						- 3 main types of DNA-binding domains:
+							- ![[3 types of DNA-binding domains.png]]
+							- helix-turn-helix (top left)
+								- notice how the 2 cylindrically shaped portions of a transcription factor, which are alpha helices, wrap around the DNA strand
+							- zinc finger
+								- consists of repeating units of an alpha helix + beta pleated sheet held together by a zinc atom
+								- these repeating units wrap around DNA strand
+							- leucine zipper
+								- consists of 2 polypeptide chains that consist of many leucines
+								- chains coiled around each other, bringing 2 polypeptides together
+		- [[enhancers]]: sequences of [[DNA]] that are up to thousands of nucleotides away from the [[promoter]]
+			- ![[enhancers.png]]
+			- unlike promoters, enhancer physically farther away from the gene that it controls + can be either upstream (toward the 5' end) or downstream (toward the 3' end) from the gene
+			- transcription factors called [[activators]] bind to enhancers + help form the [[transcription initiation complex]]
+				- TIC forms when DNA folds over and activators bind to transcription factors at promoter
 - ### 6.10.2: Eukaryotic Control Mechanisms: Posttranscriptional and Posttranslational Controls
+	- review:
+		- gene expression can be controlled at the level of pretranscription or transcription
+		- examples of pretranscription control includes DNA methylation and histone acetylation
+		- transcription-level controls include transcription factors and enhancers
+	- gene expression can also be controlled at the level of:
+		- ![[pre, mid, and post-translation control.png]]
+		- post-transcription:
+			- after transcription yields [[messenger RNA]] molecule, cell still has many other opportunities to regulate protein processing
+			- review: RNA processing involves addition of a cap and a tail to a new mRNA transcript
+				- this addition prevents nuclease enzymes present in the cytoplasm from hydrolyzing the transcript
+			- one hypothesis: build-up of protein product can wear down protective additions, enabling the break down of the mRNA transcript and preventing translation
+		- pre-translation:
+			- review: during initiation of translation, certain proteins (not pictured in illustration) must be physically present for translation to occur
+			- deactivating initiation factors will prevent translation
+		- translation:
+			- translation of mRNA strands may be blocked by attachment of regulatory proteins that bind to sequences near the 5' end of the mRNA strand and prevent the attachment of ribosomes
+		- post-translation:
+			- [[proteasomes]]: giant complexes of proteins functioning to break down the unneeded proteins of a cell
+				- ![[proteasomes + post-translate control.png]]
+				- img depicts break down of proteins by a proteosome enzyme. steps are as follows:
+					- enzymes in cytosol attach [[ubiquitin]] molecules to the protein to be degraded, thereby marking it
+					- a proteosome recognizes the ubiquitin and degrades the protein
 - ### 6.10.3: Prokaryotes vs. Eukaryotes: Protein-making Machinery
+	- prokaryotes + eukaryotes have many physiological differences that lead to differences in protein synthesis, including:
+		- presence or absence of a nucleus
+			- eukaryotic cells = double-membrane nucleus that encloses chromosomes, and they have membrane-bound organelles
+			- prokaryotes don't have a nucleus or membrane-bound organelles; instead, they have a region called the [[nucleoid]], where the chromosome is found
+		- chromosomal differences
+			- DNA of eukaryotic cells = organized into rod-like chromosomes
+			- DNA of a prokaryotic cell = organized into a singular circular chromosome
+				- in general, prokaryotes have less DNA than eukaryotes
+		- promoter recognition
+			- RNA polymerase depends on transcription factors to recognize the promoter (eukaryotic cell)
+			- prokaryotic RNA polymerase recognizes promoter w/o aid of transcription factors
+		- method of transcription termination
+			- eukaryotes: transcription proceeds through stop sequence and ends abt 10-35 nucleotides later
+				- as seen in img above, mRNA that results from eukaryotic transcription extends past termination signal, an AU-rich region
+			- prokaryotes: transcription stops at the end of the stop sequence
+		- ribosome size
+		- location of transcription and translation
+			- ![[pro vs euk - transcription and translation location.png]]
+			- eukaryotic cells: both transcription and RNA processing happen in nucleus; translation happens in cytoplasm
+			- prokaryotic: no nucleus; transcription and translation performed in cytosol of cell; also don't undergo any RNA processing
+		- protein targeting
+			- eukaryotic proteins: signal peptide targets protein to the ER; receptor on the ER recognizes the signal
+				- ![[eukaryotic protein signaling.png]]
+				- diagram above shows insertion of a protein (from right to left) into the ER of a eukaryotic cell
+			- bc prokaryotes have no membrane-bound organelles, they have no complicated system for targeting proteins into organelles
