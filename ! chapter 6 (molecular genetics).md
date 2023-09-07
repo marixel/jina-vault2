@@ -518,11 +518,70 @@
 			- during [[mitosis]] and/or [[meiosis]] of the cell cycle, a cel's chromatin is condensed to form recognizable bodies of chromosomes that can be viewed under a light microscope
 		- levels of DNA packing:
 			- 1. [[nucleosome]]: consists of DNA wrapped around a core of proteins called [[histone]]s; each protein core is composed of eight histones, two of each: H2A, H2B, H3, and H4
+				- ![[nucleosome_structure.png]]
 			- 2. string of nucleosomes coils together w/ help of histone H1 to form a 30-nm [[chromatin]] fiber
 				- ![[30nm_chromatin_fiber.png]]
+			- 3. 30nm [[chromatin]] fiber folded and anchored to scaffold of nonhistone proteins, resulting in a configuration known as a [[looped domain]]
+				- ![[looped_domain.png]]
+			- 4. "beads on a string" configuration of nucleosomes = folded upon itself to form the 30nm [[chromatin]] fiber, which then forms looped domains anchored on a protein scaffold
+				- looped domains further folded together to form [[chromosomes]] that are visible under a light microscope during metaphase of cell division
+				- ![[chromosome_formation_from_chromatin.png]]
 - ### 6.9.2: Eukaryotic Genomic Organization: Repetitive DNA
+	- in prokaryotes, most of the DNA in a genome codes for protein products
+		- small amt exists as noncoding regulatory sequences like [[promoter]]s
+		- in contrast, 90% of sequences in eukaryotic genomes *don't* sequence for protein products
+			- some of these noncoding sequences are made up of [[repetitive DNA]]
+				- 2 major types: *tandemly* repetitive DNA and *interspersed* repetitive DNA
+					- *tandemly*: accounts for 10-15% of mammalian DNA
+						- lengths of units are only 1-10 base pairs long, but sequences may be repeated hundreds of thousands of times, one after the other
+						- *often found within [[centromeres]] and [[telomeres]]*
+						- also referred to as *satellite DNA* bc when genomic DNA is cut up into segments and centrifuged, pieces containing tandemly repetitive sequences will form a *band* separate from the rest of the DNA segments
+							- ![[tandemly_repetitive_DNA.png]]
+					- interspersed: accounts for 25-40% of mammalian DNA
+						- length varies from 100-10,000 base pairs
+						- scattered throughout genome unlike tandemly repetitive DNA, which occurs one after the other
+							- often, dispersed sequences similar rather than identical to each other
+							- ![[interspersed_repetitive_DNA.png]]
+	- scientists can determine whether or not a sequence of DNA has multiple copies by denaturing the DNA + observing how fast the strands reanneal
+		- DNA sequences that contain multiple repeats reanneal faster than sequences that exist as a single copy
+
 - ### 6.9.3: Eukaryotic Genomic Organization: Gene Families
+	- gene families: repeating DNA sequences that code for identical or very similar RNA products, located close together on a chromosome
+		- 3 examples:
+			- *Alu* gene family
+				- multiple copies of gene, each 300 base pairs long, transcribe for an RNA molecule
+			- ribosomal RNA (rRNA) gene families
+				- ![[rRNA gene families.png]]
+					- 1. strand at top of illustration = DNA template that codes for rRNA gene family
+					- 2. strand of mRNA transcribed (2nd strand in img); RNA transcript contains related genes coding for rRNA; copies separated by noncoding spacer sequences
+					- 3. RNA processing yields 3 rRNA molecules: 18S, 5.8S, and 28S (S strands for respective sedimentation rates in an [[ultracentrifuge]]; larger molecules sediment at slower speeds)
+				- present in multiple copies since cell has high demand for ribosomal RNA
+			- globin gene families
+
 - ### 6.9.4: Eukaryotic Genomic Organization: Transposons and Amplified Genes
+	- gene families thought to have arisen from duplication of a parent gene
+	- [[pseudogenes]]: copies of existing genes that lack regulatory sequences like promoters + often found in [[gene families]]
+	- [[gene amplification]] takes place when many copies of a gene = synthesized in order to increase production of the gene product
+		- examples:
+			- salamander eggs
+				- before fertilization, millions of copies of rRNA genes are synthesized
+				- amplified genes exist as tiny DNA circles separate from the chromosome
+				- after fertilization, copies become active and act as template for rRNA transcription
+				- newly developing embryo needs multitude of rRNA in order to synthesize vast amt of protein products it'll require
+			- cancer cells
+				- [[gene amplification]] may occur in cancer cells of patients who have undergone chemotherapy; drugs kill many cells, but some are resistant
+					- cells have been found to contain amplified sequences of the genes responsible for drug resistance
+	- [[transposons]]: segments of DNA that're capable of moving within a genome
+		- make up over 50% of corn genome
+			- ![[transposons diagram.png]]
+		- general transposon contains DNA sequence coding for enzyme [[transposase]] that's flanked by [[inverted repeats]]
+			- [[transposase]] functions by making staggered cuts within a strand of DNA + allowing a copy of the entire transposon sequence to be inserted into the cut site
+	- [[retrotransposons]]: product [[reverse transcriptase]], which can make a new copy of DNA from RNA and insert it into the genome
+		- ![[retrotransposons.png]]
+		- transposons that move by means of an RNA intermediate that's formed from a transcript of the retrotransposon DNA
+		- to be inserted into genome, RNA intermediate must be converted back to DNA
+			- accomplished by enzyme [[reverse transcriptase]] (which is coded for in the retrotransposon)
+			- another enzyme that's coded for in the retrotransposon will insert resulting DNA into new site
 
 ## 6.10: Controlling Protein Synthesis in Eukaryotes
 - ### 6.10.1: Eukaryotic Gene Control: Transcriptional Controls
