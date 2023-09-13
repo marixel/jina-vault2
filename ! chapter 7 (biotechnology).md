@@ -95,6 +95,14 @@
 	- [[reverse transcriptase]] can also be used as a tool in [[biotechnology]]
 - ### 7.2.2: Using Reverse Transcriptase to make cDNA
 	- **review**: during [[transcription]], a strand of RNA is synthesized from a DNA template
+		- in eukaryotes, non-coding regions called [[introns]] must be removed from the RNA strand in order for it to coded for a functional protein
+	- as a lab technique, [[reverse transcriptase]] can be used to make DNA from RNA. the DNA that results from an RNA template = [[cDNA]] or "complementary DNA", which is must shorter than the og gene bc it lacks introns
+	- in a [[DNA microarray assay]] researchers can test for gene expression in a particular tissue
+	- a [[cDNA]] library is a collection of many bacterial cell clones, each containing a gene that was expressed in the tissue from which mRNA was collected
+	- ![[Pasted image 20230913161422.png]]
+		- gene for the clotting protein, factor VIII, is made up of 186,000 base pairs
+		- RNA that it codes for has 9000 base pairs
+		- part of the reason that the actual gene has so many more base pairs than the RNA is because of the presence of introns 
 - ### 7.2.3: Electrophoresis: Separating DNA
 - ### 7.2.4: Sequencing DNA: The Sanger Method
 
