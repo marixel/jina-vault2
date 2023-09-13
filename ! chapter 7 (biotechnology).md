@@ -233,7 +233,23 @@
 		- Several VNTR’s must be compared in order to reduce the odds that two people will have the same fingerprint. For example, if the odds of two people having the same VNTR were one in forty and remained constant, the odds of two people having six identical VNTRs would be one in 4,096,000,000 (1/40 x 1/40 x 1/40 x 1/40 x 1/40 x 1/40)! 
 		- If after several VNTRs have been compared and George’s DNA matches, then the chances are remarkably high that it was George’s blood on the glove. See you later George!
 - ### 7.3.4: Southern Blotting
+	- [[southern blotting]] is a laboratory technique for DNA visualization that was developed by E. M. Southern in 1975
+	- The process of Southern blotting involves the transfer of DNA segments from an [[electrophoresis]] gel to a sheet of nylon paper (or nitrocellulose membrane) and hybridizing the segments with a radioactive probe.
+	- By taking an [[autoradiogram]] of the nylon paper, a photographic negative will reveal locations of the bands of DNA that contain the target sequence.
+	- Southern blotting is a procedure used in conjunction with many other techniques in biotechnology, such as [[RFLP analysis]] and [[DNA fingerprinting]].
+	- ![[visualize-dna-bands-using-southern-blotting.png]]
+		- Specific DNA segments within an [[electrophoresis]] gel can be visualized with the [[Southern blotting]] technique.
+		- Suppose that you want to find out which of the bands in the gel to the left contain the sequence AAATTT.
+	- ![[southern-blotting-process-for-dna-visualization.png]]
+		- Southern blotting can be used to determine which of the bands in the gel to the left contain the sequence AAATTT.
+		- The gel is placed into a container that has special buffers and chemicals that are able to denature the DNA. The gel is then placed onto a platform that is covered with filter paper within the container. A positively charged piece of membranous paper (nylon or nitrocellulose) is placed on top of the gel. A stack of paper towels is placed on top of the charged paper and weight is applied.
+		- As solution is drawn up through the layers of paper, DNA is transferred from the gel to the charged nylon membrane. The DNA within the membrane is denatured by the solution, which results in bands of single stranded DNA positioned as they were in the gel.
+	![[autoradiography-for-dna-probe-hybridization.png]]
+		- To visualize the specific sequence of DNA, the membrane is placed in a plastic bag containing a [[radioactive DNA probe]]. The probe, with a sequence complimentary to the target sequence (in this case TTTAAA), is allowed to hybridize with the DNA. The membrane is then rinsed to wash off excess unhybridized probe.
+		- In a process called [[autoradiography]], the membrane is exposed to film paper. Wherever the radioactive probe hybridizes with DNA containing a complimentary sequence, there will be a corresponding image on the film paper.
 - ### 7.3.5: Detecting DNA Homology: A Biotechnology Summary
+	- Various techniques are employed in biological research projects
+	- Mr. Wolfe’s research determined whether the level of DNA homology between the antennapedia gene in Drosophila melanogaster and the antennapedia gene in the Nasonia wasp. This project employed the use of a plasmid from a gene library, restriction enzymes, and Southern blotting.
 ## 7.4: Human Genome Project
 - ### 7.4.1: The Human Gene Pool
 - ### 7.4.2: The Human Genome Project: Recent Findings
