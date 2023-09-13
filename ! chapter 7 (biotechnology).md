@@ -12,7 +12,6 @@
 			- antibiotic resistance: fungi produce chemicals called [[antibiotics]] that're able to kill bacteria (a natural competitor). bacteria that have a resistance plasmid are able to overcome specific antibiotics
 			- **toxins**: some of the chemicals that bacteria produce can cause a person who has a bacterial infection to be ill; many of these chemicals are encoded in plasmids
 			- **protective proteins**: some bacteria have protective protein coats that are encoded in plasmids
-
 - ### 7.1.2: Using a Restriction Enzyme to Create a Vector
 	- researchers can create specialized [[plasmids]] with a gene of interest inserted into them; these plasmids may then be placed into bacterial cells where they will be expressed
 	- [[restriction enzymes]] or restriction [[endonucleases]] are enzymes that bacteria produce in order to cut foreign DNA  as a defense mechanism
@@ -58,6 +57,24 @@
 		- plasmids w/ DNA insertions are placed into bacteria, which must then be screened for the presence of the gene of interest
 		- 
 - ### 7.1.4: Biotechnology: Detection of Cell Clones
+	- as bacteria containing [[plasmids]] w/ inserted genes multiply, cell [[clones]] are produced
+		- clones must be screened in order to determine which clones have plasmids containing the gene of interest
+		- ![[screening-for-gene-of-interest.png]]
+			- cells being screened for gene of interest must be cultured and then transferred to filter
+				- cells must then be denatured to expose the DNA and separate the complementary strands of the DNA
+			- DNA on filter then exposed to DNA probe
+				- if probe matches sequence on the filter, then it'll hybridize to the DNA by complementary base pairing
+				- filter must then be rinsed to wash off all excess unhybridized probe
+			- filter then exposed to photographic film, which shows spots where it's been exposed to radioactive probes
+				- images on film correspond to cells that contain gene of interest
+	- shotgun approach to detecting bacteria for gene of interest = testing each colony for presence of gene or gene product of interest
+		-  this method can be used to screen bacteria for presence of particular gene
+		- [[DNA probe]]: synthesized segment of radioactively labeled DNA (or RNA) used to find a gene of interest
+			- ![[DNA-probe.png]]
+				- can be constructed using DNA segments containing [[radioisotope]]s (which give off radiation that can be detected on film)
+				- sequence of a portion of the gene of interest must be known to construct probe segment that'll base-pair with a single strand of DNA
+			- radioactive DNA probes can be constructed for the detection for specific DNA sequences within cells
+			- will hybridize w/ complementary sequence of DNA, allowing it to be distinguished from other DNA sequences
 ## 7.2: Techniques in Biotechnology
 - ### 7.2.1: Biotechnology: Reverse Transcriptase: A Tool Taken from Viruses
 - ### 7.2.2: Using Reverse Transcriptase to make cDNA
