@@ -36,7 +36,7 @@
 
 - ### 6.1.3: Griffith and Transformation
 	- 1928: [[Frederick Griffith]] performed series of experiments w/ 2 strains of *Pneumococcus* bacteria
-	- ![[Pasted image 20230816083107.png]]
+	- ![[example - S cells vs R cells.png]]
 		- smooth (S) strain: known to be [[virulent]] (deadly)
 			- smooth colony type; mice die when injected
 			- when heated/killed + injected, mice live (causes chemical change)
@@ -82,7 +82,7 @@
 			- 3 sets of data:
 				- 1. chargaff's rules: erwin chargaff found that the amt of adenine and thymine are equal (and the amount of guanine and cytosine) are equal within a species
 				- 2. repetitive amt ratios: franklin & wilkins' data showed that some element repeated every 0.34 nm and another repeated every 3.4 nm
-				- ![[Pasted image 20230816123533.png]]
+				- ![[3 things we know abt DNA.png]]
 					- molecule ~2nm wide
 					- prob ties into chargaff's rules
 				- 3. shape of molecule: based on [[diffraction]] pattern, DNA molecule appeared helical in shape
@@ -101,7 +101,7 @@
 	- 4/25/1953: Watson and Crick's article "The Molecular Structure of Nucleic Acids: A Structure for DNA" appeared in journal *Nature*
 		- understanding DNA structure enabled scientists to start untanglingg *process of how DNA serves as genetic material for cells*
 	- DNA = described as a double helix bc composed of 2 [[nucleotide]] strands wound around each other
-	- ![[Pasted image 20230817024531.png]]
+	- ![[DNA components and properties.png]]
 		- (a): single nucleotide subunit
 			- phosphate group, deoxyribose sugar, and 1 of 4 nitrogenous bases
 			- carbons of sugar = numbers 1-5
@@ -206,7 +206,7 @@
 	- when growing [[lagging strand]] reaches end of molecule, last few DNA molecules can't be added
 		- after RNA primer = removed, [[DNA polymerases]] can't fill gap w/ DNA bc DNA polymerase has no 3' OH end to attach to
 		- DNA molecules shorten after each round of replication
-			- ![[Pasted image 20230821143722.png]]
+			- ![[telomeres.png]]
 		- to avoid loss of genetic material, ends of DNA consist of long, repeating nucleotide strands called [[telomeres]] that don't code for cell products
 		- [[telomeres]]: 
 			- protect coding sequences of DNA
@@ -222,7 +222,7 @@
 	- [[DNA]] consists of double helix of nucleotide strands (nucleotide subunit composed of sugar, phosphate, and either a purine or pyrimidine base)
 		- within a strand, [[phosphodiester]] bonds join the nucleotides
 			- sugars and phosphates form strand backbone
-			- ![[Pasted image 20230822091134.png]]
+			- ![[sugars and phosphates as backbone.png]]
 		- between strands, specific [[base pairing]] occurs
 		- ![[Pasted image 20230822091114.png]]
 			- adenine and guanine = [[pyrimidine]]s (purines bond w/ pyrimidines)
@@ -336,7 +336,7 @@
 		- anticodon = contains complementary sequences to 3 bases on mRNA strand
 		- mistake could lead to defective protein (so problems in cell function)
 	- process of *charging* a [[tRNA]] molecule involves bonding a tRNA molecule w/ a specific amino acid
-		- ![[Pasted image 20230906151101.png]]
+		- ![[enzymes and amino acid specif..png]]
 		- process by which [[aminoacyl-tRNA synthetase]] joins specific amino acid to a [[tRNA]] molecule
 			- 1. active site of enzyme binds amino acid and an atp molecule
 			- 2. atp loses 2 phosphate groups and attaches to amino acid as [[adenosine monophosphate]] (AMP)
