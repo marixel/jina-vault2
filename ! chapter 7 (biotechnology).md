@@ -197,15 +197,37 @@
 		- In 1993, Mullis was awarded the Nobel Prize in chemistry for his development of PCR
 		- PCR is a technique that amplifies a segment of DNA into millions, even billions of copies in a short period of time
 	- ![[dna-amplification-using-taq-polymerase.png]]
-		- A segment of DNA can be amplified, or made into many copies. First the DNA segment to be amplified must be denatured into single strands. A primer, DNA polymerase, and all four nucleotides must then be added. DNA polymerase will build a new strand of DNA that is complimentary to the single strand of DNA. The problem with this method is that the temperature required to denature DNA will also denature DNA polymerase. A bacteriologist by the name of Thomas Brock studied a bacterium that lives in the hot springs of Yellowstone National Park. This bacterium, Thermus aquaticus, exists in a high temperature environment and uses a DNA polymerase that can withstand such temperatures. The DNA polymerase derived from T. aquaticus is referred to as Taq polymerase.
+		- A segment of DNA can be amplified, or made into many copies. First the DNA segment to be amplified must be denatured into single strands. 
+			- A primer, [[DNA polymerase]], and all four nucleotides must then be added. DNA polymerase will build a new strand of DNA that is complimentary to the single strand of DNA. 
+		- The problem with this method is that the temperature required to denature DNA will also denature DNA polymerase. 
+		- A bacteriologist by the name of Thomas Brock studied a bacterium that lives in the hot springs of Yellowstone National Park. 
+			- This bacterium, *[[Thermus aquaticus]]*, exists in a high temperature environment and uses a DNA polymerase that can withstand such temperatures. 
+				- The DNA polymerase derived from [[T. aquaticus]] is referred to as Taq polymerase.
 	- ![[kary-mullis-pcr-method-with-taq-polymerase.png]]
-		- Kary Mullis developed the polymerase chain reaction ([[PCR]]), the method for DNA amplification that employs [[Taq polymerase]] and won a Nobel prize in 1993 for his work. The DNA segment to be amplified is mixed with Taq polymerase, nucleotides, and primer and is then heated up. The DNA segment denatures and the mixture is allowed to cool. As it cools, the primer binds to the DNA strand and Taq polymerase synthesizes a strand of DNA complimentary to the single strand. We have now doubled our DNA
+		- Kary Mullis developed the polymerase chain reaction ([[PCR]]), the method for DNA amplification that employs [[Taq polymerase]] and won a Nobel prize in 1993 for his work. 
+		- The DNA segment to be amplified is mixed with Taq polymerase, nucleotides, and primer and is then heated up. 
+		- The DNA segment denatures and the mixture is allowed to cool. 
+		- As it cools, the primer binds to the DNA strand and Taq polymerase synthesizes a strand of DNA complimentary to the single strand. 
+			- We have now doubled our DNA
 	- ![[multiple-rounds-of-dna-amplification.png]]
 		- The doubled DNA strands may then undergo this process again. The DNA is denatured and the reaction mixture cools. 
 			- While cooling, the primer attaches to the single strands of DNA and Taq polymerase builds a new strand. 
 			- The DNA strands have been doubled again! 
 		- If the mixture is heated up and cooled repeatedly, and there are enough primer segments and nucleotides present in the mixture, this process can create millions of DNA segments from a single piece of DNA in a relatively short period of time.
+
 - ### 7.3.3: DNA Fingerprinting
+	- Tandem repeats are repeating sequences of DNA (such as the sequence 5’ CATCATCATCAT 3’). 
+		- Variable number tandem repeats ([[VNTRs]]) are repeating sequences of DNA that vary in their number of repeating units between individuals. 
+	- VNTRs can be used to differentiate between the DNA of individuals in a process known as DNA fingerprinting.
+	- In a typical DNA fingerprint, several VNTR markers are compared in order to decrease the odds that more than one person will have identical DNA fingerprints.
+	- ![[sample-of-blood-extracted-and-vntr-amplified.png]]
+		- A sample of blood is extracted from a glove at a crime scene and placed in a test tube. A specific variable number tandem repeat (VNTR) sequence is amplified using the polymerase chain reaction technique.
+	- ![[vntr-amplification-from-suspect-blood-samples.png]]
+		- A sample of blood is taken from the two suspects (you and George). The same VNTR that was amplified from blood at the crime scene is amplified in each of the suspect’s samples. George’s VNTR has 12 repeating units, while your sample has 3 repeating units.
+	- ![[gel-electrophoresis-for-vntr-separation-and-matching.png]]
+		- Each of the amplified VNTR samples is separated using gel electrophoresis. Remember: small DNA molecules move more quickly in the gel than large DNA molecules; thus, small molecules will travel farther in the gel within a given period of time. It looks like George is a match! But George isn’t guilty yet! A single VNTR is not typically sufficient to prove anything because the odds that two people have the same VNTR can be relatively high (for example, one in forty).
+	- ![[multiple-vntr-comparison-for-identifying-suspect.png]]
+		- Several VNTR’s must be compared in order to reduce the odds that two people will have the same fingerprint. For example, if the odds of two people having the same VNTR were one in forty and remained constant, the odds of two people having six identical VNTRs would be one in 4,096,000,000 (1/40 x 1/40 x 1/40 x 1/40 x 1/40 x 1/40)! If after several VNTRs have been compared and George’s DNA matches, then the chances are remarkably high that it was George’s blood on the glove. See you later George!
 - ### 7.3.4: Southern Blotting
 - ### 7.3.5: Detecting DNA Homology: A Biotechnology Summary
 ## 7.4: Human Genome Project
