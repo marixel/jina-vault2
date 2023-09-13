@@ -196,6 +196,15 @@
 		- This method overcame the problem of denaturing DNA polymerase at high temperatures by using the DNA polymerase of [[T. aquaticus]]
 		- In 1993, Mullis was awarded the Nobel Prize in chemistry for his development of PCR
 		- PCR is a technique that amplifies a segment of DNA into millions, even billions of copies in a short period of time
+	- ![[dna-amplification-using-taq-polymerase.png]]
+		- A segment of DNA can be amplified, or made into many copies. First the DNA segment to be amplified must be denatured into single strands. A primer, DNA polymerase, and all four nucleotides must then be added. DNA polymerase will build a new strand of DNA that is complimentary to the single strand of DNA. The problem with this method is that the temperature required to denature DNA will also denature DNA polymerase. A bacteriologist by the name of Thomas Brock studied a bacterium that lives in the hot springs of Yellowstone National Park. This bacterium, Thermus aquaticus, exists in a high temperature environment and uses a DNA polymerase that can withstand such temperatures. The DNA polymerase derived from T. aquaticus is referred to as Taq polymerase.
+	- ![[kary-mullis-pcr-method-with-taq-polymerase.png]]
+		- Kary Mullis developed the polymerase chain reaction ([[PCR]]), the method for DNA amplification that employs [[Taq polymerase]] and won a Nobel prize in 1993 for his work. The DNA segment to be amplified is mixed with Taq polymerase, nucleotides, and primer and is then heated up. The DNA segment denatures and the mixture is allowed to cool. As it cools, the primer binds to the DNA strand and Taq polymerase synthesizes a strand of DNA complimentary to the single strand. We have now doubled our DNA
+	- ![[multiple-rounds-of-dna-amplification.png]]
+		- The doubled DNA strands may then undergo this process again. The DNA is denatured and the reaction mixture cools. 
+			- While cooling, the primer attaches to the single strands of DNA and Taq polymerase builds a new strand. 
+			- The DNA strands have been doubled again! 
+		- If the mixture is heated up and cooled repeatedly, and there are enough primer segments and nucleotides present in the mixture, this process can create millions of DNA segments from a single piece of DNA in a relatively short period of time.
 - ### 7.3.3: DNA Fingerprinting
 - ### 7.3.4: Southern Blotting
 - ### 7.3.5: Detecting DNA Homology: A Biotechnology Summary
