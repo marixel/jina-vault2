@@ -77,7 +77,24 @@
 			- will hybridize w/ complementary sequence of DNA, allowing it to be distinguished from other DNA sequences
 ## 7.2: Techniques in Biotechnology
 - ### 7.2.1: Biotechnology: Reverse Transcriptase: A Tool Taken from Viruses
+	- [[reverse transcriptase]]: enzyme that makes DNA from an RNA template
+	- [[retroviruses]]: depend on reverse transcriptase to propagate themselves within a host cell
+		- ![[visualizing-retroviruses.png]]
+		- exception to the 'central dogma of biology'
+		- can make DNA from RNA using reverse transcriptase. examples:
+			- HIV
+				- ![[HIV-visualization.png]]
+				- beginning at top of diagram, [[HIV]] enters cell and uses reverse transcriptase to make a DNA strand from its RNA
+				- synthesized DNA strand is then used as a template to make complementary strand of DNA
+				- double-stranded DNA segment will then enter the nucleus of the host cell and integrate into the host chromosome
+					- in the nucleus, RNA is transcribed from the viral DNA
+				- after being translated by cell, viral RNA directs synthesis of viral protein, such as reverse transcriptase, and components of the viral coat
+					- new viruses then assembled and bud off of the host cell
+			- common cold
+	- [[HIV]] (Human Immunodeficiency Virus), the virus that causes [[AIDS]], is a retrovirus that uses reverse transcriptase to multiply itself within a host cell
+	- [[reverse transcriptase]] can also be used as a tool in [[biotechnology]]
 - ### 7.2.2: Using Reverse Transcriptase to make cDNA
+	- **review**: during [[transcription]], a strand of RNA is synthesized from a DNA template
 - ### 7.2.3: Electrophoresis: Separating DNA
 - ### 7.2.4: Sequencing DNA: The Sanger Method
 
