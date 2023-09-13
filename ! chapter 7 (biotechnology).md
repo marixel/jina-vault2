@@ -170,6 +170,22 @@
 		- Based on the results in the gel, the sequence following the primer is GTACT.
 ## 7.3: More Techniques in Biotechnology
 - ### 7.3.1: Restriction Fragment Length Polymorphisms: Genetic Markers
+	- Restriction Fragment Length Polymorphisms ([[RFLPs]]) are differences in homologous sequences of DNA that can be detected between individuals
+	- RFLP analysis involves exposing homologous segments of DNA to a restriction enzyme and separating the resulting fragments by [[electrophoresis]]
+	- Since RFLPs result from differences in DNA sequences, they can be passed along to offspring
+	- RFLPs that are associated with particular genes can serve as [[genetic markers]] for those genes
+	- ![[restriction-fragment-length-polymorphisms.png]]
+		- Restriction fragment length poly-morphisms are small differences in DNA sequences between individuals. RFLPs are detected by examining the different restriction fragments that result after exposure to the same restriction enzyme. When two homologous pieces of DNA have different restriction fragments after exposure to restriction enzyme, the pieces are said to be polymorphic.
+	- ![[single-base-pair-mutation-in-rflp-patterns.png]]
+		- A single base-pair mutation can cause a difference in RFLP patterns
+		- In the diagram to the left, DNA piece 1 has two restriction enzyme cut sites
+		- Three fragments of DNA will result after the DNA is exposed to the restriction enzyme: fragments w, x, and y
+		- As seen in DNA piece 2, the difference in a single base pair causes a restriction enzyme cut site to be lost
+			- Now only two fragments of DNA will result after the DNA is exposed to restriction enzyme: fragments y and z
+	- ![[rflps-as-genetic-markers-for-disease.png]]
+		- RFLPs can be passed to offspring like genes and can be used as genetic markers for particular genes
+		- For example, a particular RFLP could be linked to a disease, such as cystic fibrosis
+		- If the RFLP is found in all carriers of cystic fibrosis, then it can be used as a genetic marker for that disease.
 - ### 7.3.2: Polymerase Chain Reaction: DNA Amplification
 - ### 7.3.3: DNA Fingerprinting
 - ### 7.3.4: Southern Blotting
