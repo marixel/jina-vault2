@@ -175,7 +175,9 @@
 	- Since RFLPs result from differences in DNA sequences, they can be passed along to offspring
 	- RFLPs that are associated with particular genes can serve as [[genetic markers]] for those genes
 	- ![[restriction-fragment-length-polymorphisms.png]]
-		- Restriction fragment length poly-morphisms are small differences in DNA sequences between individuals. RFLPs are detected by examining the different restriction fragments that result after exposure to the same restriction enzyme. When two homologous pieces of DNA have different restriction fragments after exposure to restriction enzyme, the pieces are said to be polymorphic.
+		- Restriction fragment length polymorphisms ([[RFLPs]]) are small differences in DNA sequences between individuals
+		- RFLPs are detected by examining the different restriction fragments that result after exposure to the same [[restriction enzyme]]
+		- When two homologous pieces of DNA have different restriction fragments after exposure to restriction enzyme, the pieces are said to be polymorphic.
 	- ![[single-base-pair-mutation-in-rflp-patterns.png]]
 		- A single base-pair mutation can cause a difference in RFLP patterns
 		- In the diagram to the left, DNA piece 1 has two restriction enzyme cut sites
@@ -183,10 +185,17 @@
 		- As seen in DNA piece 2, the difference in a single base pair causes a restriction enzyme cut site to be lost
 			- Now only two fragments of DNA will result after the DNA is exposed to restriction enzyme: fragments y and z
 	- ![[rflps-as-genetic-markers-for-disease.png]]
-		- RFLPs can be passed to offspring like genes and can be used as genetic markers for particular genes
+		- RFLPs can be passed to offspring like genes and can be used as [[genetic markers]] for particular genes
 		- For example, a particular RFLP could be linked to a disease, such as cystic fibrosis
-		- If the RFLP is found in all carriers of cystic fibrosis, then it can be used as a genetic marker for that disease.
+			- If the RFLP is found in all carriers of cystic fibrosis, then it can be used as a genetic marker for that disease.
 - ### 7.3.2: Polymerase Chain Reaction: DNA Amplification
+	- Many copies of a DNA segment can be made through the process of denaturing the DNA segment and then polymerizing the new strand using [[DNA polymerase]]
+		- In the past this process was difficult because the heat required to denature DNA would also denature DNA polymerase
+	- Thomas Brock found that the DNA polymerase of the bacterium T. aquaticus would not denature at high temperatures
+	- Building on Brock’s findings, Kary Mullis developed the method of DNA amplification known as [[PCR]] (polymerase chain reaction)
+		- This method overcame the problem of denaturing DNA polymerase at high temperatures by using the DNA polymerase of [[T. aquaticus]]
+		- In 1993, Mullis was awarded the Nobel Prize in chemistry for his development of PCR
+		- PCR is a technique that amplifies a segment of DNA into millions, even billions of copies in a short period of time
 - ### 7.3.3: DNA Fingerprinting
 - ### 7.3.4: Southern Blotting
 - ### 7.3.5: Detecting DNA Homology: A Biotechnology Summary
