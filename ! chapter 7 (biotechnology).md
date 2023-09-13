@@ -1,11 +1,63 @@
 
 ## 7.1: Plasmids and Gene Cloning
 - ### 7.1.1: Biotechnology: Plasmids in Prokaryotes
-	- 
-- ### 7.1.2: Using a Restriction Enzyme to Create a Vector
-- ### 7.1.3: Biotechnology: Gene Cloning
-- ### Biotechnology: Detection of Cell Clones
+	- [[biotechnology]]: the utilization of organisms and their components to perform functional tasks in research + to make products that are useful to humans
+	- [[plasmids]]: small, circular pieces of DNA that're separate from bacterial [[chromosome]] and can carry [[genes]] that encode proteins w/ specific functions; self replicating
+		- ![[plasmid_diagram.png]]
+		- can code for:
+			- the ability to form [[pili]], which are involved in [[bacterial conjugation]]
+				- conjugation: process by which genetic material is transferred between two bacteria
+				- plasmid can encode for a [[bacterium]]'s ability to form a [[pilus]] (plural: pili), which is a structure that connects two bacteria together and allows for the transfer of DNA from one bacterium to the other
+				- ![[bacterial-conjugation-simple.png]]
+			- antibiotic resistance: fungi produce chemicals called [[antibiotics]] that're able to kill bacteria (a natural competitor). bacteria that have a resistance plasmid are able to overcome specific antibiotics
+			- **toxins**: some of the chemicals that bacteria produce can cause a person who has a bacterial infection to be ill; many of these chemicals are encoded in plasmids
+			- **protective proteins**: some bacteria have protective protein coats that are encoded in plasmids
 
+- ### 7.1.2: Using a Restriction Enzyme to Create a Vector
+	- researchers can create specialized [[plasmids]] with a gene of interest inserted into them; these plasmids may then be placed into bacterial cells where they will be expressed
+	- [[restriction enzymes]] or restriction [[endonucleases]] are enzymes that bacteria produce in order to cut foreign DNA  as a defense mechanism
+		- ![[bacteriophage-inserting-DNA.png]]
+			- [[bacteriophage]] (bacterial virus) inserting its DNA into a bacterial chromosome
+			- to defend itself, bacterium uses [[restriction enzymes]] to cut the foreign DNA
+			- once cut, DNA will be further broken down and used as building blocks for the bacterium's own use
+		- cut DNA only at a specific sequence and most restriction enzymes make staggered cuts
+		- resulting fragments have [[sticky ends]], which will be able to come back together due to of complementary base pairing between strands
+		- biotechnologists often use the restriction enzyme [[EcoR1]], which makes a staggered cut at a specific sequence of DNA and results in sticky ends\
+			- ![[EcoR1-diagram.png]]
+				- diagram shows the cut that [[EcoR1]] makes
+				- notice staggered cut at sequence GAATTC
+					- only sequence that EcoR1 recognizes
+			- named after E. coli strain R1
+			- joining of fragments enabled by pairing of complementary nucleotides w/ any end that's formed from an EcoR1 cut
+		- [[restriction enzymes]] are often used to insert a gene of interest into a plasmid
+			- first, plasmid and gene of interest must be cut w/ same restriction enzyme (ex. EcoR1 in diagram below)
+			- cut plasmid and gene of interest then mixed together w/ enzyme [[ligase]] and allowed to come together
+			- ![[EcoR1-insertion-into-plasmid.png]]
+- ### 7.1.3: Biotechnology: Gene Cloning
+	- [[gene cloning]]: process by which multiple copies of a gene are produced
+		- ![[gene-cloning.png]]
+			- in diagram, bacterial plasmids that has a resistance gene (amp^R) is cut w/ a particular [[restriction enzymes]] (sing.)
+				- at cut site is the lacZ gene.
+			- DNA, w/ the human insulin gene somewhere in it, is cut w/ the same restriction enzyme
+				- cut plasmids and cut DNA mixed tegether w/ [[ligase]], allowing [[sticky ends]] to connect and ligate
+			- ![[gene-cloning-result.png]]
+				- resulting plasmids put into bacteria by adding chemical such as calcium sulfate, which makes membrane more soluble
+				- bacteria screened for presence of plasmid by being grown on a medium with [[ampicillin]]
+					- bacteria that have plasmid will be resistant to [[ampicillin]]
+				- bacteria then screened for presence of a gene inserted into the plasmid
+					- if gene has been inserted into plasmid, then the lacZ gene (located at cut site) won't be functional
+					- if no gene has been inserted into plasmid, lacZ will be fnctional
+						- if lacZ = functional in plasmid, will cause color change in the medium if certain chemicals are used
+						- bacteria that don't cause a color change are the ones that have a gene inserted into the plasmid
+					- once bacteria have been screened for the presence of the plasmid and for the presence of a gene insert in the plasmid, the bacteria are then screened for the specific gene 
+		- involves cutting genes out of a chromosome and inserting them into [[plasmids]], which can then be placed into bacteria, which will divide, forming multiple copies of gene
+		- bacterial will also be able to express gene and form gene product
+		- good plasmid for gene cloning must have particular restriction sites + genes that make it easily detectable
+		- plasmid and gene of interest must both be cut w/ same restriction enzyme in order to create complimentary [[sticky ends]]
+			- joining together of sticky ends allows gene to be easily inserted into the plasmids
+		- plasmids w/ DNA insertions are placed into bacteria, which must then be screened for the presence of the gene of interest
+		- 
+- ### 7.1.4: Biotechnology: Detection of Cell Clones
 ## 7.2: Techniques in Biotechnology
 - ### 7.2.1: Biotechnology: Reverse Transcriptase: A Tool Taken from Viruses
 - ### 7.2.2: Using Reverse Transcriptase to make cDNA
