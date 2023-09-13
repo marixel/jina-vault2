@@ -136,7 +136,38 @@
 		- The illustration to the left shows the bands resulting from the separation of various plasmids exposed to restriction enzymes
 		- Comparing the bands of DNA, we find that the original plasmids must have differed in size
 - ### 7.2.4: Sequencing DNA: The Sanger Method
-
+	- The sequence of DNA strands can be determined through use of the Sanger method for DNA sequencing, developed by Frederick Sanger
+	- The Sanger method of DNA sequencing involves the use of DNA polymerase to make a strand of DNA that is complementary to the strand of DNA to be sequenced
+		- DNA polymerase builds a nucleotide chain by adding new nucleotides to a DNA strand at its terminal 3’ OH group
+	- Dideoxyribonucleotides are nucleotides that lack two oxygens. 
+		- Once incorporated into a DNA strand, they can block further DNA synthesis because they lack a 3’ OH group
+		- Without a 3’ OH group, the DNA polymerase cannot add another nucleotide
+	- ![[nucleotide-attachment-by-dna-polymerase.png]]
+		- The diagram to the left shows two nucleotides
+			- Note both nucleotides have an OH group on the 3’carbon
+		- [[DNA polymerase]] is an enzyme that builds a polymer of DNA by adding a nucleotide to the 3’ OH group of another nucleotide or DNA strand
+		- The dashed line represents the attachment that will be made between the two nucleotides.
+	- ![[inhibiting-dna-strand-extension-with-dideoxynucleotide-ddntp.png]]
+		- A dideoxynucleotide (ddNTP) lacks the 3’ OH group
+		- When it is incorporated into a DNA strand, the strand cannot be lengthened
+		- DNA polymerase will not have the 3’ OH group to add a nucleotide
+	- ![[dna-sequencing-by-dideoxy-chain-termination-method.png]]
+		- To determine the sequence of a strand of DNA, four separate test tubes are prepared
+		- Each test tube contains the following: 
+			1. The unknown DNA 
+			2. Regular nucleotides: dATP, dTTP, dGTP, and dCTP 
+			3. DNA polymerase 
+			4. DNA primer (in this case it is ATAA) 
+		- In each test tube, one of the four different dideoxynucleotides is also added: ddATP, ddGTP, ddCTP, and ddTTP
+			- The complementary strand of DNA is synthesized until a dideoxynucleotide is added
+			- The strands that result from each tube are shown in the lower portion of the diagram
+	- ![[dna-sequence-determination-by-gel-electrophoresis.png]]
+		- When the reaction mixtures have completed polymerization, the DNA strands from each tube are separated by gel electrophoresis
+		- In this example, note that the shortest fragment was in the GTP lane of the gel
+			- G is the first base in the new DNA strand
+			- The next shortest fragment is in the T lane
+			- Therefore, T is the second base in the DNA strand.
+		- Based on the results in the gel, the sequence following the primer is GTACT.
 ## 7.3: More Techniques in Biotechnology
 - ### 7.3.1: Restriction Fragment Length Polymorphisms: Genetic Markers
 - ### 7.3.2: Polymerase Chain Reaction: DNA Amplification
