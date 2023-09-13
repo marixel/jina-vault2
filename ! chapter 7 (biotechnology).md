@@ -221,13 +221,17 @@
 	- VNTRs can be used to differentiate between the DNA of individuals in a process known as DNA fingerprinting.
 	- In a typical DNA fingerprint, several VNTR markers are compared in order to decrease the odds that more than one person will have identical DNA fingerprints.
 	- ![[sample-of-blood-extracted-and-vntr-amplified.png]]
-		- A sample of blood is extracted from a glove at a crime scene and placed in a test tube. A specific variable number tandem repeat (VNTR) sequence is amplified using the polymerase chain reaction technique.
+		- A sample of blood is extracted from a glove at a crime scene and placed in a test tube. 
+		- A specific variable number tandem repeat ([[VNTR]]) sequence is amplified using the [[polymerase chain reaction]] technique.
 	- ![[vntr-amplification-from-suspect-blood-samples.png]]
-		- A sample of blood is taken from the two suspects (you and George). The same VNTR that was amplified from blood at the crime scene is amplified in each of the suspect’s samples. George’s VNTR has 12 repeating units, while your sample has 3 repeating units.
+		- A sample of blood is taken from the two suspects (you and George). The same VNTR that was amplified from blood at the crime scene is amplified in each of the suspect’s samples. 
+		- George’s VNTR has 12 repeating units, while your sample has 3 repeating units.
 	- ![[gel-electrophoresis-for-vntr-separation-and-matching.png]]
-		- Each of the amplified VNTR samples is separated using gel electrophoresis. Remember: small DNA molecules move more quickly in the gel than large DNA molecules; thus, small molecules will travel farther in the gel within a given period of time. It looks like George is a match! But George isn’t guilty yet! A single VNTR is not typically sufficient to prove anything because the odds that two people have the same VNTR can be relatively high (for example, one in forty).
+		- Each of the amplified VNTR samples is separated using [[gel electrophoresis]]. Remember: small DNA molecules move more quickly in the gel than large DNA molecules; thus, small molecules will travel farther in the gel within a given period of time. 
+		- It looks like George is a match! But George isn’t guilty yet! A single VNTR is not typically sufficient to prove anything because the odds that two people have the same VNTR can be relatively high (for example, one in forty).
 	- ![[multiple-vntr-comparison-for-identifying-suspect.png]]
-		- Several VNTR’s must be compared in order to reduce the odds that two people will have the same fingerprint. For example, if the odds of two people having the same VNTR were one in forty and remained constant, the odds of two people having six identical VNTRs would be one in 4,096,000,000 (1/40 x 1/40 x 1/40 x 1/40 x 1/40 x 1/40)! If after several VNTRs have been compared and George’s DNA matches, then the chances are remarkably high that it was George’s blood on the glove. See you later George!
+		- Several VNTR’s must be compared in order to reduce the odds that two people will have the same fingerprint. For example, if the odds of two people having the same VNTR were one in forty and remained constant, the odds of two people having six identical VNTRs would be one in 4,096,000,000 (1/40 x 1/40 x 1/40 x 1/40 x 1/40 x 1/40)! 
+		- If after several VNTRs have been compared and George’s DNA matches, then the chances are remarkably high that it was George’s blood on the glove. See you later George!
 - ### 7.3.4: Southern Blotting
 - ### 7.3.5: Detecting DNA Homology: A Biotechnology Summary
 ## 7.4: Human Genome Project
