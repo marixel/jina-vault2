@@ -103,7 +103,38 @@
 		- gene for the clotting protein, factor VIII, is made up of 186,000 base pairs
 		- RNA that it codes for has 9000 base pairs
 		- part of the reason that the actual gene has so many more base pairs than the RNA is because of the presence of introns 
+	- ![[RVRSEtrnscrpts-in-DNA-from-RNA.png]]
+		- Reverse transcriptase can be used to make a DNA segment from RNA (as shown above)
+		- The DNA segment produced is called complementary DNA or cDNA 
+			- Complementary DNA is much shorter than the original gene because it lacks introns
+			- It can be cloned more easily in bacterial cells because they lack the ability to remove introns from RNA transcripts
+	- ![[DNA-microarray-assay.png]]
+		- In a DNA microarray assay, researchers test for the genes expressed in a particular tissue
+			- RNA is first extracted from a particular type of tissue and labeled with a fluorescent dye
+			- The labeled RNA segments are added to the DNA microarray (DNA fragments from specific genes fixed to a slide)
+			- If the sequences are complementary, the RNA/DNA complex will fluoresce
+			- Researchers have thus traced the RNA to the appropriate gene
+		- The RNA from the tissue can also be used to make cDNA
+			- Each cDNA that is produced from RNA can be placed into a plasmid and put into a bacterium to make a cDNA library
+			- The library produced will contain only genes expressed in the particular tissue from which it was constructed
 - ### 7.2.3: Electrophoresis: Separating DNA
+	- The process of [[electrophoresis]] separates DNA segments based on their rate of movement through a gel under an electric field
+		- This rate of movement is related to the size of the DNA segments. 
+	- Under an electric current, small molecules will travel through the gel more easily (and therefore faster) than larger molecules. 
+	- Electrophoresis provides scientists with a valuable tool for studying molecules such as DNA, RNA, and proteins.
+	- ![[electrophoresis.png]]
+		- Electrophoresis is a method used to separate DNA segments on the basis of their rate of movement through a gel under an electric field
+		- DNA has an overall negative charge
+		- A DNA mixture is placed within a well of an electrophoresis gel (as seen in the diagram to the left)
+		- The gel is within a box filled with a buffer solution
+		- Electrodes on opposite ends of the box form a current, which causes the DNA mixture to travel from the negative electrode (the cathode) down through the gel towards the positive electrode (the anode)
+	- ![[DNA-electrophoresis.png]]
+		- As the DNA travels down the gel, segments separate based on size
+		- Large segments move more slowly through the gel than smaller segments
+		- The resulting gel will have bands on it that represent DNA fragments of a particular size
+		- Electrophoresis can reveal much about the molecules in a particular mixture
+		- The illustration to the left shows the bands resulting from the separation of various plasmids exposed to restriction enzymes
+		- Comparing the bands of DNA, we find that the original plasmids must have differed in size
 - ### 7.2.4: Sequencing DNA: The Sanger Method
 
 ## 7.3: More Techniques in Biotechnology
