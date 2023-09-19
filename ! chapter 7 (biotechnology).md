@@ -250,6 +250,8 @@
 - ### 7.3.5: Detecting DNA Homology: A Biotechnology Summary
 	- Various techniques are employed in biological research projects
 	- Mr. Wolfe’s research determined whether the level of DNA homology between the antennapedia gene in Drosophila melanogaster and the [[antennapedia]] gene in the Nasonia wasp. This project employed the use of a [[plasmid]] from a [[gene library]], [[restriction enzymes]], and [[Southern blotting]].
+	- By establishing the DNA homologies between organisms, we can identify genetic links that can help in constructing phylogenies.
+	- • The mutation on the [[antennapedia]] gene in the fly Drosophila and in the Nasonia wasp causes legs to grow out of the head where antennae are supposed to be. This research project focused on determining whether the antennapedia genes between Drosophila and Nasonia have the same or similar DNA sequences.
 ## 7.4: Human Genome Project
 - ### 7.4.1: The Human Gene Pool
 - ### 7.4.2: The Human Genome Project: Recent Findings
