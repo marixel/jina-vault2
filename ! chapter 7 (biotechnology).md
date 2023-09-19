@@ -249,7 +249,7 @@
 		- In a process called [[autoradiography]], the membrane is exposed to film paper. Wherever the radioactive probe hybridizes with DNA containing a complimentary sequence, there will be a corresponding image on the film paper.
 - ### 7.3.5: Detecting DNA Homology: A Biotechnology Summary
 	- Various techniques are employed in biological research projects
-	- Mr. Wolfe’s research determined whether the level of DNA homology between the antennapedia gene in Drosophila melanogaster and the antennapedia gene in the Nasonia wasp. This project employed the use of a plasmid from a gene library, restriction enzymes, and Southern blotting.
+	- Mr. Wolfe’s research determined whether the level of DNA homology between the antennapedia gene in Drosophila melanogaster and the [[antennapedia]] gene in the Nasonia wasp. This project employed the use of a [[plasmid]] from a [[gene library]], [[restriction enzymes]], and [[Southern blotting]].
 ## 7.4: Human Genome Project
 - ### 7.4.1: The Human Gene Pool
 - ### 7.4.2: The Human Genome Project: Recent Findings
